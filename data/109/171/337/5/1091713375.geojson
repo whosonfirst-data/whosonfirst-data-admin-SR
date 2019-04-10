@@ -1,0 +1,98 @@
+{
+  "id": 1091713375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000529,
+    "geom:area_square_m":6506866.859992,
+    "geom:bbox":"-55.2399319369,5.77977166709,-55.1911313195,5.79923931674",
+    "geom:latitude":5.791382,
+    "geom:longitude":-55.213232,
+    "iso:country":"SR",
+    "lbl:latitude":5.79207,
+    "lbl:longitude":-55.21286,
+    "meso:admin_1":"Paramaribo",
+    "meso:gadm_adm2":"Pontbuiten",
+    "meso:gadm_hasc2":"SR.PM.PB",
+    "meso:gaul_adm2":"Pontbuiten",
+    "meso:mps_x":-55.21286,
+    "meso:mps_y":5.79207,
+    "meso:name_en":"Pontbuiten",
+    "meso:source":"AOTM",
+    "mps:latitude":5.79207,
+    "mps:longitude":-55.21286,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Pontbuiten"
+    ],
+    "name:eng_x_preferred":[
+        "Pontbuiten"
+    ],
+    "name:fre_x_preferred":[
+        "Pontbuiten"
+    ],
+    "name:ita_x_preferred":[
+        "Pontbuiten"
+    ],
+    "name:spa_x_preferred":[
+        "Pontbuiten"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2004-08-02",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2004-08-02",
+    "statoids:capital":"",
+    "statoids:country":"SR",
+    "statoids:hasc":"SR.PM",
+    "statoids:name":"Pontbuiten",
+    "statoids:population":"19477",
+    "statoids:statoid":"SR.PM.PB",
+    "statoids:timezone":"-3",
+    "statoids:type":"ressort",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"SR.PM.PB",
+        "wd:id":"Q2280468"
+    },
+    "wof:country":"SR",
+    "wof:created":1473880298,
+    "wof:geomhash":"d0e20f0ea971e7efcedad528f67367b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091713375,
+            "region_id":85677337
+        }
+    ],
+    "wof:id":1091713375,
+    "wof:lastmodified":1536614990,
+    "wof:name":"Pontbuiten",
+    "wof:parent_id":85677337,
+    "wof:placetype":"county",
+    "wof:placetype_local":"ressort",
+    "wof:population":19477,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:shortcode":"PB",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.23993193692214,
+    5.77977166709061,
+    -55.19113131946374,
+    5.79923931673588
+],
+  "geometry": {"coordinates":[[[-55.23893651739721,5.78967064940526],[-55.2383379389225,5.78987577851841],[-55.23346230681196,5.79770876125338],[-55.23096115516982,5.79923931673588],[-55.2284337252791,5.79915364114637],[-55.22843562021504,5.79916547546847],[-55.21198825680423,5.7981156437614],[-55.20080169982653,5.79740160820963],[-55.19442313106689,5.79399970487116],[-55.19416546918828,5.79307201474413],[-55.19278000439465,5.78808376418375],[-55.19139453960103,5.78309551362337],[-55.19113131946374,5.78172240651707],[-55.19198068029834,5.77977166709061],[-55.20489707374319,5.78501310211171],[-55.20519944466962,5.78522794461206],[-55.20561376417861,5.78511548645962],[-55.23993193692214,5.7891579779858],[-55.23893651739721,5.78967064940526]]],"type":"Polygon"}
+}

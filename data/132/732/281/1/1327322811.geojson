@@ -1,0 +1,70 @@
+{
+  "id": 1327322811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.03478,5.24493,-55.03478,5.24493",
+    "geom:latitude":5.24493,
+    "geom:longitude":-55.03478,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Moederzorg",
+    "gn:country_code":"SR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3383498,
+    "gn:latitude":5.24493,
+    "gn:longitude":-55.03478,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Moederzorg",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Moederzorg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677313,
+        1091711813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3383498
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"b82f031a5098257b24bc1d93c69bb20d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091711813,
+            "locality_id":1327322811,
+            "region_id":85677313
+        }
+    ],
+    "wof:id":1327322811,
+    "wof:lastmodified":1537701368,
+    "wof:name":"Moederzorg",
+    "wof:parent_id":1091711813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.03478000000001,
+    5.24493,
+    -55.03478000000001,
+    5.24493
+],
+  "geometry": {"coordinates":[-55.03478000000001,5.24493],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1225920353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.56768,5.8542,-55.56768,5.8542",
+    "geom:latitude":5.8542,
+    "geom:longitude":-55.56768,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Catharina Sophia",
+    "gn:country_code":"SR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3384444,
+    "gn:latitude":5.8542,
+    "gn:longitude":-55.56768,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Catharina Sophia",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Catharina Sofia",
+        "Catharina Sophia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677341,
+        1091712423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3384444
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"fe1ee75b429999603f41cfd9c85be312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091712423,
+            "locality_id":1225920353,
+            "region_id":85677341
+        }
+    ],
+    "wof:id":1225920353,
+    "wof:lastmodified":1537701376,
+    "wof:name":"Catharina Sophia",
+    "wof:parent_id":1091712423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.56768,
+    5.8542,
+    -55.56768,
+    5.8542
+],
+  "geometry": {"coordinates":[-55.56768,5.8542],"type":"Point"}
+}

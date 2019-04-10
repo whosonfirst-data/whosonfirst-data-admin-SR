@@ -1,0 +1,72 @@
+{
+  "id": 1242755943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.97275,5.85956,-54.97275,5.85956",
+    "geom:latitude":5.85956,
+    "geom:longitude":-54.97275,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Spieringshoek",
+    "gn:country_code":"SR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3383029,
+    "gn:latitude":5.85956,
+    "gn:longitude":-54.97275,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Spieringshoek",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spierinshoek",
+        "Speeringhoek",
+        "Spieringshoek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677329,
+        1091711865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3383029
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"cd16931cbb084b1ceb232171f37e290a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091711865,
+            "locality_id":1242755943,
+            "region_id":85677329
+        }
+    ],
+    "wof:id":1242755943,
+    "wof:lastmodified":1537701363,
+    "wof:name":"Spieringshoek",
+    "wof:parent_id":1091711865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.97275,
+    5.85956,
+    -54.97275,
+    5.85956
+],
+  "geometry": {"coordinates":[-54.97275,5.85956],"type":"Point"}
+}

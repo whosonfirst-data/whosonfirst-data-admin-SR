@@ -1,0 +1,67 @@
+{
+  "id": 1209682029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.78333,4.08333,-54.78333,4.08333",
+    "geom:latitude":4.08333,
+    "geom:longitude":-54.78333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Pikienkondre",
+    "gn:cc2":"SR",
+    "gn:country_code":"SR",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3383278,
+    "gn:latitude":4.08333,
+    "gn:longitude":-54.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pikienkondre",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Miranda",
+        "Pikinkondre",
+        "Pikienkondre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3383278
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"ce64dbe0f5020181f4275954c2a4501f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632443,
+            "locality_id":1209682029
+        }
+    ],
+    "wof:id":1209682029,
+    "wof:lastmodified":1537701366,
+    "wof:name":"Pikienkondre",
+    "wof:parent_id":85632443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.78333000000001,
+    4.08333,
+    -54.78333000000001,
+    4.08333
+],
+  "geometry": {"coordinates":[-54.78333000000001,4.08333],"type":"Point"}
+}

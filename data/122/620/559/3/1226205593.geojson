@@ -1,0 +1,72 @@
+{
+  "id": 1226205593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.35696,4.45333,-55.35696,4.45333",
+    "geom:latitude":4.45333,
+    "geom:longitude":-55.35696,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Abenaston",
+    "gn:country_code":"SR",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3384859,
+    "gn:latitude":4.45333,
+    "gn:longitude":-55.35696,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Abenaston",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abene-oton",
+        "Abenaston"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677323,
+        1091712805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3384859,
+        "wk:page":"Abenaston"
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"243ffc9782c9d35b1563293c468fc2d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091712805,
+            "locality_id":1226205593,
+            "region_id":85677323
+        }
+    ],
+    "wof:id":1226205593,
+    "wof:lastmodified":1537701380,
+    "wof:name":"Abenaston",
+    "wof:parent_id":1091712805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.35696,
+    4.45333,
+    -55.35696,
+    4.45333
+],
+  "geometry": {"coordinates":[-55.35696,4.45333],"type":"Point"}
+}

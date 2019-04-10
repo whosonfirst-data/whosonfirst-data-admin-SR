@@ -1,0 +1,64 @@
+{
+  "id": 1209503507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.07098,5.90666,-55.07098,5.90666",
+    "geom:latitude":5.90666,
+    "geom:longitude":-55.07098,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Johannesburg",
+    "gn:country_code":"SR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3383989,
+    "gn:latitude":5.90666,
+    "gn:longitude":-55.07098,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Johannesburg",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Johannesburg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3383989
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"1b726b91709d12ee4939cc96b9c39dd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632443,
+            "locality_id":1209503507
+        }
+    ],
+    "wof:id":1209503507,
+    "wof:lastmodified":1537701371,
+    "wof:name":"Johannesburg",
+    "wof:parent_id":85632443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.07098000000001,
+    5.90666,
+    -55.07098000000001,
+    5.90666
+],
+  "geometry": {"coordinates":[-55.07098000000001,5.90666],"type":"Point"}
+}

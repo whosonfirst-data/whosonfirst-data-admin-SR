@@ -1,0 +1,70 @@
+{
+  "id": 1309976421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.1,5.24986,-56.1,5.24986",
+    "geom:latitude":5.24986,
+    "geom:longitude":-56.1,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sabaroe",
+    "gn:country_code":"SR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3383148,
+    "gn:latitude":5.24986,
+    "gn:longitude":-56.1,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Sabaroe",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Sabaroe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677323,
+        1091712919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3383148
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"54122bbde6d816e70b71ab59e998f7f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091712919,
+            "locality_id":1309976421,
+            "region_id":85677323
+        }
+    ],
+    "wof:id":1309976421,
+    "wof:lastmodified":1537701364,
+    "wof:name":"Sabaroe",
+    "wof:parent_id":1091712919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.1,
+    5.24986,
+    -56.1,
+    5.24986
+],
+  "geometry": {"coordinates":[-56.1,5.24986],"type":"Point"}
+}

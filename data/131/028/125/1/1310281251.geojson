@@ -1,0 +1,67 @@
+{
+  "id": 1310281251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.89348,5.77928,-55.89348,5.77928",
+    "geom:latitude":5.77928,
+    "geom:longitude":-55.89348,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Boskamp",
+    "gn:country_code":"SR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3384407,
+    "gn:latitude":5.77928,
+    "gn:longitude":-55.89348,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Boskamp",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coppenamepunt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3384407,
+        "wk:page":"Boskamp%2C_Suriname"
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"8408c38cbc1b7e06c88e1d3a59a2f11e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1310281251,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310281251,
+    "wof:lastmodified":1537701375,
+    "wof:name":"Boskamp",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.89348,
+    5.77928,
+    -55.89348,
+    5.77928
+],
+  "geometry": {"coordinates":[-55.89348,5.77928],"type":"Point"}
+}

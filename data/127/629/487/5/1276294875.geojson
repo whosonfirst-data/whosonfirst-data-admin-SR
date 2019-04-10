@@ -1,0 +1,68 @@
+{
+  "id": 1276294875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.46812,4.0229,-55.46812,4.0229",
+    "geom:latitude":4.0229,
+    "geom:longitude":-55.46812,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Djoemoe",
+    "gn:country_code":"SR",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3384316,
+    "gn:latitude":4.0229,
+    "gn:longitude":-55.46812,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Djoemoe",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677323,
+        1091712805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3384316,
+        "wk:page":"Djumu"
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"a3abd2804f9fd3b8a5d606655fdcdc27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091712805,
+            "locality_id":1276294875,
+            "region_id":85677323
+        }
+    ],
+    "wof:id":1276294875,
+    "wof:lastmodified":1537573759,
+    "wof:name":"Djoemoe",
+    "wof:parent_id":1091712805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.46811999999999,
+    4.0229,
+    -55.46811999999999,
+    4.0229
+],
+  "geometry": {"coordinates":[-55.46811999999999,4.0229],"type":"Point"}
+}

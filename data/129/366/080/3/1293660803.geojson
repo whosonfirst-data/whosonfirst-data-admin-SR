@@ -1,0 +1,70 @@
+{
+  "id": 1293660803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.4242,5.75725,-55.4242,5.75725",
+    "geom:latitude":5.75725,
+    "geom:longitude":-55.4242,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"La Poule",
+    "gn:country_code":"SR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3383732,
+    "gn:latitude":5.75725,
+    "gn:longitude":-55.4242,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"La Poule",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "La Poule"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677341,
+        1091711621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3383732
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"0ef9ee0561a1e034ee5b701debdc5838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091711621,
+            "locality_id":1293660803,
+            "region_id":85677341
+        }
+    ],
+    "wof:id":1293660803,
+    "wof:lastmodified":1537701370,
+    "wof:name":"La Poule",
+    "wof:parent_id":1091711621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.4242,
+    5.75725,
+    -55.4242,
+    5.75725
+],
+  "geometry": {"coordinates":[-55.4242,5.75725],"type":"Point"}
+}

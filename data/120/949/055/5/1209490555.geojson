@@ -1,0 +1,64 @@
+{
+  "id": 1209490555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.31166,5.77532,-55.31166,5.77532",
+    "geom:latitude":5.77532,
+    "geom:longitude":-55.31166,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Dorpsgemeente",
+    "gn:country_code":"SR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10349654,
+    "gn:latitude":5.77532,
+    "gn:longitude":-55.31166,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Dorpsgemeente",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Dorpsgemeente"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10349654
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"de6f492f31470d0f2e222daa1ff4ba79",
+    "wof:hierarchy":[
+        {
+            "country_id":85632443,
+            "locality_id":1209490555
+        }
+    ],
+    "wof:id":1209490555,
+    "wof:lastmodified":1537701380,
+    "wof:name":"Dorpsgemeente",
+    "wof:parent_id":85632443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.31166,
+    5.77532,
+    -55.31166,
+    5.77532
+],
+  "geometry": {"coordinates":[-55.31166,5.77532],"type":"Point"}
+}

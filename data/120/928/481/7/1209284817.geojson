@@ -1,0 +1,64 @@
+{
+  "id": 1209284817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.80725,5.51058,-54.80725,5.51058",
+    "geom:latitude":5.51058,
+    "geom:longitude":-54.80725,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Copie",
+    "gn:country_code":"SR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3384410,
+    "gn:latitude":5.51058,
+    "gn:longitude":-54.80725,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Copie",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Copie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3384410
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"69415b3695803c4921a7468406561f92",
+    "wof:hierarchy":[
+        {
+            "country_id":85632443,
+            "locality_id":1209284817
+        }
+    ],
+    "wof:id":1209284817,
+    "wof:lastmodified":1537701375,
+    "wof:name":"Copie",
+    "wof:parent_id":85632443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.80725,
+    5.51058,
+    -54.80725,
+    5.51058
+],
+  "geometry": {"coordinates":[-54.80725,5.51058],"type":"Point"}
+}

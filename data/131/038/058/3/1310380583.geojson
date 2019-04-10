@@ -1,0 +1,70 @@
+{
+  "id": 1310380583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.24966,5.78046,-55.24966,5.78046",
+    "geom:latitude":5.78046,
+    "geom:longitude":-55.24966,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Magenta",
+    "gn:country_code":"SR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10349657,
+    "gn:latitude":5.78046,
+    "gn:longitude":-55.24966,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Magenta",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Magenta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677347,
+        1091713435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10349657
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"f0abd8ca2c68b0de63acfe41a18534a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091713435,
+            "locality_id":1310380583,
+            "region_id":85677347
+        }
+    ],
+    "wof:id":1310380583,
+    "wof:lastmodified":1537701380,
+    "wof:name":"Magenta",
+    "wof:parent_id":1091713435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.24966,
+    5.78046,
+    -55.24966,
+    5.78046
+],
+  "geometry": {"coordinates":[-55.24966,5.78046],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343235331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.05,5.66667,-55.05,5.66667",
+    "geom:latitude":5.66667,
+    "geom:longitude":-55.05,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Waterland",
+    "gn:country_code":"SR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3382736,
+    "gn:latitude":5.66667,
+    "gn:longitude":-55.05,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Waterland",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Waterland"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677319,
+        1091712133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3382736
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"edd033fe561b064850a00b2df216022d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091712133,
+            "locality_id":1343235331,
+            "region_id":85677319
+        }
+    ],
+    "wof:id":1343235331,
+    "wof:lastmodified":1537701361,
+    "wof:name":"Waterland",
+    "wof:parent_id":1091712133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.05,
+    5.66667,
+    -55.05,
+    5.66667
+],
+  "geometry": {"coordinates":[-55.05,5.66667],"type":"Point"}
+}

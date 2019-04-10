@@ -1,0 +1,71 @@
+{
+  "id": 1344033501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.78739,4.32739,-55.78739,4.32739",
+    "geom:latitude":4.32739,
+    "geom:longitude":-55.78739,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Waaimakkaston",
+    "gn:country_code":"SR",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3382789,
+    "gn:latitude":4.32739,
+    "gn:longitude":-55.78739,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Waaimakkaston",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Waaikakaston",
+        "Waaimakkaston"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677323,
+        1091711303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3382789
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"01be1caa8a9dfe41776468e616fe3f64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091711303,
+            "locality_id":1344033501,
+            "region_id":85677323
+        }
+    ],
+    "wof:id":1344033501,
+    "wof:lastmodified":1537701361,
+    "wof:name":"Waaimakkaston",
+    "wof:parent_id":1091711303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.78739,
+    4.32739,
+    -55.78739,
+    4.32739
+],
+  "geometry": {"coordinates":[-55.78739,4.32739],"type":"Point"}
+}

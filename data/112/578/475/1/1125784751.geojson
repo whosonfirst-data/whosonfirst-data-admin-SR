@@ -1,0 +1,135 @@
+{
+  "id": 1125784751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.46667,5.8,-55.46667,5.8",
+    "geom:latitude":5.8,
+    "geom:longitude":-55.46667,
+    "gn:gn_country":"SR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3216,
+    "gn:population":3216,
+    "iso:country":"SR",
+    "lbl:latitude":5.8,
+    "lbl:longitude":-55.46667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u062c\u0631\u0648\u0646\u064a\u0646\u062c\u0646"
+    ],
+    "name:chi_x_preferred":[
+        "\u683c\u7f85\u5be7\u6839"
+    ],
+    "name:dut_x_preferred":[
+        "Groningen"
+    ],
+    "name:eng_x_preferred":[
+        "Groningen"
+    ],
+    "name:fra_x_preferred":[
+        "Groningen"
+    ],
+    "name:fre_x_preferred":[
+        "Groningen"
+    ],
+    "name:ger_x_preferred":[
+        "Groningen"
+    ],
+    "name:ita_x_preferred":[
+        "Groningen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30ed\u30fc\u30cb\u30f3\u30b2\u30f3"
+    ],
+    "name:lit_x_preferred":[
+        "Groningenas"
+    ],
+    "name:pol_x_preferred":[
+        "Groningen"
+    ],
+    "name:por_x_preferred":[
+        "Groningen"
+    ],
+    "name:rum_x_preferred":[
+        "Groningen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u043e\u043d\u0438\u043d\u0433\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Groningen"
+    ],
+    "name:srn_x_preferred":[
+        "Groningen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u043e\u043d\u0456\u043d\u0433\u0435\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0631\u0648\u0646\u0646\u06af\u0646\u060c \u0633\u0631\u06cc\u0646\u0627\u0645"
+    ],
+    "qs_pg:aaroncc":"SR",
+    "qs_pg:gn_country":"SR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3384125,
+    "qs_pg:gn_pop":3216,
+    "qs_pg:name":"Groningen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1044210,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677341,
+        1091711777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3384125,
+        "qs_pg:id":1044210,
+        "wd:id":"Q508935"
+    },
+    "wof:country":"SR",
+    "wof:created":1497290629,
+    "wof:geomhash":"fd7ee5583034eee1c351d4132d17a878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091711777,
+            "locality_id":1125784751,
+            "region_id":85677341
+        }
+    ],
+    "wof:id":1125784751,
+    "wof:lastmodified":1534379462,
+    "wof:name":"Groningen",
+    "wof:parent_id":1091711777,
+    "wof:placetype":"locality",
+    "wof:population":3216,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1141906229
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.46667,
+    5.8,
+    -55.46667,
+    5.8
+],
+  "geometry": {"coordinates":[-55.46667,5.8],"type":"Point"}
+}

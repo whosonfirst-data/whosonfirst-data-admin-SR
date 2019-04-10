@@ -1,0 +1,62 @@
+{
+  "id": 1209592759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.91087,5.76044,-55.91087,5.76044",
+    "geom:latitude":5.76044,
+    "geom:longitude":-55.91087,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Jenny",
+    "gn:country_code":"SR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3383998,
+    "gn:latitude":5.76044,
+    "gn:longitude":-55.91087,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Jenny",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3383998,
+        "wk:page":"Jenny%2C_Suriname"
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"ffb82513075ff1b28ddceeef8d01f361",
+    "wof:hierarchy":[
+        {
+            "country_id":85632443,
+            "locality_id":1209592759
+        }
+    ],
+    "wof:id":1209592759,
+    "wof:lastmodified":1537573758,
+    "wof:name":"Jenny",
+    "wof:parent_id":85632443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.91087,
+    5.76044,
+    -55.91087,
+    5.76044
+],
+  "geometry": {"coordinates":[-55.91087,5.76044],"type":"Point"}
+}

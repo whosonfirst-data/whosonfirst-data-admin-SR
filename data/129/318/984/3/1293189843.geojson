@@ -1,0 +1,72 @@
+{
+  "id": 1293189843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.99851,4.99383,-54.99851,4.99383",
+    "geom:latitude":4.99383,
+    "geom:longitude":-54.99851,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Afobaka",
+    "gn:country_code":"SR",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3384818,
+    "gn:latitude":4.99383,
+    "gn:longitude":-54.99851,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Afobaka",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Affobakka",
+        "Afobaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677313,
+        1091711733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3384818,
+        "wk:page":"Afobaka"
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"2b867b1df97855d588c4d834303e542e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091711733,
+            "locality_id":1293189843,
+            "region_id":85677313
+        }
+    ],
+    "wof:id":1293189843,
+    "wof:lastmodified":1537701379,
+    "wof:name":"Afobaka",
+    "wof:parent_id":1091711733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.99851,
+    4.99383,
+    -54.99851,
+    4.99383
+],
+  "geometry": {"coordinates":[-54.99851,4.99383],"type":"Point"}
+}

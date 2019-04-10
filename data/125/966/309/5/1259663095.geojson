@@ -1,0 +1,70 @@
+{
+  "id": 1259663095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.22681,5.30725,-54.22681,5.30725",
+    "geom:latitude":5.30725,
+    "geom:longitude":-54.22681,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Abenekokondre",
+    "gn:country_code":"SR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3384857,
+    "gn:latitude":5.30725,
+    "gn:longitude":-54.22681,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Abenekokondre",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Abenekokondre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677317,
+        1091712617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3384857
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"571e65357a5829a2aa413243e2cb905e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091712617,
+            "locality_id":1259663095,
+            "region_id":85677317
+        }
+    ],
+    "wof:id":1259663095,
+    "wof:lastmodified":1537701380,
+    "wof:name":"Abenekokondre",
+    "wof:parent_id":1091712617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.22681,
+    5.30725,
+    -54.22681,
+    5.30725
+],
+  "geometry": {"coordinates":[-54.22681,5.30725],"type":"Point"}
+}

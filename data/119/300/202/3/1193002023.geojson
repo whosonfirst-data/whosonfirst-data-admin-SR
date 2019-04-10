@@ -1,0 +1,71 @@
+{
+  "id": 1193002023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.18333,4.58333,-55.18333,4.58333",
+    "geom:latitude":4.58333,
+    "geom:longitude":-55.18333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Adawai",
+    "gn:country_code":"SR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3384838,
+    "gn:latitude":4.58333,
+    "gn:longitude":-55.18333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Adawai",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kapoa",
+        "Adawai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677313,
+        1091711271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3384838
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"0e6c9f007595397dac15988608dd0538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091711271,
+            "locality_id":1193002023,
+            "region_id":85677313
+        }
+    ],
+    "wof:id":1193002023,
+    "wof:lastmodified":1537701380,
+    "wof:name":"Adawai",
+    "wof:parent_id":1091711271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.18333000000001,
+    4.58333,
+    -55.18333000000001,
+    4.58333
+],
+  "geometry": {"coordinates":[-55.18333000000001,4.58333],"type":"Point"}
+}

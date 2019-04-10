@@ -1,0 +1,65 @@
+{
+  "id": 1209293867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.03609,5.52536,-54.03609,5.52536",
+    "geom:latitude":5.52536,
+    "geom:longitude":-54.03609,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Bamboesi",
+    "gn:country_code":"SR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3384642,
+    "gn:latitude":5.52536,
+    "gn:longitude":-54.03609,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Bamboesi",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bamboesie",
+        "Bamboesi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3384642
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"08207ce623acf35820aeb4843b1b6f9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632443,
+            "locality_id":1209293867
+        }
+    ],
+    "wof:id":1209293867,
+    "wof:lastmodified":1537701377,
+    "wof:name":"Bamboesi",
+    "wof:parent_id":85632443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.03609,
+    5.52536,
+    -54.03609,
+    5.52536
+],
+  "geometry": {"coordinates":[-54.03609,5.52536],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 1126064359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.186,5.8099,-55.186,5.8099",
+    "geom:latitude":5.8099,
+    "geom:longitude":-55.186,
+    "gn:gn_country":"SR",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":5.8099,
+    "gn:longitude":-55.18599,
+    "iso:country":"SR",
+    "lbl:latitude":5.8099,
+    "lbl:longitude":-55.186,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:nld_x_preferred":[
+        "Zorg en Hoop"
+    ],
+    "name:unk_x_variant":[
+        "Zorg en Hoop"
+    ],
+    "qs_pg:aaroncc":"SR",
+    "qs_pg:gn_country":"SR",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3382648,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Zorg en Hoop",
+    "qs_pg:name_adm0":"Suriname",
+    "qs_pg:name_adm1":"Paramaribo",
+    "qs_pg:photos":338,
+    "qs_pg:photos_1k":68,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":338,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165369,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424913,
+    "qs_pg:woe_id":377225,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424913,
+    "woe:name_adm0":"Suriname",
+    "woe:name_adm1":"Paramaribo",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85677337,
+        102191577,
+        85632443,
+        1091713295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3382648,
+        "gp:id":377225,
+        "qs:id":1165369,
+        "qs_pg:id":1165369
+    },
+    "wof:country":"SR",
+    "wof:created":1497308625,
+    "wof:geomhash":"5cf19f1d59e40060eadc8790deea19a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091713295,
+            "locality_id":-1,
+            "neighbourhood_id":1126064359,
+            "region_id":85677337
+        }
+    ],
+    "wof:id":1126064359,
+    "wof:lastmodified":1534379462,
+    "wof:name":"Zorg en Hoop",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85764865
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.186,
+    5.8099,
+    -55.186,
+    5.8099
+],
+  "geometry": {"coordinates":[-55.186,5.8099],"type":"Point"}
+}

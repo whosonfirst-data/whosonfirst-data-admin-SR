@@ -1,0 +1,117 @@
+{
+  "id": 421174659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.15,5.0,-55.15,5.0",
+    "geom:latitude":5.0,
+    "geom:longitude":-55.15,
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Brownsweg"
+    ],
+    "name:dut_x_preferred":[
+        "Brownsweg"
+    ],
+    "name:eng_x_preferred":[
+        "Brownsweg"
+    ],
+    "name:fre_x_preferred":[
+        "Brownsweg"
+    ],
+    "name:ger_x_preferred":[
+        "Brownsweg"
+    ],
+    "name:ita_x_preferred":[
+        "Brownsweg"
+    ],
+    "name:nld_x_preferred":[
+        "Brownsweg"
+    ],
+    "name:pol_x_preferred":[
+        "Brownsweg"
+    ],
+    "name:por_x_preferred":[
+        "Brownsweg"
+    ],
+    "name:ron_x_preferred":[
+        "Brownsweg"
+    ],
+    "name:rum_x_preferred":[
+        "Brownsweg"
+    ],
+    "name:spa_x_preferred":[
+        "Brownsweg"
+    ],
+    "name:srn_x_preferred":[
+        "Brownsweg"
+    ],
+    "qs:gn_country":"SR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3384476,
+    "qs:gn_pop":0,
+    "qs:name":"Brownsweg",
+    "qs:name_adm0":"Suriname",
+    "qs:name_adm1":"Brokopondo",
+    "qs:photos":114,
+    "qs:photos_1k":23,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":114,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":893983,
+    "qs:woe_adm0":23424913,
+    "qs:woe_id":377254,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677313,
+        1091711271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3384476,
+        "gp:id":377254,
+        "qs:id":893983,
+        "wd:id":"Q927447"
+    },
+    "wof:country":"SR",
+    "wof:created":1459009039,
+    "wof:geomhash":"a54afa4810a94f914b7ed963dc5797f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091711271,
+            "locality_id":421174659,
+            "region_id":85677313
+        }
+    ],
+    "wof:id":421174659,
+    "wof:lastmodified":1527716226,
+    "wof:name":"Brownsweg",
+    "wof:parent_id":1091711271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.15,
+    5.0,
+    -55.15,
+    5.0
+],
+  "geometry": {"coordinates":[-55.15,5.0],"type":"Point"}
+}

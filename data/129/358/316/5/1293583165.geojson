@@ -1,0 +1,70 @@
+{
+  "id": 1293583165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.07741,4.89695,-55.07741,4.89695",
+    "geom:latitude":4.89695,
+    "geom:longitude":-55.07741,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kapasie Kree",
+    "gn:country_code":"SR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3383934,
+    "gn:latitude":4.89695,
+    "gn:longitude":-55.07741,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Kapasie Kree",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Kapasie Kree"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677313,
+        1091711271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3383934
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"25a9e6cb8480b5fb0d1bce466555d229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091711271,
+            "locality_id":1293583165,
+            "region_id":85677313
+        }
+    ],
+    "wof:id":1293583165,
+    "wof:lastmodified":1537701371,
+    "wof:name":"Kapasie Kree",
+    "wof:parent_id":1091711271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.07741,
+    4.89695,
+    -55.07741,
+    4.89695
+],
+  "geometry": {"coordinates":[-55.07741,4.89695],"type":"Point"}
+}

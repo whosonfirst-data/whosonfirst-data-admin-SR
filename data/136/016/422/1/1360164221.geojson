@@ -1,0 +1,70 @@
+{
+  "id": 1360164221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.19928,5.63044,-54.19928,5.63044",
+    "geom:latitude":5.63044,
+    "geom:longitude":-54.19928,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Basiakampoe",
+    "gn:country_code":"SR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3384632,
+    "gn:latitude":5.63044,
+    "gn:longitude":-54.19928,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Basiakampoe",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Basiakampoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677317,
+        1091711353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3384632
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"c0f4ca0cf2e43d88bdbdd4fd96fcca90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091711353,
+            "locality_id":1360164221,
+            "region_id":85677317
+        }
+    ],
+    "wof:id":1360164221,
+    "wof:lastmodified":1537701377,
+    "wof:name":"Basiakampoe",
+    "wof:parent_id":1091711353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.19928,
+    5.63044,
+    -54.19928,
+    5.63044
+],
+  "geometry": {"coordinates":[-54.19928,5.63044],"type":"Point"}
+}

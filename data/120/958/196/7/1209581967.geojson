@@ -1,0 +1,65 @@
+{
+  "id": 1209581967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.59203,4.18304,-54.59203,4.18304",
+    "geom:latitude":4.18304,
+    "geom:longitude":-54.59203,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Clementie",
+    "gn:country_code":"SR",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3384430,
+    "gn:latitude":4.18304,
+    "gn:longitude":-54.59203,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Clementie",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Clementi",
+        "Clementie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3384430
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"875eb36ebf60f1d59e87e8ac75f93c41",
+    "wof:hierarchy":[
+        {
+            "country_id":85632443,
+            "locality_id":1209581967
+        }
+    ],
+    "wof:id":1209581967,
+    "wof:lastmodified":1537701375,
+    "wof:name":"Clementie",
+    "wof:parent_id":85632443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.59203,
+    4.18304,
+    -54.59203,
+    4.18304
+],
+  "geometry": {"coordinates":[-54.59203,4.18304],"type":"Point"}
+}

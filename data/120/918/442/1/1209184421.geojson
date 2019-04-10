@@ -1,0 +1,65 @@
+{
+  "id": 1209184421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.32681,5.44971,-55.32681,5.44971",
+    "geom:latitude":5.44971,
+    "geom:longitude":-55.32681,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Matta",
+    "gn:country_code":"SR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3383543,
+    "gn:latitude":5.44971,
+    "gn:longitude":-55.32681,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Matta",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mata",
+        "Matta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3383543
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"fdfa6fda101e4bafdaabe7b28b01d68e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632443,
+            "locality_id":1209184421
+        }
+    ],
+    "wof:id":1209184421,
+    "wof:lastmodified":1537701368,
+    "wof:name":"Matta",
+    "wof:parent_id":85632443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.32681,
+    5.44971,
+    -55.32681,
+    5.44971
+],
+  "geometry": {"coordinates":[-55.32681,5.44971],"type":"Point"}
+}

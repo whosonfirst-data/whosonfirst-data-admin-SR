@@ -1,0 +1,65 @@
+{
+  "id": 1209297839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.90384,5.89783,-56.90384,5.89783",
+    "geom:latitude":5.89783,
+    "geom:longitude":-56.90384,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Paradijs",
+    "gn:country_code":"SR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3383334,
+    "gn:latitude":5.89783,
+    "gn:longitude":-56.90384,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Paradijs",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paradise"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3383334,
+        "wk:page":"Paradise_%28Suriname%29"
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"406d67148da5da26071a33bfbb6bac03",
+    "wof:hierarchy":[
+        {
+            "country_id":85632443,
+            "locality_id":1209297839
+        }
+    ],
+    "wof:id":1209297839,
+    "wof:lastmodified":1537701366,
+    "wof:name":"Paradijs",
+    "wof:parent_id":85632443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.90384,
+    5.89783,
+    -56.90384,
+    5.89783
+],
+  "geometry": {"coordinates":[-56.90384,5.89783],"type":"Point"}
+}

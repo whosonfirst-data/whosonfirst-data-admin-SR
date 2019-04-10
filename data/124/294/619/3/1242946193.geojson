@@ -1,0 +1,70 @@
+{
+  "id": 1242946193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.99072,5.43072,-54.99072,5.43072",
+    "geom:latitude":5.43072,
+    "geom:longitude":-54.99072,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Gelderland",
+    "gn:country_code":"SR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3384205,
+    "gn:latitude":5.43072,
+    "gn:longitude":-54.99072,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Gelderland",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Gelderland"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677319,
+        1091712133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3384205
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"d8fc89d55edc195222bd1f6951eac45d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091712133,
+            "locality_id":1242946193,
+            "region_id":85677319
+        }
+    ],
+    "wof:id":1242946193,
+    "wof:lastmodified":1537701373,
+    "wof:name":"Gelderland",
+    "wof:parent_id":1091712133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.99072,
+    5.43072,
+    -54.99072,
+    5.43072
+],
+  "geometry": {"coordinates":[-54.99072,5.43072],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209485609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.65102,5.37188,-54.65102,5.37188",
+    "geom:latitude":5.37188,
+    "geom:longitude":-54.65102,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Grankopi",
+    "gn:country_code":"SR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3384154,
+    "gn:latitude":5.37188,
+    "gn:longitude":-54.65102,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Grankopi",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grankopie",
+        "Grankopi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3384154
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"b22f59c8887709732ac877c63a990b44",
+    "wof:hierarchy":[
+        {
+            "country_id":85632443,
+            "locality_id":1209485609
+        }
+    ],
+    "wof:id":1209485609,
+    "wof:lastmodified":1537701373,
+    "wof:name":"Grankopi",
+    "wof:parent_id":85632443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.65102,
+    5.37188,
+    -54.65102,
+    5.37188
+],
+  "geometry": {"coordinates":[-54.65102,5.37188],"type":"Point"}
+}

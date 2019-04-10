@@ -1,0 +1,70 @@
+{
+  "id": 1343738221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.42261,5.08565,-54.42261,5.08565",
+    "geom:latitude":5.08565,
+    "geom:longitude":-54.42261,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Gonoe",
+    "gn:country_code":"SR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3384176,
+    "gn:latitude":5.08565,
+    "gn:longitude":-54.42261,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Gonoe",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Gonoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677323,
+        1091713471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3384176
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"aa5e682811c53c25eaf16ea15f9fc9c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091713471,
+            "locality_id":1343738221,
+            "region_id":85677323
+        }
+    ],
+    "wof:id":1343738221,
+    "wof:lastmodified":1537701373,
+    "wof:name":"Gonoe",
+    "wof:parent_id":1091713471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.42261,
+    5.08565,
+    -54.42261,
+    5.08565
+],
+  "geometry": {"coordinates":[-54.42261,5.08565],"type":"Point"}
+}

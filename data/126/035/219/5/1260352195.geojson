@@ -1,0 +1,67 @@
+{
+  "id": 1260352195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.5,3.98333,-55.5,3.98333",
+    "geom:latitude":3.98333,
+    "geom:longitude":-55.5,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Baloemadam",
+    "gn:country_code":"SR",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3384646,
+    "gn:latitude":3.98333,
+    "gn:longitude":-55.5,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Baloemadam",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677323,
+        1091712805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3384646
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"7bdf86d5efe6b7ada4fb88535a46ba70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091712805,
+            "locality_id":1260352195,
+            "region_id":85677323
+        }
+    ],
+    "wof:id":1260352195,
+    "wof:lastmodified":1536617805,
+    "wof:name":"Baloemadam",
+    "wof:parent_id":1091712805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.5,
+    3.98333,
+    -55.5,
+    3.98333
+],
+  "geometry": {"coordinates":[-55.5,3.98333],"type":"Point"}
+}

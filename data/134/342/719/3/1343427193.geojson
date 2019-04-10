@@ -1,0 +1,67 @@
+{
+  "id": 1343427193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.68333,4.58333,-55.68333,4.58333",
+    "geom:latitude":4.58333,
+    "geom:longitude":-55.68333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Wittiehede Ston",
+    "gn:country_code":"SR",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3382688,
+    "gn:latitude":4.58333,
+    "gn:longitude":-55.68333,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Wittiehede Ston",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677323,
+        1091711303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3382688
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"6b8e3190b42e47ba2bb7ab884790f4cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091711303,
+            "locality_id":1343427193,
+            "region_id":85677323
+        }
+    ],
+    "wof:id":1343427193,
+    "wof:lastmodified":1536794627,
+    "wof:name":"Wittiehede Ston",
+    "wof:parent_id":1091711303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.68333000000001,
+    4.58333,
+    -55.68333000000001,
+    4.58333
+],
+  "geometry": {"coordinates":[-55.68333000000001,4.58333],"type":"Point"}
+}

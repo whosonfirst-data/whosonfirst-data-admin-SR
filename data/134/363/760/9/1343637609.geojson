@@ -1,0 +1,73 @@
+{
+  "id": 1343637609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.89333,5.6616,-55.89333,5.6616",
+    "geom:latitude":5.6616,
+    "geom:longitude":-55.89333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Kalebaskr.",
+    "gn:country_code":"SR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3383960,
+    "gn:latitude":5.6616,
+    "gn:longitude":-55.89333,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Kalebaskr.",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Kalebaskr."
+    ],
+    "name:und_x_variant":[
+        "Kalebas Kreek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677341,
+        1091712727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3383960
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"d55538dea2c6afa5a42bc90f72c5e5fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091712727,
+            "locality_id":1343637609,
+            "region_id":85677341
+        }
+    ],
+    "wof:id":1343637609,
+    "wof:lastmodified":1537701371,
+    "wof:name":"Kalebaskr.",
+    "wof:parent_id":1091712727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.89333000000001,
+    5.6616,
+    -55.89333000000001,
+    5.6616
+],
+  "geometry": {"coordinates":[-55.89333000000001,5.6616],"type":"Point"}
+}

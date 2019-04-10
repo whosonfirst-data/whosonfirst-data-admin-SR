@@ -1,0 +1,70 @@
+{
+  "id": 1209485733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.20517,5.45666,-55.20517,5.45666",
+    "geom:latitude":5.45666,
+    "geom:longitude":-55.20517,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Zanderij",
+    "gn:country_code":"SR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3382670,
+    "gn:latitude":5.45666,
+    "gn:longitude":-55.20517,
+    "gn:modification_date":"2016-06-12",
+    "gn:name":"Zanderij",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zanderij"
+    ],
+    "name:und_x_variant":[
+        "Zanderij I",
+        "Zandery",
+        "Zanderij"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3382670,
+        "wk:page":"Zanderij"
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"b22a37316f9a6a2fd08d7a3da775a7a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632443,
+            "locality_id":1209485733
+        }
+    ],
+    "wof:id":1209485733,
+    "wof:lastmodified":1537701360,
+    "wof:name":"Zanderij",
+    "wof:parent_id":85632443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.20517,
+    5.45666,
+    -55.20517,
+    5.45666
+],
+  "geometry": {"coordinates":[-55.20517,5.45666],"type":"Point"}
+}

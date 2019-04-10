@@ -1,0 +1,64 @@
+{
+  "id": 1209277567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.68102,5.36783,-54.68102,5.36783",
+    "geom:latitude":5.36783,
+    "geom:longitude":-54.68102,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Moismois Kondre",
+    "gn:country_code":"SR",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3383485,
+    "gn:latitude":5.36783,
+    "gn:longitude":-54.68102,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Moismois Kondre",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moisimoisikondre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3383485
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"b78ed7bc3ce5009ce622ffa769e4c355",
+    "wof:hierarchy":[
+        {
+            "country_id":85632443,
+            "locality_id":1209277567
+        }
+    ],
+    "wof:id":1209277567,
+    "wof:lastmodified":1537701367,
+    "wof:name":"Moismois Kondre",
+    "wof:parent_id":85632443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.68102,
+    5.36783,
+    -54.68102,
+    5.36783
+],
+  "geometry": {"coordinates":[-54.68102,5.36783],"type":"Point"}
+}

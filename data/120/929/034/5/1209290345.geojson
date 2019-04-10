@@ -1,0 +1,66 @@
+{
+  "id": 1209290345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.42954,4.17599,-55.42954,4.17599",
+    "geom:latitude":4.17599,
+    "geom:longitude":-55.42954,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Malobbi",
+    "gn:cc2":"SR",
+    "gn:country_code":"SR",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3383626,
+    "gn:latitude":4.17599,
+    "gn:longitude":-55.42954,
+    "gn:modification_date":"2013-05-16",
+    "gn:name":"Malobbi",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manlobi",
+        "Malobbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3383626
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"aae3bc75e950913efce0f0e28343c2a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632443,
+            "locality_id":1209290345
+        }
+    ],
+    "wof:id":1209290345,
+    "wof:lastmodified":1537701368,
+    "wof:name":"Malobbi",
+    "wof:parent_id":85632443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.42954,
+    4.17599,
+    -55.42954,
+    4.17599
+],
+  "geometry": {"coordinates":[-55.42954,4.17599],"type":"Point"}
+}

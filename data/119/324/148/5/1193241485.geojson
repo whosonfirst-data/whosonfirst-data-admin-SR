@@ -1,0 +1,70 @@
+{
+  "id": 1193241485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-55.54373,4.98251,-55.54373,4.98251",
+    "geom:latitude":4.98251,
+    "geom:longitude":-55.54373,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Bofe",
+    "gn:country_code":"SR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3384548,
+    "gn:latitude":4.98251,
+    "gn:longitude":-55.54373,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Bofe",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Bofe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677323,
+        1091711303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3384548
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"33980f2b0513da2647ee3e8498c946bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091711303,
+            "locality_id":1193241485,
+            "region_id":85677323
+        }
+    ],
+    "wof:id":1193241485,
+    "wof:lastmodified":1537701376,
+    "wof:name":"Bofe",
+    "wof:parent_id":1091711303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -55.54373,
+    4.98251,
+    -55.54373,
+    4.98251
+],
+  "geometry": {"coordinates":[-55.54373,4.98251],"type":"Point"}
+}

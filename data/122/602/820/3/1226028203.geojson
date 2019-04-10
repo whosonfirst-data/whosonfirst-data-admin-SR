@@ -1,0 +1,67 @@
+{
+  "id": 1226028203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-56.85,5.85,-56.85,5.85",
+    "geom:latitude":5.85,
+    "geom:longitude":-56.85,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Nooitgedacht",
+    "gn:country_code":"SR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3383412,
+    "gn:latitude":5.85,
+    "gn:longitude":-56.85,
+    "gn:modification_date":"1993-12-15",
+    "gn:name":"Nooitgedacht",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677307,
+        1091712689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3383412
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"bb56730e155ba4e483ac6b1012900e8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091712689,
+            "locality_id":1226028203,
+            "region_id":85677307
+        }
+    ],
+    "wof:id":1226028203,
+    "wof:lastmodified":1536750360,
+    "wof:name":"Nooitgedacht",
+    "wof:parent_id":1091712689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -56.85,
+    5.85,
+    -56.85,
+    5.85
+],
+  "geometry": {"coordinates":[-56.85,5.85],"type":"Point"}
+}

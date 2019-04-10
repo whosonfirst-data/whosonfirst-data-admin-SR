@@ -1,0 +1,65 @@
+{
+  "id": 1209601493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.37073,5.77449,-54.37073,5.77449",
+    "geom:latitude":5.77449,
+    "geom:longitude":-54.37073,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Pikien Santi",
+    "gn:country_code":"SR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3383268,
+    "gn:latitude":5.77449,
+    "gn:longitude":-54.37073,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Pikien Santi",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"SR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pikien Santie",
+        "Pikien Santi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3383268
+    },
+    "wof:country":"SR",
+    "wof:geomhash":"21185e8629890d58e10a0474a90c2394",
+    "wof:hierarchy":[
+        {
+            "country_id":85632443,
+            "locality_id":1209601493
+        }
+    ],
+    "wof:id":1209601493,
+    "wof:lastmodified":1537701365,
+    "wof:name":"Pikien Santi",
+    "wof:parent_id":85632443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.37073,
+    5.77449,
+    -54.37073,
+    5.77449
+],
+  "geometry": {"coordinates":[-54.37073,5.77449],"type":"Point"}
+}
