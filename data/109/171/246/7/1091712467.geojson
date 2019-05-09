@@ -10,6 +10,12 @@
     "geom:latitude":5.643757,
     "geom:longitude":-56.14473,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Welgelegen Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.644273,
     "lbl:longitude":-56.148984,
     "meso:admin_1":"Coronie",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1091712467,
-    "wof:lastmodified":1536614989,
+    "wof:lastmodified":1553717951,
     "wof:name":"Welgelegen",
     "wof:parent_id":85677333,
     "wof:placetype":"county",

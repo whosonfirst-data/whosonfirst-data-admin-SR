@@ -10,6 +10,12 @@
     "geom:latitude":5.634795,
     "geom:longitude":-55.755125,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Calcutta Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.620759,
     "lbl:longitude":-55.759274,
     "meso:admin_1":"Saramacca",
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":1091712727,
-    "wof:lastmodified":1536614989,
+    "wof:lastmodified":1553717952,
     "wof:name":"Calcutta",
     "wof:parent_id":85677341,
     "wof:placetype":"county",

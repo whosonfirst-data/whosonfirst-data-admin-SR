@@ -10,6 +10,12 @@
     "geom:latitude":3.437542,
     "geom:longitude":-54.950817,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Tapanahony Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":3.330434,
     "lbl:longitude":-54.842659,
     "meso:admin_1":"Sipaliwini",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1091713471,
-    "wof:lastmodified":1536614990,
+    "wof:lastmodified":1553717956,
     "wof:name":"Tapanahony",
     "wof:parent_id":85677323,
     "wof:placetype":"county",

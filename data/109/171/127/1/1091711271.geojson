@@ -10,6 +10,12 @@
     "geom:latitude":4.567195,
     "geom:longitude":-55.060725,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Sarakreek Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":4.633132,
     "lbl:longitude":-55.055844,
     "meso:admin_1":"Brokopondo",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1091711271,
-    "wof:lastmodified":1536614987,
+    "wof:lastmodified":1553717950,
     "wof:name":"Sarakreek",
     "wof:parent_id":85677313,
     "wof:placetype":"county",

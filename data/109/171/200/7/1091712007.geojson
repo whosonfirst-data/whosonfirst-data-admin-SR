@@ -10,6 +10,12 @@
     "geom:latitude":5.697075,
     "geom:longitude":-54.533749,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Moengo Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.629084,
     "lbl:longitude":-54.446458,
     "meso:admin_1":"Marowijne",
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":1091712007,
-    "wof:lastmodified":1536614988,
+    "wof:lastmodified":1553717951,
     "wof:name":"Moengo",
     "wof:parent_id":85677317,
     "wof:placetype":"county",

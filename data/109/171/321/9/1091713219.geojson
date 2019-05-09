@@ -10,6 +10,12 @@
     "geom:latitude":5.840752,
     "geom:longitude":-55.218258,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Welgelegen Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.840295,
     "lbl:longitude":-55.217915,
     "meso:admin_1":"Paramaribo",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1091713219,
-    "wof:lastmodified":1536614990,
+    "wof:lastmodified":1553717952,
     "wof:name":"Welgelegen",
     "wof:parent_id":85677337,
     "wof:placetype":"county",

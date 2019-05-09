@@ -10,6 +10,12 @@
     "geom:latitude":2.803318,
     "geom:longitude":-56.599077,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Coeroeni Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":2.820847,
     "lbl:longitude":-56.612876,
     "meso:admin_1":"Sipaliwini",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1091713517,
-    "wof:lastmodified":1536614991,
+    "wof:lastmodified":1553717957,
     "wof:name":"Coeroeni",
     "wof:parent_id":85677323,
     "wof:placetype":"county",

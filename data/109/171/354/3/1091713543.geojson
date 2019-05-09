@@ -10,6 +10,12 @@
     "geom:latitude":5.957184,
     "geom:longitude":-55.055622,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Margaretha Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.957946,
     "lbl:longitude":-55.061173,
     "meso:admin_1":"Commewijne",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1091713543,
-    "wof:lastmodified":1536614991,
+    "wof:lastmodified":1553717952,
     "wof:name":"Margaretha",
     "wof:parent_id":85677329,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":5.529701,
     "geom:longitude":-55.079605,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Oost Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.441551,
     "lbl:longitude":-55.045829,
     "meso:admin_1":"Para",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091712133,
-    "wof:lastmodified":1536614989,
+    "wof:lastmodified":1553717951,
     "wof:name":"Oost",
     "wof:parent_id":85677319,
     "wof:placetype":"county",

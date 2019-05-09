@@ -10,6 +10,12 @@
     "geom:latitude":5.813622,
     "geom:longitude":-54.262031,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Galibi Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.750159,
     "lbl:longitude":-54.135252,
     "meso:admin_1":"Marowijne",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1091712053,
-    "wof:lastmodified":1536614989,
+    "wof:lastmodified":1553717951,
     "wof:name":"Galibi",
     "wof:parent_id":85677317,
     "wof:placetype":"county",

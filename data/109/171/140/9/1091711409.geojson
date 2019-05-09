@@ -10,6 +10,12 @@
     "geom:latitude":5.928538,
     "geom:longitude":-54.848371,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Bakki Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.936874,
     "lbl:longitude":-54.848331,
     "meso:admin_1":"Commewijne",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1091711409,
-    "wof:lastmodified":1536614988,
+    "wof:lastmodified":1553717950,
     "wof:name":"Bakki",
     "wof:parent_id":85677329,
     "wof:placetype":"county",

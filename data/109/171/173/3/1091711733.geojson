@@ -10,6 +10,12 @@
     "geom:latitude":5.075503,
     "geom:longitude":-54.957724,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Centrum Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.075983,
     "lbl:longitude":-54.966075,
     "meso:admin_1":"Brokopondo",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1091711733,
-    "wof:lastmodified":1536614988,
+    "wof:lastmodified":1553717949,
     "wof:name":"Centrum",
     "wof:parent_id":85677313,
     "wof:placetype":"county",

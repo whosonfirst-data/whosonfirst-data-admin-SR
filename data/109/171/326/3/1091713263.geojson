@@ -10,6 +10,12 @@
     "geom:latitude":5.828976,
     "geom:longitude":-55.186545,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Centrum Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.827554,
     "lbl:longitude":-55.18654,
     "meso:admin_1":"Paramaribo",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1091713263,
-    "wof:lastmodified":1536614990,
+    "wof:lastmodified":1553717952,
     "wof:name":"Centrum",
     "wof:parent_id":85677337,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":5.70961,
     "geom:longitude":-55.112147,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Domburg Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.70808,
     "lbl:longitude":-55.112643,
     "meso:admin_1":"Wanica",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1091712161,
-    "wof:lastmodified":1536614989,
+    "wof:lastmodified":1553717951,
     "wof:name":"Domburg",
     "wof:parent_id":85677347,
     "wof:placetype":"county",

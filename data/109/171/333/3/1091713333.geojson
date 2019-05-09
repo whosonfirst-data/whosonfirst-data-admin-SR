@@ -10,6 +10,12 @@
     "geom:latitude":5.760028,
     "geom:longitude":-55.222992,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "De Nieuwe Grond Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.761578,
     "lbl:longitude":-55.222409,
     "meso:admin_1":"Wanica",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1091713333,
-    "wof:lastmodified":1536614990,
+    "wof:lastmodified":1553717952,
     "wof:name":"De Nieuwe Grond",
     "wof:parent_id":85677347,
     "wof:placetype":"county",

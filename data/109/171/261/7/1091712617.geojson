@@ -10,6 +10,12 @@
     "geom:latitude":5.404323,
     "geom:longitude":-54.422439,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Patamacca Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.381828,
     "lbl:longitude":-54.377999,
     "meso:admin_1":"Marowijne",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091712617,
-    "wof:lastmodified":1536614989,
+    "wof:lastmodified":1553717951,
     "wof:name":"Patamacca",
     "wof:parent_id":85677317,
     "wof:placetype":"county",

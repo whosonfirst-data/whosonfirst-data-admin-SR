@@ -10,6 +10,12 @@
     "geom:latitude":5.932842,
     "geom:longitude":-56.899024,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Oostelijke Polders Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.943808,
     "lbl:longitude":-56.91113,
     "meso:admin_1":"Nickerie",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091711485,
-    "wof:lastmodified":1536614988,
+    "wof:lastmodified":1553717949,
     "wof:name":"Oostelijke Polders",
     "wof:parent_id":85677307,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":4.335289,
     "geom:longitude":-55.782168,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Saramacca Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":4.063319,
     "lbl:longitude":-55.979564,
     "meso:admin_1":"Sipaliwini",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1091711303,
-    "wof:lastmodified":1536614988,
+    "wof:lastmodified":1553717950,
     "wof:name":"Saramacca",
     "wof:parent_id":85677323,
     "wof:placetype":"county",

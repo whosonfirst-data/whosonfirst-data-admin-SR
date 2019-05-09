@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.133582,
-    "geom:area_square_m":1643835688.052484,
+    "geom:area_square_m":1643835688.052603,
     "geom:bbox":"-56.8108475991,5.32505612445,-56.4530026418,5.974583149",
     "geom:latitude":5.616366,
     "geom:longitude":-56.657465,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Wageningen Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.616018,
     "lbl:longitude":-56.66968,
     "meso:admin_1":"Nickerie",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1091711535,
-    "wof:lastmodified":1553816438,
+    "wof:lastmodified":1555037698,
     "wof:name":"Wageningen",
     "wof:parent_id":85677307,
     "wof:placetype":"county",

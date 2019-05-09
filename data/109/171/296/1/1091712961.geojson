@@ -10,6 +10,12 @@
     "geom:latitude":5.878395,
     "geom:longitude":-55.142421,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Blauwgrond Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.877659,
     "lbl:longitude":-55.141668,
     "meso:admin_1":"Paramaribo",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091712961,
-    "wof:lastmodified":1536614990,
+    "wof:lastmodified":1553717952,
     "wof:name":"Blauwgrond",
     "wof:parent_id":85677337,
     "wof:placetype":"county",

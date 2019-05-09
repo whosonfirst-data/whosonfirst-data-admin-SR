@@ -10,6 +10,12 @@
     "geom:latitude":5.887118,
     "geom:longitude":-55.278192,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Kwatta Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.888571,
     "lbl:longitude":-55.282747,
     "meso:admin_1":"Wanica",
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":1091711911,
-    "wof:lastmodified":1536614988,
+    "wof:lastmodified":1553717950,
     "wof:name":"Kwatta",
     "wof:parent_id":85677347,
     "wof:placetype":"county",

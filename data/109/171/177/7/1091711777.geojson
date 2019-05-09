@@ -10,6 +10,12 @@
     "geom:latitude":5.810109,
     "geom:longitude":-55.382895,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Jarikaba Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.810661,
     "lbl:longitude":-55.384567,
     "meso:admin_1":"Saramacca",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1091711777,
-    "wof:lastmodified":1536614988,
+    "wof:lastmodified":1553717950,
     "wof:name":"Jarikaba",
     "wof:parent_id":85677341,
     "wof:placetype":"county",

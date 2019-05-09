@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004802,
-    "geom:area_square_m":59074747.204288,
+    "geom:area_square_m":59074747.204331,
     "geom:bbox":"-55.5459155936,5.73866080264,-55.4581654306,5.86864810919",
     "geom:latitude":5.807908,
     "geom:longitude":-55.496817,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Groningen Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.815981,
     "lbl:longitude":-55.482857,
     "meso:admin_1":"Saramacca",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1091712379,
-    "wof:lastmodified":1553816438,
+    "wof:lastmodified":1555037698,
     "wof:name":"Groningen",
     "wof:parent_id":85677341,
     "wof:placetype":"county",

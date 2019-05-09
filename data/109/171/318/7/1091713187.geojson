@@ -10,6 +10,12 @@
     "geom:latitude":5.880636,
     "geom:longitude":-55.202098,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Munder Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.879889,
     "lbl:longitude":-55.201929,
     "meso:admin_1":"Paramaribo",
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":1091713187,
-    "wof:lastmodified":1536614990,
+    "wof:lastmodified":1553717952,
     "wof:name":"Munder",
     "wof:parent_id":85677337,
     "wof:placetype":"county",

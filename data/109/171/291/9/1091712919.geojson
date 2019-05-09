@@ -10,6 +10,12 @@
     "geom:latitude":4.461384,
     "geom:longitude":-56.327073,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Coppename Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":4.41384,
     "lbl:longitude":-56.434237,
     "meso:admin_1":"Sipaliwini",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1091712919,
-    "wof:lastmodified":1536614990,
+    "wof:lastmodified":1553717952,
     "wof:name":"Coppename",
     "wof:parent_id":85677323,
     "wof:placetype":"county",

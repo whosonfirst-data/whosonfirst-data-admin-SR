@@ -10,6 +10,12 @@
     "geom:latitude":4.395304,
     "geom:longitude":-57.224883,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Kabalebo Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":4.271029,
     "lbl:longitude":-57.453537,
     "meso:admin_1":"Sipaliwini",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1091711225,
-    "wof:lastmodified":1536614987,
+    "wof:lastmodified":1553717951,
     "wof:name":"Kabalebo",
     "wof:parent_id":85677323,
     "wof:placetype":"county",

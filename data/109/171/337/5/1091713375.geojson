@@ -10,6 +10,12 @@
     "geom:latitude":5.791382,
     "geom:longitude":-55.213232,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Pontbuiten Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.79207,
     "lbl:longitude":-55.21286,
     "meso:admin_1":"Paramaribo",
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":1091713375,
-    "wof:lastmodified":1536614990,
+    "wof:lastmodified":1553717952,
     "wof:name":"Pontbuiten",
     "wof:parent_id":85677337,
     "wof:placetype":"county",

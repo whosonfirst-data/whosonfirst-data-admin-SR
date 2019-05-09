@@ -10,6 +10,12 @@
     "geom:latitude":5.565891,
     "geom:longitude":-54.253999,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Moengotapoe Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.550258,
     "lbl:longitude":-54.252523,
     "meso:admin_1":"Marowijne",
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":1091712891,
-    "wof:lastmodified":1536614990,
+    "wof:lastmodified":1553717952,
     "wof:name":"Moengotapoe",
     "wof:parent_id":85677317,
     "wof:placetype":"county",

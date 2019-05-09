@@ -10,6 +10,12 @@
     "geom:latitude":5.884823,
     "geom:longitude":-55.231957,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Weg Naar Zee Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.884437,
     "lbl:longitude":-55.2325,
     "meso:admin_1":"Paramaribo",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091713117,
-    "wof:lastmodified":1536614990,
+    "wof:lastmodified":1553717952,
     "wof:name":"Weg Naar Zee",
     "wof:parent_id":85677337,
     "wof:placetype":"county",

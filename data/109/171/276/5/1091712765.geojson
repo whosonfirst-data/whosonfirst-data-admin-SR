@@ -10,6 +10,12 @@
     "geom:latitude":4.991031,
     "geom:longitude":-55.185062,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Brownsweg Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.053029,
     "lbl:longitude":-55.207717,
     "meso:admin_1":"Brokopondo",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1091712765,
-    "wof:lastmodified":1536614989,
+    "wof:lastmodified":1553717952,
     "wof:name":"Brownsweg",
     "wof:parent_id":85677313,
     "wof:placetype":"county",

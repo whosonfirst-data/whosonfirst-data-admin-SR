@@ -10,6 +10,12 @@
     "geom:latitude":5.779633,
     "geom:longitude":-55.280562,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Koewarasan Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.780118,
     "lbl:longitude":-55.281577,
     "meso:admin_1":"Wanica",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1091713435,
-    "wof:lastmodified":1536614990,
+    "wof:lastmodified":1553717952,
     "wof:name":"Koewarasan",
     "wof:parent_id":85677347,
     "wof:placetype":"county",

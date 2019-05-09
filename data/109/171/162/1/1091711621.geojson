@@ -10,6 +10,12 @@
     "geom:latitude":5.612441,
     "geom:longitude":-55.467506,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Kampong Baroe Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.607379,
     "lbl:longitude":-55.470194,
     "meso:admin_1":"Saramacca",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091711621,
-    "wof:lastmodified":1536614988,
+    "wof:lastmodified":1553717950,
     "wof:name":"Kampong Baroe",
     "wof:parent_id":85677341,
     "wof:placetype":"county",

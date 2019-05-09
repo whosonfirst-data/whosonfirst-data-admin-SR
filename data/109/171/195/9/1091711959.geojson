@@ -10,6 +10,12 @@
     "geom:latitude":5.627469,
     "geom:longitude":-54.889113,
     "iso:country":"SR",
+    "label:eng_x_preferred_longname":[
+        "Meerzorg Ressort"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "ressort"
+    ],
     "lbl:latitude":5.612312,
     "lbl:longitude":-54.915542,
     "meso:admin_1":"Commewijne",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1091711959,
-    "wof:lastmodified":1536614988,
+    "wof:lastmodified":1553717950,
     "wof:name":"Meerzorg",
     "wof:parent_id":85677329,
     "wof:placetype":"county",
