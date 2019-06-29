@@ -30,13 +30,13 @@
     "mps:longitude":-56.91113,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Oostelijke Polders"
-    ],
     "name:eng_x_preferred":[
         "Oostelijke Polders"
     ],
     "name:ita_x_preferred":[
+        "Oostelijke Polders"
+    ],
+    "name:nld_x_preferred":[
         "Oostelijke Polders"
     ],
     "name:spa_x_preferred":[
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":1091711485,
-    "wof:lastmodified":1553717949,
+    "wof:lastmodified":1561844172,
     "wof:name":"Oostelijke Polders",
     "wof:parent_id":85677307,
     "wof:placetype":"county",

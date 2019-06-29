@@ -22,22 +22,13 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u062c\u0631\u0648\u0646\u064a\u0646\u062c\u0646"
     ],
-    "name:chi_x_preferred":[
-        "\u683c\u7f85\u5be7\u6839"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Groningen"
     ],
     "name:eng_x_preferred":[
         "Groningen"
     ],
     "name:fra_x_preferred":[
-        "Groningen"
-    ],
-    "name:fre_x_preferred":[
-        "Groningen"
-    ],
-    "name:ger_x_preferred":[
         "Groningen"
     ],
     "name:ita_x_preferred":[
@@ -49,13 +40,16 @@
     "name:lit_x_preferred":[
         "Groningenas"
     ],
+    "name:nld_x_preferred":[
+        "Groningen"
+    ],
     "name:pol_x_preferred":[
         "Groningen"
     ],
     "name:por_x_preferred":[
         "Groningen"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Groningen"
     ],
     "name:rus_x_preferred":[
@@ -72,6 +66,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06af\u0631\u0648\u0646\u0646\u06af\u0646\u060c \u0633\u0631\u06cc\u0646\u0627\u0645"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u7f85\u5be7\u6839"
     ],
     "qs_pg:aaroncc":"SR",
     "qs_pg:gn_country":"SR",
@@ -112,7 +109,7 @@
         }
     ],
     "wof:id":1125784751,
-    "wof:lastmodified":1534379462,
+    "wof:lastmodified":1561844172,
     "wof:name":"Groningen",
     "wof:parent_id":1091711777,
     "wof:placetype":"locality",

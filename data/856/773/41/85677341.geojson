@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.304442,
-    "geom:area_square_m":3745745604.71574,
+    "geom:area_square_m":3745745604.715799,
     "geom:bbox":"-55.9790504574,5.40975650307,-55.2980167432,5.999305725",
     "geom:latitude":5.717797,
     "geom:longitude":-55.632588,
@@ -31,14 +31,14 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09b0\u09be\u09ae\u09be\u0995\u09be \u099c\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u8428\u62c9\u9a6c\u5361\u533a"
-    ],
     "name:dan_x_preferred":[
         "Saramacca"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Saramacca"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c1\u03b1\u03bc\u03ac\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Saramacca"
@@ -51,15 +51,6 @@
     ],
     "name:fra_x_preferred":[
         "Saramacca"
-    ],
-    "name:fre_x_preferred":[
-        "Saramacca"
-    ],
-    "name:ger_x_preferred":[
-        "Saramacca"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03c1\u03b1\u03bc\u03ac\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ab0\u0aae\u0abe\u0a95\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -94,7 +85,7 @@
     "name:mar_x_preferred":[
         "\u0938\u0930\u092e\u093e\u0915\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Saramacca District"
     ],
     "name:nan_x_preferred":[
@@ -112,7 +103,7 @@
     "name:por_x_preferred":[
         "Saramacca"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Saramacca"
     ],
     "name:rus_x_preferred":[
@@ -153,6 +144,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Saramacca"
+    ],
+    "name:zho_x_preferred":[
+        "\u8428\u62c9\u9a6c\u5361\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SUR",
@@ -277,7 +271,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1553814826,
+    "wof:lastmodified":1561844167,
     "wof:name":"Saramacca",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

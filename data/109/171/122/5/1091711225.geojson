@@ -30,9 +30,6 @@
     "mps:longitude":-57.453537,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Kabalebo"
-    ],
     "name:eng_x_preferred":[
         "Kabalebo"
     ],
@@ -41,6 +38,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30d0\u30ec\u30dc"
+    ],
+    "name:nld_x_preferred":[
+        "Kabalebo"
     ],
     "name:por_x_preferred":[
         "Kabalebo"
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1091711225,
-    "wof:lastmodified":1553717951,
+    "wof:lastmodified":1561844172,
     "wof:name":"Kabalebo",
     "wof:parent_id":85677323,
     "wof:placetype":"county",

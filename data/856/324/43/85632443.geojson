@@ -134,9 +134,6 @@
     "name:cym_x_preferred":[
         "Swrinam"
     ],
-    "name:cze_x_preferred":[
-        "Surinam"
-    ],
     "name:dan_x_preferred":[
         "Surinam"
     ],
@@ -540,9 +537,6 @@
     "name:ron_x_preferred":[
         "Surinam"
     ],
-    "name:rum_x_preferred":[
-        "Surinam"
-    ],
     "name:run_x_preferred":[
         "Suriname"
     ],
@@ -738,8 +732,7 @@
         "\u8607\u5229\u5357"
     ],
     "name:zho_x_variant":[
-        "\u82cf\u91cc\u5357",
-        "\u8607\u5229\u5357"
+        "\u82cf\u91cc\u5357"
     ],
     "name:zho_yue_x_preferred":[
         "\u8607\u91cc\u5357"
@@ -894,7 +887,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1544059248,
+    "wof:lastmodified":1561844166,
     "wof:name":"Suriname",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

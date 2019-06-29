@@ -16,16 +16,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Onverwacht"
     ],
     "name:eng_x_preferred":[
         "Onverwacht"
     ],
-    "name:fre_x_preferred":[
-        "Onverwacht"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Onverwacht"
     ],
     "name:ita_x_preferred":[
@@ -37,13 +34,16 @@
     "name:lit_x_preferred":[
         "Onvervachtas"
     ],
+    "name:nld_x_preferred":[
+        "Onverwacht"
+    ],
     "name:pol_x_preferred":[
         "Onverwacht"
     ],
     "name:por_x_preferred":[
         "Onverwacht"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Onverwacht"
     ],
     "name:rus_x_preferred":[
@@ -189,7 +189,7 @@
         }
     ],
     "wof:id":890444599,
-    "wof:lastmodified":1527782133,
+    "wof:lastmodified":1561844172,
     "wof:name":"Onverwacht",
     "wof:parent_id":1091712577,
     "wof:placetype":"locality",
