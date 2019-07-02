@@ -28,13 +28,10 @@
     "name:ara_x_preferred":[
         "\u0636\u0627\u062d\u064a\u0629 \u0628\u0627\u0631\u0627\u0645\u0627\u0631\u064a\u0628\u0648"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u62c9\u9a6c\u91cc\u535a\u533a"
-    ],
     "name:dan_x_preferred":[
         "Paramaribo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Paramaribo"
     ],
     "name:eng_x_preferred":[
@@ -46,16 +43,13 @@
     "name:est_x_preferred":[
         "Paramaribo ringkond"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u067e\u0627\u0631\u0627\u0645\u0627\u0631\u06cc\u0628\u0648"
+    ],
     "name:fin_x_preferred":[
         "Paramaribon piiri"
     ],
     "name:fra_x_preferred":[
-        "Paramaribo"
-    ],
-    "name:fre_x_preferred":[
-        "Paramaribo"
-    ],
-    "name:ger_x_preferred":[
         "Paramaribo"
     ],
     "name:hin_x_preferred":[
@@ -88,16 +82,13 @@
     "name:nob_x_preferred":[
         "Paramaribo"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u067e\u0627\u0631\u0627\u0645\u0627\u0631\u06cc\u0628\u0648"
-    ],
     "name:pol_x_preferred":[
         "Paramaribo"
     ],
     "name:por_x_preferred":[
         "Paramaribo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Paramaribo"
     ],
     "name:rus_x_preferred":[
@@ -120,6 +111,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0631\u0627\u0645\u0627\u0631\u06cc\u0628\u0648 \u0636\u0644\u0639"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u62c9\u9a6c\u91cc\u535a\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SUR",
@@ -247,7 +241,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1553550498,
+    "wof:lastmodified":1561844167,
     "wof:name":"Paramaribo",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

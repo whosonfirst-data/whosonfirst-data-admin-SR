@@ -36,10 +36,7 @@
     "name:cat_x_preferred":[
         "Albina"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u723e\u6bd4\u7d0d"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Albina"
     ],
     "name:eng_x_preferred":[
@@ -48,10 +45,10 @@
     "name:epo_x_preferred":[
         "Albina"
     ],
-    "name:fre_x_preferred":[
-        "Albina"
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0628\u06cc\u0646\u0627\u060c \u0633\u0648\u0631\u06cc\u0646\u0627\u0645"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Albina"
     ],
     "name:glg_x_preferred":[
@@ -69,8 +66,8 @@
     "name:lit_x_preferred":[
         "Albina"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0628\u06cc\u0646\u0627\u060c \u0633\u0648\u0631\u06cc\u0646\u0627\u0645"
+    "name:nld_x_preferred":[
+        "Albina"
     ],
     "name:pol_x_preferred":[
         "Albina"
@@ -78,7 +75,7 @@
     "name:por_x_preferred":[
         "Albina"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Albina"
     ],
     "name:rus_x_preferred":[
@@ -95,6 +92,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0431\u0456\u043d\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u723e\u6bd4\u7d0d"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":1091711353,
-    "wof:lastmodified":1555037699,
+    "wof:lastmodified":1561844168,
     "wof:name":"Albina",
     "wof:parent_id":85677317,
     "wof:placetype":"county",

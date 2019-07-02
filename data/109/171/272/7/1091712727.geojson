@@ -30,13 +30,13 @@
     "mps:longitude":-55.759274,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Calcutta"
-    ],
     "name:eng_x_preferred":[
         "Calcutta"
     ],
     "name:ita_x_preferred":[
+        "Calcutta"
+    ],
+    "name:nld_x_preferred":[
         "Calcutta"
     ],
     "name:spa_x_preferred":[
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":1091712727,
-    "wof:lastmodified":1553717952,
+    "wof:lastmodified":1561844169,
     "wof:name":"Calcutta",
     "wof:parent_id":85677341,
     "wof:placetype":"county",

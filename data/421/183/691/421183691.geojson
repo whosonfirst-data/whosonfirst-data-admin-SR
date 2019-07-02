@@ -16,14 +16,8 @@
     "name:deu_x_preferred":[
         "Marienburg"
     ],
-    "name:dut_x_preferred":[
-        "Mari\u00ebnburg"
-    ],
     "name:eng_x_preferred":[
         "Mari\u00ebnburg"
-    ],
-    "name:ger_x_preferred":[
-        "Marienburg"
     ],
     "name:nld_x_preferred":[
         "Mari\u00ebnburg"
@@ -85,7 +79,7 @@
         }
     ],
     "wof:id":421183691,
-    "wof:lastmodified":1527717697,
+    "wof:lastmodified":1561844172,
     "wof:name":"Mari\u00ebnburg",
     "wof:parent_id":1091711865,
     "wof:placetype":"locality",

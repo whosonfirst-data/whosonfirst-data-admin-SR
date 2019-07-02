@@ -25,9 +25,6 @@
     "name:afr_x_preferred":[
         "Paramaribo"
     ],
-    "name:alb_x_preferred":[
-        "Paramaribo"
-    ],
     "name:amh_x_preferred":[
         "\u1353\u122b\u121b\u122a\u1266"
     ],
@@ -37,9 +34,6 @@
     "name:arg_x_preferred":[
         "Paramaribo"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u0561\u0580\u0561\u0574\u0561\u0580\u056b\u0562\u0578"
-    ],
     "name:ast_x_preferred":[
         "Paramaribo"
     ],
@@ -47,9 +41,6 @@
         "Paramaribo"
     ],
     "name:aze_x_preferred":[
-        "Paramaribo"
-    ],
-    "name:baq_x_preferred":[
         "Paramaribo"
     ],
     "name:bel_x_preferred":[
@@ -76,25 +67,22 @@
     "name:cdo_x_preferred":[
         "Paramaribo"
     ],
+    "name:ces_x_preferred":[
+        "Paramaribo"
+    ],
     "name:che_x_preferred":[
         "\u041f\u0430\u0440\u0430\u043c\u0430\u0440\u0438\u0431\u043e"
-    ],
-    "name:chi_x_preferred":[
-        "\u5e15\u62c9\u9a6c\u91cc\u535a"
     ],
     "name:chv_x_preferred":[
         "\u041f\u0430\u0440\u0430\u043c\u0430\u0440\u0438\u0431\u043e"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Paramaribo"
     ],
     "name:dan_x_preferred":[
         "Paramaribo"
     ],
     "name:deu_x_preferred":[
-        "Paramaribo"
-    ],
-    "name:dut_x_preferred":[
         "Paramaribo"
     ],
     "name:ell_x_preferred":[
@@ -109,6 +97,9 @@
     "name:est_x_preferred":[
         "Paramaribo"
     ],
+    "name:eus_x_preferred":[
+        "Paramaribo"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u0631\u0627\u0645\u0627\u0631\u06cc\u0628\u0648"
     ],
@@ -118,16 +109,7 @@
     "name:fra_x_preferred":[
         "Paramaribo"
     ],
-    "name:fre_x_preferred":[
-        "Paramaribo"
-    ],
     "name:fry_x_preferred":[
-        "Paramaribo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10e0\u10d0\u10db\u10d0\u10e0\u10d8\u10d1\u10dd"
-    ],
-    "name:ger_x_preferred":[
         "Paramaribo"
     ],
     "name:gla_x_preferred":[
@@ -141,9 +123,6 @@
     ],
     "name:glv_x_preferred":[
         "Paramaribo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03c1\u03b1\u03bc\u03b1\u03c1\u03af\u03bc\u03c0\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0abe\u0ab0\u0abe\u0aae\u0abe\u0ab0\u0abf\u0aac\u0acb"
@@ -171,9 +150,6 @@
     ],
     "name:hye_x_preferred":[
         "\u054a\u0561\u0580\u0561\u0574\u0561\u0580\u056b\u0562\u0578"
-    ],
-    "name:ice_x_preferred":[
-        "Paramar\u00edb\u00f3"
     ],
     "name:ido_x_preferred":[
         "Paramaribo"
@@ -235,17 +211,11 @@
     "name:ltz_x_preferred":[
         "Paramaribo"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0430\u0440\u0430\u043c\u0430\u0440\u0438\u0431\u043e"
-    ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d30\u0d2e\u0d3e\u0d30\u0d3f\u0d2c\u0d4a"
     ],
     "name:mar_x_preferred":[
         "\u092a\u093e\u0930\u093e\u092e\u093e\u0930\u093f\u092c\u094b"
-    ],
-    "name:may_x_preferred":[
-        "Paramaribo"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u0430\u0440\u0430\u043c\u0430\u0440\u0438\u0431\u043e"
@@ -255,6 +225,9 @@
     ],
     "name:mon_x_preferred":[
         "\u041f\u0430\u0440\u0430\u043c\u0430\u0440\u0438\u0431\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Paramaribo"
     ],
     "name:nah_x_preferred":[
         "Paramaribo"
@@ -289,9 +262,6 @@
     "name:pap_x_preferred":[
         "Paramaribo"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u0631\u0627\u0645\u0627\u0631\u06cc\u0628\u0648"
-    ],
     "name:pms_x_preferred":[
         "Paramaribo"
     ],
@@ -304,7 +274,7 @@
     "name:que_x_preferred":[
         "Paramaribo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Paramaribo"
     ],
     "name:rus_x_preferred":[
@@ -319,9 +289,6 @@
     "name:slk_x_preferred":[
         "Paramaribo"
     ],
-    "name:slo_x_preferred":[
-        "Paramaribo"
-    ],
     "name:slv_x_preferred":[
         "Paramaribo"
     ],
@@ -332,6 +299,9 @@
         "Paramaribo"
     ],
     "name:spa_x_preferred":[
+        "Paramaribo"
+    ],
+    "name:sqi_x_preferred":[
         "Paramaribo"
     ],
     "name:srd_x_preferred":[
@@ -364,9 +334,6 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e32\u0e23\u0e32\u0e21\u0e32\u0e23\u0e35\u0e42\u0e1a"
     ],
-    "name:tib_x_preferred":[
-        "\u0f54\u0f7a\u0f0b\u0f62\u0f0b\u0f58\u0f7a\u0f0b\u0f62\u0f72\u0f0b\u0f56\u0f7c\u0f0d"
-    ],
     "name:tuk_x_preferred":[
         "Paramaribo"
     ],
@@ -389,9 +356,6 @@
         "Paramaribo"
     ],
     "name:war_x_preferred":[
-        "Paramaribo"
-    ],
-    "name:wel_x_preferred":[
         "Paramaribo"
     ],
     "name:yid_x_preferred":[
@@ -541,7 +505,7 @@
         }
     ],
     "wof:id":890444597,
-    "wof:lastmodified":1552689273,
+    "wof:lastmodified":1561844172,
     "wof:name":"Paramaribo",
     "wof:parent_id":1091712961,
     "wof:placetype":"locality",

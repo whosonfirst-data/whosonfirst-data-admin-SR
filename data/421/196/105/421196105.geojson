@@ -16,16 +16,10 @@
     "name:deu_x_preferred":[
         "Paranam"
     ],
-    "name:dut_x_preferred":[
-        "Paranam"
-    ],
     "name:eng_x_preferred":[
         "Paranam"
     ],
-    "name:fre_x_preferred":[
-        "Paranam"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Paranam"
     ],
     "name:lit_x_preferred":[
@@ -35,9 +29,6 @@
         "Paranam"
     ],
     "name:ron_x_preferred":[
-        "Paranam"
-    ],
-    "name:rum_x_preferred":[
         "Paranam"
     ],
     "name:rus_x_preferred":[
@@ -99,7 +90,7 @@
         }
     ],
     "wof:id":421196105,
-    "wof:lastmodified":1527716360,
+    "wof:lastmodified":1561844172,
     "wof:name":"Paranam",
     "wof:parent_id":1091712133,
     "wof:placetype":"locality",

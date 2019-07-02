@@ -16,16 +16,10 @@
     "name:deu_x_preferred":[
         "Brownsweg"
     ],
-    "name:dut_x_preferred":[
-        "Brownsweg"
-    ],
     "name:eng_x_preferred":[
         "Brownsweg"
     ],
-    "name:fre_x_preferred":[
-        "Brownsweg"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Brownsweg"
     ],
     "name:ita_x_preferred":[
@@ -41,9 +35,6 @@
         "Brownsweg"
     ],
     "name:ron_x_preferred":[
-        "Brownsweg"
-    ],
-    "name:rum_x_preferred":[
         "Brownsweg"
     ],
     "name:spa_x_preferred":[
@@ -98,7 +89,7 @@
         }
     ],
     "wof:id":421174659,
-    "wof:lastmodified":1527716226,
+    "wof:lastmodified":1561844172,
     "wof:name":"Brownsweg",
     "wof:parent_id":1091711271,
     "wof:placetype":"locality",

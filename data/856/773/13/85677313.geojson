@@ -28,20 +28,17 @@
     "name:ara_x_preferred":[
         "\u0636\u0627\u062d\u064a\u0629 \u0628\u0631\u0648\u0643\u0648\u0628\u0648\u0646\u062f\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Brokopondo"
-    ],
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09b0\u09c1\u0995\u09cb\u09aa\u09a8\u09cd\u09a1\u09c1 \u099c\u09c7\u09b2\u09be"
-    ],
-    "name:chi_x_preferred":[
-        "\u5e03\u7f57\u79d1\u84ec\u591a\u533a"
     ],
     "name:dan_x_preferred":[
         "Brokopondo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Brokopondo"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03c1\u03bf\u03ba\u03bf\u03c0\u03cc\u03bd\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Brokopondo"
@@ -49,20 +46,17 @@
     "name:epo_x_preferred":[
         "Brokopondo"
     ],
+    "name:eus_x_preferred":[
+        "Brokopondo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0628\u0631\u0648\u06a9\u0648\u067e\u0648\u0646\u062f\u0648"
+    ],
     "name:fin_x_preferred":[
         "Brokopondo"
     ],
     "name:fra_x_preferred":[
         "Brokopondo"
-    ],
-    "name:fre_x_preferred":[
-        "Brokopondo"
-    ],
-    "name:ger_x_preferred":[
-        "Brokopondo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03c1\u03bf\u03ba\u03bf\u03c0\u03cc\u03bd\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0ab0\u0acb\u0a95\u0acb\u0aaa\u0acb\u0a82\u0aa1\u0acb \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -100,7 +94,7 @@
     "name:mar_x_preferred":[
         "\u092c\u094d\u0930\u094b\u0915\u094b\u092a\u094b\u0928\u094d\u0921\u094b \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Brokopondo"
     ],
     "name:nan_x_preferred":[
@@ -112,16 +106,13 @@
     "name:nob_x_preferred":[
         "Brokopondo"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0628\u0631\u0648\u06a9\u0648\u067e\u0648\u0646\u062f\u0648"
-    ],
     "name:pol_x_preferred":[
         "Brokopondo"
     ],
     "name:por_x_preferred":[
         "Brokopondo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Brokopondo"
     ],
     "name:rus_x_preferred":[
@@ -162,6 +153,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Brokopondo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u7f57\u79d1\u84ec\u591a\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"SUR",
@@ -286,7 +280,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1553550502,
+    "wof:lastmodified":1561844168,
     "wof:name":"Brokopondo",
     "wof:parent_id":85632443,
     "wof:placetype":"region",
