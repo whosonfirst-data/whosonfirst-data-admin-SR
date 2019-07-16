@@ -33,6 +33,9 @@
     "name:eng_x_preferred":[
         "Tamanredjo"
     ],
+    "name:fra_x_preferred":[
+        "Tamanredjo"
+    ],
     "name:ind_x_preferred":[
         "Tamanredjo"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1091712287,
-    "wof:lastmodified":1561844169,
+    "wof:lastmodified":1563280998,
     "wof:name":"Tamanredjo",
     "wof:parent_id":85677329,
     "wof:placetype":"county",

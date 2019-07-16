@@ -36,6 +36,9 @@
     "name:ita_x_preferred":[
         "Blauwgrond"
     ],
+    "name:mal_x_preferred":[
+        "\u0d2c\u0d4d\u0d32\u0d4c\u0d35\u0d4d\u0d17\u0d4d\u0d30\u0d4b\u0d02\u0d23\u0d4d\u0d1f\u0d4d"
+    ],
     "name:nld_x_preferred":[
         "Blauwgrond"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1091712961,
-    "wof:lastmodified":1561844171,
+    "wof:lastmodified":1563281012,
     "wof:name":"Blauwgrond",
     "wof:parent_id":85677337,
     "wof:placetype":"county",

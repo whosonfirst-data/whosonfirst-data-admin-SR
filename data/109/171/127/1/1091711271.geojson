@@ -36,6 +36,9 @@
     "name:eng_x_preferred":[
         "Sarakreek"
     ],
+    "name:fra_x_preferred":[
+        "Sarakreek"
+    ],
     "name:ita_x_preferred":[
         "Sarakreek"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1091711271,
-    "wof:lastmodified":1561844170,
+    "wof:lastmodified":1563281003,
     "wof:name":"Sarakreek",
     "wof:parent_id":85677313,
     "wof:placetype":"county",

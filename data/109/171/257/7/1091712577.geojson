@@ -42,6 +42,9 @@
     "name:spa_x_preferred":[
         "Zuid-Para"
     ],
+    "name:urd_x_preferred":[
+        "Calcutta"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1091712577,
-    "wof:lastmodified":1561844169,
+    "wof:lastmodified":1563280998,
     "wof:name":"Zuid",
     "wof:parent_id":85677319,
     "wof:placetype":"county",

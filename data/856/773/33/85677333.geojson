@@ -32,6 +32,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09b0\u09cb\u09a8\u09c7 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Distrikt Coronie"
+    ],
     "name:dan_x_preferred":[
         "Coronie"
     ],
@@ -44,13 +47,22 @@
     "name:eng_x_preferred":[
         "Coronie"
     ],
+    "name:eng_x_variant":[
+        "Coronie District"
+    ],
     "name:epo_x_preferred":[
         "Coronie"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u0648\u0631\u0648\u0646\u06cc"
     ],
     "name:fin_x_preferred":[
         "Coronie"
     ],
     "name:fra_x_preferred":[
+        "Coronie"
+    ],
+    "name:frr_x_preferred":[
         "Coronie"
     ],
     "name:guj_x_preferred":[
@@ -279,7 +291,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1561844167,
+    "wof:lastmodified":1563280941,
     "wof:name":"Coronie",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

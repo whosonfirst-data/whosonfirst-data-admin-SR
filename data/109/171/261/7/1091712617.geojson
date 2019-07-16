@@ -33,6 +33,9 @@
     "name:eng_x_preferred":[
         "Patamacca"
     ],
+    "name:fra_x_preferred":[
+        "Patamacca"
+    ],
     "name:ita_x_preferred":[
         "Patamacca"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1091712617,
-    "wof:lastmodified":1561844169,
+    "wof:lastmodified":1563281000,
     "wof:name":"Patamacca",
     "wof:parent_id":85677317,
     "wof:placetype":"county",

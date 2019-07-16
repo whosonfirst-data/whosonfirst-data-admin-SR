@@ -14,11 +14,20 @@
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Moengo"
+    ],
+    "name:ceb_x_preferred":[
+        "Moengo"
+    ],
     "name:deu_x_preferred":[
         "Moengo"
     ],
     "name:eng_x_preferred":[
         "Moengo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0626\u0646\u06af\u0648"
     ],
     "name:fra_x_preferred":[
         "Moengo"
@@ -32,6 +41,9 @@
     "name:ita_x_preferred":[
         "Moengo"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30fc\u30f3\u30b4"
+    ],
     "name:kor_x_preferred":[
         "\ubaa8\uc5d4\uace0"
     ],
@@ -39,6 +51,9 @@
         "Moengas"
     ],
     "name:nld_x_preferred":[
+        "Moengo"
+    ],
+    "name:oci_x_preferred":[
         "Moengo"
     ],
     "name:pol_x_preferred":[
@@ -205,7 +220,7 @@
         }
     ],
     "wof:id":421176119,
-    "wof:lastmodified":1527726473,
+    "wof:lastmodified":1563281025,
     "wof:name":"Moengo",
     "wof:parent_id":1091712007,
     "wof:placetype":"locality",
