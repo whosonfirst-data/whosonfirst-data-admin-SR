@@ -22,6 +22,9 @@
     "name:fra_x_preferred":[
         "Paranam"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30e9\u30ca\u30e0"
+    ],
     "name:lit_x_preferred":[
         "Paranamas"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421196105,
-    "wof:lastmodified":1561844172,
+    "wof:lastmodified":1563281024,
     "wof:name":"Paranam",
     "wof:parent_id":1091712133,
     "wof:placetype":"locality",

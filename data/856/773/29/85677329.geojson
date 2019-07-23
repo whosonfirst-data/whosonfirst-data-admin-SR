@@ -28,11 +28,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0648\u0645\u064a\u0648\u064a\u062c\u0646\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0636\u0627\u062d\u064a\u0629 \u0643\u0648\u0645\u064a\u0648\u064a\u062c\u0646\u064a"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09ae\u09c7\u0987\u0989\u099c\u09a8\u09c7 \u099c\u09c7\u09b2\u09be"
     ],
     "name:cat_x_preferred":[
         "Districte de Commewijne"
+    ],
+    "name:ceb_x_preferred":[
+        "Distrikt Commewijne"
     ],
     "name:dan_x_preferred":[
         "Commewijne"
@@ -46,13 +52,22 @@
     "name:eng_x_preferred":[
         "Commewijne"
     ],
+    "name:eng_x_variant":[
+        "Commewijne District"
+    ],
     "name:epo_x_preferred":[
         "Commewijne"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u0648\u0645\u0648\u06cc\u0646\u0647"
     ],
     "name:fin_x_preferred":[
         "Commewijne"
     ],
     "name:fra_x_preferred":[
+        "Commewijne"
+    ],
+    "name:frr_x_preferred":[
         "Commewijne"
     ],
     "name:guj_x_preferred":[
@@ -277,7 +292,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1561844167,
+    "wof:lastmodified":1563280942,
     "wof:name":"Commewijne",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

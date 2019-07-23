@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Brownsweg"
+    ],
     "name:deu_x_preferred":[
         "Brownsweg"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421174659,
-    "wof:lastmodified":1561844172,
+    "wof:lastmodified":1563281023,
     "wof:name":"Brownsweg",
     "wof:parent_id":1091711271,
     "wof:placetype":"locality",

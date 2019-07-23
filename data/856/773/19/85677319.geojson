@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09b0\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Distrikt Para"
+    ],
     "name:dan_x_preferred":[
         "Para"
     ],
@@ -43,13 +46,22 @@
     "name:eng_x_preferred":[
         "Para"
     ],
+    "name:eng_x_variant":[
+        "Para District"
+    ],
     "name:epo_x_preferred":[
         "Para"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u067e\u0627\u0631\u0627"
     ],
     "name:fin_x_preferred":[
         "Para"
     ],
     "name:fra_x_preferred":[
+        "Para"
+    ],
+    "name:frr_x_preferred":[
         "Para"
     ],
     "name:guj_x_preferred":[
@@ -271,7 +283,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1561844167,
+    "wof:lastmodified":1563280944,
     "wof:name":"Para",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

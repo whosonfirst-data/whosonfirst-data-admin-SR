@@ -16,6 +16,15 @@
     "name:deu_x_preferred":[
         "Nieuw-Nickerie"
     ],
+    "name:eng_x_preferred":[
+        "Nieuw Nickerie"
+    ],
+    "name:epo_x_preferred":[
+        "Nieuw Nickerie"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0648 \u0646\u06cc\u06a9\u0631\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Nieuw-Nickerie"
     ],
@@ -36,6 +45,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub2c8\uc6b0\ub2c8\ucf00\ub9ac"
+    ],
+    "name:kor_x_variant":[
+        "\ub274\ub2c8\ucf00\ub9ac"
     ],
     "name:lit_x_preferred":[
         "Naujasis Nikeris"
@@ -118,7 +130,7 @@
         }
     ],
     "wof:id":421186721,
-    "wof:lastmodified":1527716319,
+    "wof:lastmodified":1563281024,
     "wof:name":"Nieuw Nickerie",
     "wof:parent_id":1091712507,
     "wof:placetype":"locality",

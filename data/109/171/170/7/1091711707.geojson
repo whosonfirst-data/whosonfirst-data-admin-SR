@@ -42,6 +42,9 @@
     "name:spa_x_preferred":[
         "Carolina"
     ],
+    "name:zho_x_preferred":[
+        "\u5361\u7f85\u5229\u7d0d"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1091711707,
-    "wof:lastmodified":1561844172,
+    "wof:lastmodified":1563281018,
     "wof:name":"Carolina",
     "wof:parent_id":85677319,
     "wof:placetype":"county",

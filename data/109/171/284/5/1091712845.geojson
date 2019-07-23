@@ -33,6 +33,9 @@
     "name:eng_x_preferred":[
         "Wanhatti"
     ],
+    "name:fra_x_preferred":[
+        "Wanhatti"
+    ],
     "name:ita_x_preferred":[
         "Wanhatti"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1091712845,
-    "wof:lastmodified":1561844171,
+    "wof:lastmodified":1563281010,
     "wof:name":"Wanhatti",
     "wof:parent_id":85677317,
     "wof:placetype":"county",

@@ -33,11 +33,17 @@
     "name:cat_x_preferred":[
         "Moengo"
     ],
+    "name:ceb_x_preferred":[
+        "Moengo"
+    ],
     "name:deu_x_preferred":[
         "Moengo"
     ],
     "name:eng_x_preferred":[
         "Moengo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0626\u0646\u06af\u0648"
     ],
     "name:fra_x_preferred":[
         "Moengo"
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":1091712007,
-    "wof:lastmodified":1561844171,
+    "wof:lastmodified":1563281012,
     "wof:name":"Moengo",
     "wof:parent_id":85677317,
     "wof:placetype":"county",

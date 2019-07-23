@@ -33,6 +33,9 @@
     "name:eng_x_preferred":[
         "Kwakoegron"
     ],
+    "name:fra_x_preferred":[
+        "Kwakoegron"
+    ],
     "name:ita_x_preferred":[
         "Kwakoegron"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1091712207,
-    "wof:lastmodified":1561844169,
+    "wof:lastmodified":1563280996,
     "wof:name":"Kwakoegron",
     "wof:parent_id":85677313,
     "wof:placetype":"county",

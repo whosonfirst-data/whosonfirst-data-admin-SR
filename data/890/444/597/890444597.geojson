@@ -37,8 +37,14 @@
     "name:ast_x_preferred":[
         "Paramaribo"
     ],
+    "name:ast_x_variant":[
+        "Paramaribu"
+    ],
     "name:aym_x_preferred":[
         "Paramaribo"
+    ],
+    "name:azb_x_preferred":[
+        "\u067e\u0627\u0631\u0627\u0645\u0627\u0631\u06cc\u0628\u0648"
     ],
     "name:aze_x_preferred":[
         "Paramaribo"
@@ -48,6 +54,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09b0\u09be\u09ae\u09be\u09b0\u09bf\u09ac\u09cb"
+    ],
+    "name:bho_x_preferred":[
+        "\u092a\u093e\u0930\u093e\u092e\u093e\u0930\u093f\u092c\u094b"
     ],
     "name:bod_x_preferred":[
         "\u0f54\u0f7a\u0f0b\u0f62\u0f0b\u0f58\u0f7a\u0f0b\u0f62\u0f72\u0f0b\u0f56\u0f7c\u0f0d"
@@ -65,6 +74,9 @@
         "Paramaribo"
     ],
     "name:cdo_x_preferred":[
+        "Paramaribo"
+    ],
+    "name:ceb_x_preferred":[
         "Paramaribo"
     ],
     "name:ces_x_preferred":[
@@ -122,6 +134,9 @@
         "Paramaribo"
     ],
     "name:glv_x_preferred":[
+        "Paramaribo"
+    ],
+    "name:grn_x_preferred":[
         "Paramaribo"
     ],
     "name:guj_x_preferred":[
@@ -253,6 +268,9 @@
     "name:oci_x_preferred":[
         "Paramaribo"
     ],
+    "name:olo_x_preferred":[
+        "Paramaribo"
+    ],
     "name:oss_x_preferred":[
         "\u041f\u0430\u0440\u0430\u043c\u0430\u0440\u0438\u0431\u043e"
     ],
@@ -340,8 +358,14 @@
     "name:tur_x_preferred":[
         "Paramaribo"
     ],
+    "name:udm_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u043c\u0430\u0440\u0438\u0431\u043e"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0440\u0430\u043c\u0430\u0440\u0456\u0431\u043e"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0430\u0440\u0430\u043c\u0430\u0440\u0438\u0431\u043e"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0631\u0627\u0645\u0627\u0631\u06cc\u0628\u0648"
@@ -357,6 +381,9 @@
     ],
     "name:war_x_preferred":[
         "Paramaribo"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5e15\u62c9\u9a6c\u91cc\u535a"
     ],
     "name:yid_x_preferred":[
         "\u05e4\u05d0\u05e8\u05d0\u05de\u05d0\u05e8\u05d9\u05d1\u05d0"
@@ -505,7 +532,7 @@
         }
     ],
     "wof:id":890444597,
-    "wof:lastmodified":1561844172,
+    "wof:lastmodified":1563281028,
     "wof:name":"Paramaribo",
     "wof:parent_id":1091712961,
     "wof:placetype":"locality",

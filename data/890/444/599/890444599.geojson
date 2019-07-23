@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
+    "name:ceb_x_preferred":[
+        "Onverwacht"
+    ],
     "name:deu_x_preferred":[
         "Onverwacht"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:unk_x_variant":[
         "Unverwacht"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0646\u0648\u0631\u0648\u0627\u062e\u062a"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Suriname",
@@ -189,7 +195,7 @@
         }
     ],
     "wof:id":890444599,
-    "wof:lastmodified":1561844172,
+    "wof:lastmodified":1563281026,
     "wof:name":"Onverwacht",
     "wof:parent_id":1091712577,
     "wof:placetype":"locality",

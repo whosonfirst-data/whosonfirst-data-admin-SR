@@ -33,6 +33,9 @@
     "name:eng_x_preferred":[
         "Moengotapoe"
     ],
+    "name:fra_x_preferred":[
+        "Moengotapoe"
+    ],
     "name:ita_x_preferred":[
         "Moengotapoe"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1091712891,
-    "wof:lastmodified":1561844169,
+    "wof:lastmodified":1563280997,
     "wof:name":"Moengotapoe",
     "wof:parent_id":85677317,
     "wof:placetype":"county",

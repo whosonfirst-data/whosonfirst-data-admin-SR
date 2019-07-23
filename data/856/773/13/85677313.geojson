@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09b0\u09c1\u0995\u09cb\u09aa\u09a8\u09cd\u09a1\u09c1 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Distrikt Brokopondo"
+    ],
     "name:dan_x_preferred":[
         "Brokopondo"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Brokopondo"
+    ],
+    "name:eng_x_variant":[
+        "Brokopondo District"
     ],
     "name:epo_x_preferred":[
         "Brokopondo"
@@ -56,6 +62,9 @@
         "Brokopondo"
     ],
     "name:fra_x_preferred":[
+        "Brokopondo"
+    ],
+    "name:frr_x_preferred":[
         "Brokopondo"
     ],
     "name:guj_x_preferred":[
@@ -280,7 +289,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1561844168,
+    "wof:lastmodified":1563280949,
     "wof:name":"Brokopondo",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

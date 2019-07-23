@@ -33,6 +33,12 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u043b\u0438\u0434\u043e\u0440\u043f"
     ],
+    "name:ceb_x_preferred":[
+        "Lelydorp"
+    ],
+    "name:dan_x_preferred":[
+        "Lelydorp"
+    ],
     "name:deu_x_preferred":[
         "Lelydorp"
     ],
@@ -41,6 +47,9 @@
     ],
     "name:est_x_preferred":[
         "Lelydorp"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0644\u06cc\u062f\u0648\u0631\u067e"
     ],
     "name:fra_x_preferred":[
         "Lelydorp"
@@ -129,7 +138,7 @@
         }
     ],
     "wof:id":1091711803,
-    "wof:lastmodified":1561844170,
+    "wof:lastmodified":1563281001,
     "wof:name":"Lelydorp",
     "wof:parent_id":85677347,
     "wof:placetype":"county",

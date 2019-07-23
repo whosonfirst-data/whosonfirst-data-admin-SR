@@ -36,6 +36,9 @@
     "name:eng_x_preferred":[
         "Bakkie"
     ],
+    "name:epo_x_preferred":[
+        "Bakkie"
+    ],
     "name:fra_x_preferred":[
         "Bakkie"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1091711409,
-    "wof:lastmodified":1561844172,
+    "wof:lastmodified":1563281019,
     "wof:name":"Bakki",
     "wof:parent_id":85677329,
     "wof:placetype":"county",

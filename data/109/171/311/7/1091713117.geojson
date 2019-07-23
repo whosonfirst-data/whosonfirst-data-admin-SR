@@ -36,6 +36,9 @@
     "name:ita_x_preferred":[
         "Weg naar See"
     ],
+    "name:mal_x_preferred":[
+        "\u0d35\u0d46\u0d17\u0d4d \u0d28\u0d3e\u0d7c \u0d38\u0d40"
+    ],
     "name:nld_x_preferred":[
         "Weg naar Zee"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1091713117,
-    "wof:lastmodified":1561844171,
+    "wof:lastmodified":1563281017,
     "wof:name":"Weg Naar Zee",
     "wof:parent_id":85677337,
     "wof:placetype":"county",

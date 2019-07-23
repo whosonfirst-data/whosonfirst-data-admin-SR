@@ -33,6 +33,9 @@
     "name:eng_x_preferred":[
         "Kampong Baroe"
     ],
+    "name:ind_x_preferred":[
+        "Kampong Baroe"
+    ],
     "name:ita_x_preferred":[
         "Kampong Baroe"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1091711621,
-    "wof:lastmodified":1561844170,
+    "wof:lastmodified":1563281007,
     "wof:name":"Kampong Baroe",
     "wof:parent_id":85677341,
     "wof:placetype":"county",

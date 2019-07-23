@@ -33,6 +33,12 @@
     "name:eng_x_preferred":[
         "Galibi"
     ],
+    "name:epo_x_preferred":[
+        "Galibi"
+    ],
+    "name:fra_x_preferred":[
+        "Galibi"
+    ],
     "name:ita_x_preferred":[
         "Galibi"
     ],
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":1091712053,
-    "wof:lastmodified":1561844169,
+    "wof:lastmodified":1563281000,
     "wof:name":"Galibi",
     "wof:parent_id":85677317,
     "wof:placetype":"county",

@@ -30,6 +30,9 @@
     "mps:longitude":-56.344765,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Totness"
+    ],
     "name:deu_x_preferred":[
         "Totness"
     ],
@@ -72,6 +75,9 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u0442\u043d\u0435\u0441"
     ],
+    "name:urd_x_preferred":[
+        "\u062a\u0648\u062a\u0646\u06cc\u0633"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1091712333,
-    "wof:lastmodified":1561844169,
+    "wof:lastmodified":1563281000,
     "wof:name":"Totness",
     "wof:parent_id":85677333,
     "wof:placetype":"county",
