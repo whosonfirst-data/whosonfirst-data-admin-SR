@@ -25,6 +25,9 @@
     "iso:country":"SR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u0633\u0628\u06a9\u0648\u06d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1293857141,
-    "wof:lastmodified":1537573757,
+    "wof:lastmodified":1564145068,
     "wof:name":"Sabakoe",
     "wof:parent_id":1091712577,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"SR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pada"
+    ],
+    "name:ceb_x_preferred":[
+        "Pada"
+    ],
+    "name:nor_x_preferred":[
+        "Pada"
+    ],
+    "name:swe_x_preferred":[
+        "Pada"
+    ],
     "name:und_x_variant":[
         "Levant",
         "Pikien Pada",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1260043167,
-    "wof:lastmodified":1537701366,
+    "wof:lastmodified":1564145100,
     "wof:name":"Pada",
     "wof:parent_id":1091712805,
     "wof:placetype":"locality",

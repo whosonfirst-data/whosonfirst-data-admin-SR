@@ -25,8 +25,104 @@
     "iso:country":"SR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0645\u0627\u0631\u064a\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Saguinus"
+    ],
+    "name:ceb_x_preferred":[
+        "Saguinus"
+    ],
+    "name:ces_x_preferred":[
+        "Tamar\u00edn"
+    ],
+    "name:dan_x_preferred":[
+        "Tamariner"
+    ],
+    "name:deu_x_preferred":[
+        "Saguinus"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0645\u0627\u0631\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Saguinus"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05de\u05e8\u05d9\u05df"
+    ],
+    "name:ido_x_preferred":[
+        "Saguino"
+    ],
+    "name:ita_x_preferred":[
+        "Saguinus"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30de\u30ea\u30f3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10db\u10d0\u10e0\u10d8\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\ub9c8\ub9b0"
+    ],
+    "name:lbe_x_preferred":[
+        "\u0422\u0430\u043c\u0430\u0440\u0438\u043d"
+    ],
+    "name:lit_x_preferred":[
+        "Tamarinai"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0422\u0430\u043c\u0430\u0440\u0438\u043d"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0422\u0430\u043c\u0430\u0440\u0438\u043d"
+    ],
     "name:nld_x_preferred":[
         "Tamarin"
+    ],
+    "name:nld_x_variant":[
+        "Tamarins"
+    ],
+    "name:nor_x_preferred":[
+        "Tamariner"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062a\u0645\u0627\u0631\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Tamaryna"
+    ],
+    "name:por_x_preferred":[
+        "Saguinus"
+    ],
+    "name:que_x_preferred":[
+        "Chichiku"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043c\u0430\u0440\u0438\u043d\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "Saguinus"
+    ],
+    "name:swe_x_preferred":[
+        "Tamariner"
+    ],
+    "name:udm_x_preferred":[
+        "\u0422\u0430\u043c\u0430\u0440\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043c\u0430\u0440\u0438\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Saguinus"
+    ],
+    "name:war_x_preferred":[
+        "Saguinus"
+    ],
+    "name:zho_x_preferred":[
+        "\u6a89\u67f3\u7334\u5c6c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +147,7 @@
         }
     ],
     "wof:id":1277052215,
-    "wof:lastmodified":1537701362,
+    "wof:lastmodified":1564145079,
     "wof:name":"Tamarin",
     "wof:parent_id":1091712845,
     "wof:placetype":"locality",

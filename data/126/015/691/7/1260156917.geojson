@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Makaja pingo"
     ],
+    "name:spa_x_preferred":[
+        "Makajapingo"
+    ],
     "name:und_x_variant":[
         "Makajapinggo",
         "Makajapingo"
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1260156917,
-    "wof:lastmodified":1537701369,
+    "wof:lastmodified":1564145098,
     "wof:name":"Makajapiengo",
     "wof:parent_id":1091711303,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:und_x_variant":[
         "Smitfiri"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0645\u062a\u06be\u0641\u06cc\u0644\u0688"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1292964401,
-    "wof:lastmodified":1537701363,
+    "wof:lastmodified":1564145071,
     "wof:name":"Smithfield",
     "wof:parent_id":1091711577,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"SR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Dehan"
+    ],
     "name:und_x_variant":[
         "Dehau",
         "Dehankondre",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1327005779,
-    "wof:lastmodified":1537701375,
+    "wof:lastmodified":1564145047,
     "wof:name":"Dehan",
     "wof:parent_id":1091712805,
     "wof:placetype":"locality",

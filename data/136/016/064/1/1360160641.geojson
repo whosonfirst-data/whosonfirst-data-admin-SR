@@ -28,6 +28,12 @@
     "name:nld_x_preferred":[
         "Tjakka-Tjakka Ston"
     ],
+    "name:nld_x_variant":[
+        "Tjakkatjakka Ston"
+    ],
+    "name:spa_x_preferred":[
+        "Tjakkatjakka Ston"
+    ],
     "name:und_x_variant":[
         "Tjakkatjakka Ston"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1360160641,
-    "wof:lastmodified":1537701362,
+    "wof:lastmodified":1564145110,
     "wof:name":"Tjakka-Tjakka Ston",
     "wof:parent_id":1091712919,
     "wof:placetype":"locality",

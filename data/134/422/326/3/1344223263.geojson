@@ -25,6 +25,9 @@
     "iso:country":"SR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Asidonhopo"
+    ],
     "name:und_x_variant":[
         "Asidonhoppo",
         "Asindonhopo",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1344223263,
-    "wof:lastmodified":1537701378,
+    "wof:lastmodified":1564145055,
     "wof:name":"Asidonhopo",
     "wof:parent_id":1091712805,
     "wof:placetype":"locality",

@@ -33,6 +33,18 @@
     "name:eng_x_preferred":[
         "Welgelegen"
     ],
+    "name:fry_x_preferred":[
+        "Welgelegen"
+    ],
+    "name:ita_x_preferred":[
+        "Welgelegen"
+    ],
+    "name:nld_x_preferred":[
+        "Welgelegen"
+    ],
+    "name:spa_x_preferred":[
+        "Welgelegen"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -68,7 +80,7 @@
         }
     ],
     "wof:id":1091712467,
-    "wof:lastmodified":1553717951,
+    "wof:lastmodified":1564145113,
     "wof:name":"Welgelegen",
     "wof:parent_id":85677333,
     "wof:placetype":"county",
