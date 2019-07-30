@@ -25,6 +25,21 @@
     "iso:country":"SR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Corneliskondre"
+    ],
+    "name:por_x_preferred":[
+        "Corneliskondre"
+    ],
+    "name:ron_x_preferred":[
+        "Corneliskondre"
+    ],
+    "name:spa_x_preferred":[
+        "Corneliskondre"
+    ],
+    "name:srn_x_preferred":[
+        "Corneliskondre"
+    ],
     "name:und_x_variant":[
         "Corneles Kondre",
         "Cornelis-kondre",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1293452905,
-    "wof:lastmodified":1537701375,
+    "wof:lastmodified":1564145072,
     "wof:name":"Corneliskondre",
     "wof:parent_id":1091712919,
     "wof:placetype":"locality",

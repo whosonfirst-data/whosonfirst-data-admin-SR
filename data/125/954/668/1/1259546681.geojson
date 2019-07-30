@@ -28,6 +28,21 @@
     "name:eng_x_preferred":[
         "Botopasi"
     ],
+    "name:nld_x_preferred":[
+        "Botopasi"
+    ],
+    "name:por_x_preferred":[
+        "Botopasi"
+    ],
+    "name:ron_x_preferred":[
+        "Boto-Pasi"
+    ],
+    "name:spa_x_preferred":[
+        "Botopasi"
+    ],
+    "name:srn_x_preferred":[
+        "Botopasi"
+    ],
     "name:und_x_variant":[
         "Botopassi",
         "Botopasie",
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1259546681,
-    "wof:lastmodified":1537701376,
+    "wof:lastmodified":1564145132,
     "wof:name":"Botopasi",
     "wof:parent_id":1091712805,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"SR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Auca"
+    ],
+    "name:deu_x_preferred":[
+        "Auca"
+    ],
+    "name:spa_x_preferred":[
+        "Auca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276424531,
-    "wof:lastmodified":1536656577,
+    "wof:lastmodified":1564145076,
     "wof:name":"Auca",
     "wof:parent_id":1091711813,
     "wof:placetype":"locality",

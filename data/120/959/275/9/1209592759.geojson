@@ -25,6 +25,21 @@
     "iso:country":"SR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "D\u017eeni"
+    ],
+    "name:por_x_preferred":[
+        "Jenny"
+    ],
+    "name:ron_x_preferred":[
+        "Jenny"
+    ],
+    "name:spa_x_preferred":[
+        "Jenny"
+    ],
+    "name:srn_x_preferred":[
+        "Jenny"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632443
@@ -43,7 +58,7 @@
         }
     ],
     "wof:id":1209592759,
-    "wof:lastmodified":1537573758,
+    "wof:lastmodified":1564145092,
     "wof:name":"Jenny",
     "wof:parent_id":85632443,
     "wof:placetype":"locality",

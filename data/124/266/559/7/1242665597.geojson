@@ -26,9 +26,102 @@
     "iso:country":"SR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0634\u0627\u0631\u0644\u0648\u062a\u0646\u0628\u0631\u063a"
+    ],
+    "name:bre_x_preferred":[
+        "Charlottenburg"
+    ],
+    "name:cat_x_preferred":[
+        "Charlottenburg"
+    ],
+    "name:ceb_x_preferred":[
+        "Charlottenburg"
+    ],
+    "name:ces_x_preferred":[
+        "Charlottenburg"
+    ],
+    "name:dan_x_preferred":[
+        "Charlottenburg"
+    ],
+    "name:deu_x_preferred":[
+        "Berlin-Charlottenburg"
+    ],
+    "name:epo_x_preferred":[
+        "Charlottenburg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0631\u0644\u0648\u062a\u0646\u0628\u0648\u0631\u06af"
+    ],
+    "name:fin_x_preferred":[
+        "Charlottenburg"
+    ],
+    "name:fra_x_preferred":[
+        "Berlin-Charlottenbourg"
+    ],
+    "name:fry_x_preferred":[
+        "Berlin-Charlottenburg"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05e8\u05dc\u05d5\u05d8\u05e0\u05d1\u05d5\u05e8\u05d2"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0561\u057c\u056c\u0578\u057f\u0565\u0576\u0562\u0578\u0582\u0580\u0563"
+    ],
+    "name:ind_x_preferred":[
+        "Berlin-Charlottenbourg"
+    ],
+    "name:ita_x_preferred":[
+        "Charlottenburg"
+    ],
+    "name:nld_x_preferred":[
+        "Berlin-Charlottenburg"
+    ],
+    "name:nno_x_preferred":[
+        "Berlin-Charlottenburg"
+    ],
+    "name:nor_x_preferred":[
+        "Charlottenburg"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0634\u0627\u0631\u0644\u0679\u0646\u0628\u0631\u06af-\u0648\u0644\u0645\u0631\u0632\u0688\u0648\u0631\u0641"
+    ],
+    "name:pol_x_preferred":[
+        "Charlottenburg"
+    ],
+    "name:por_x_preferred":[
+        "Charlottenburg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0440\u043b\u043e\u0442\u0442\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
+    "name:spa_x_preferred":[
+        "Charlottenburg"
+    ],
+    "name:srd_x_preferred":[
+        "Charlottenburg"
+    ],
+    "name:swe_x_preferred":[
+        "Charlottenburg"
+    ],
+    "name:tur_x_preferred":[
+        "Charlottenburg"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u0440\u043b\u043e\u0442\u0442\u0435\u043d\u0431\u0443\u0440\u0433"
+    ],
     "name:und_x_variant":[
         "Charlotteburg",
         "Charlottenburg"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0627\u0631\u0644\u0648\u062a\u0646\u0628\u0648\u0631\u06af"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e9\u05d0\u05e8\u05dc\u05d0\u05d8\u05e0\u05d1\u05d5\u05e8\u05d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u590f\u6d1b\u6ed5\u5821"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +146,7 @@
         }
     ],
     "wof:id":1242665597,
-    "wof:lastmodified":1537701375,
+    "wof:lastmodified":1564145120,
     "wof:name":"Charlottenburg",
     "wof:parent_id":1091711409,
     "wof:placetype":"locality",

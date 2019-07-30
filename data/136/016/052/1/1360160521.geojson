@@ -26,10 +26,127 @@
     "iso:country":"SR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0645\u0644\u0643\u0629 \u062f\u0627\u0647\u0648\u0645\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u0627\u0647\u0648\u0645\u06cc\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Dahomeya"
+    ],
+    "name:bre_x_preferred":[
+        "Dahomey"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0430\u0445\u043e\u043c\u0435\u0439"
+    ],
+    "name:cat_x_preferred":[
+        "Dahomey"
+    ],
+    "name:deu_x_preferred":[
+        "K\u00f6nigreich Dahomey"
+    ],
+    "name:epo_x_preferred":[
+        "Re\u011dlando Dahomejo"
+    ],
+    "name:est_x_preferred":[
+        "Dahomee"
+    ],
+    "name:eus_x_preferred":[
+        "Dahomey"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0647\u0648\u0645\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Dahomeyn kuningaskunta"
+    ],
+    "name:frr_x_preferred":[
+        "Dahomey K\u00f6nangrik"
+    ],
+    "name:glg_x_preferred":[
+        "Dahomey"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d4\u05d5\u05de\u05d9\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u093e\u0939\u094b\u092e\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Dahomey"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0561\u0570\u0578\u0574\u0565\u0561"
+    ],
+    "name:ido_x_preferred":[
+        "Dahome"
+    ],
+    "name:ind_x_preferred":[
+        "Dahomey"
+    ],
+    "name:isl_x_preferred":[
+        "Dah\u00f3mey"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30db\u30e1\u738b\u56fd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub2e4\ud638\uba54\uc774 \uc655\uad6d"
+    ],
+    "name:lit_x_preferred":[
+        "Dahom\u0117jos karalyst\u0117"
+    ],
+    "name:msa_x_preferred":[
+        "Dahomey"
+    ],
+    "name:nld_x_preferred":[
+        "Koninkrijk Dahomey"
+    ],
+    "name:pol_x_preferred":[
+        "Dahomej"
+    ],
+    "name:ron_x_preferred":[
+        "Dahomey"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0433\u043e\u043c\u0435\u044f"
+    ],
+    "name:swa_x_preferred":[
+        "Dahomey"
+    ],
+    "name:swe_x_preferred":[
+        "Dahomey"
+    ],
+    "name:tgl_x_preferred":[
+        "Dahomey"
+    ],
+    "name:tur_x_preferred":[
+        "Dahomey Krall\u0131\u011f\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u0433\u043e\u043c\u0435\u044f"
+    ],
     "name:und_x_variant":[
         "Dahome",
         "Gran Dahomeij",
         "Dahomey"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0627\u0647\u0648\u0645\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Dagomeya"
+    ],
+    "name:vec_x_preferred":[
+        "Dahomey"
+    ],
+    "name:vie_x_preferred":[
+        "Dahomey"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fbe\u8377\u7f8e\u738b\u56fd"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +171,7 @@
         }
     ],
     "wof:id":1360160521,
-    "wof:lastmodified":1537701375,
+    "wof:lastmodified":1564145110,
     "wof:name":"Dahomey",
     "wof:parent_id":1091712805,
     "wof:placetype":"locality",
