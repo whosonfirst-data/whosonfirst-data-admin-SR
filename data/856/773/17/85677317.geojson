@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MA"
+    ],
     "lbl:latitude":5.620738,
     "lbl:longitude":-54.332617,
     "mps:latitude":5.6188,
@@ -277,16 +280,13 @@
         }
     ],
     "wof:id":85677317,
-    "wof:lang":[
-        "dut"
-    ],
     "wof:lang_x_official":[
         "nld"
     ],
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1563280943,
+    "wof:lastmodified":1565736714,
     "wof:name":"Marowijne",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

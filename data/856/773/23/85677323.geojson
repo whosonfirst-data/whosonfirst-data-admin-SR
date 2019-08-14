@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SI"
+    ],
     "lbl:latitude":3.649863,
     "lbl:longitude":-56.27119,
     "mps:latitude":3.64031,
@@ -274,16 +277,13 @@
         }
     ],
     "wof:id":85677323,
-    "wof:lang":[
-        "dut"
-    ],
     "wof:lang_x_official":[
         "nld"
     ],
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1563280947,
+    "wof:lastmodified":1565736714,
     "wof:name":"Sipaliwini",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

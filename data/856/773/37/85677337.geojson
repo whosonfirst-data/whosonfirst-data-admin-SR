@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PM"
+    ],
     "lbl:latitude":5.862998,
     "lbl:longitude":-55.193357,
     "mps:latitude":5.850372,
@@ -244,16 +247,13 @@
         }
     ],
     "wof:id":85677337,
-    "wof:lang":[
-        "dut"
-    ],
     "wof:lang_x_official":[
         "nld"
     ],
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1563280945,
+    "wof:lastmodified":1565736714,
     "wof:name":"Paramaribo",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

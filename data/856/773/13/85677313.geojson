@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BR"
+    ],
     "lbl:latitude":4.808272,
     "lbl:longitude":-55.054534,
     "mps:latitude":4.761711,
@@ -280,16 +283,13 @@
         }
     ],
     "wof:id":85677313,
-    "wof:lang":[
-        "dut"
-    ],
     "wof:lang_x_official":[
         "nld"
     ],
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1563280949,
+    "wof:lastmodified":1565736715,
     "wof:name":"Brokopondo",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

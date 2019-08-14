@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CR"
+    ],
     "lbl:latitude":5.647271,
     "lbl:longitude":-56.269499,
     "mps:latitude":5.637134,
@@ -282,16 +285,13 @@
         }
     ],
     "wof:id":85677333,
-    "wof:lang":[
-        "dut"
-    ],
     "wof:lang_x_official":[
         "nld"
     ],
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1563280941,
+    "wof:lastmodified":1565736713,
     "wof:name":"Coronie",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

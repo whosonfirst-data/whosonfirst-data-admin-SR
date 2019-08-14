@@ -15,6 +15,9 @@
     "itu:country_code":[
         "597"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SR"
+    ],
     "lbl:latitude":4.165951,
     "lbl:longitude":-55.945507,
     "mps:latitude":4.165951,
@@ -953,16 +956,13 @@
         }
     ],
     "wof:id":85632443,
-    "wof:lang":[
-        "dut"
-    ],
     "wof:lang_x_official":[
         "nld"
     ],
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1563280940,
+    "wof:lastmodified":1565736713,
     "wof:name":"Suriname",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

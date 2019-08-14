@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SA"
+    ],
     "lbl:latitude":5.67885,
     "lbl:longitude":-55.626056,
     "mps:latitude":5.722777,
@@ -277,16 +280,13 @@
         }
     ],
     "wof:id":85677341,
-    "wof:lang":[
-        "dut"
-    ],
     "wof:lang_x_official":[
         "nld"
     ],
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1563280946,
+    "wof:lastmodified":1565736714,
     "wof:name":"Saramacca",
     "wof:parent_id":85632443,
     "wof:placetype":"region",
