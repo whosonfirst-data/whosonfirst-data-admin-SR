@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Paramaribo",
     "iso:country":"SR",
+    "lbl:bbox":"-56.35581,5.85912,-56.31581,5.89912",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Friendship"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1276850915,
-    "wof:lastmodified":1564145079,
+    "wof:lastmodified":1566649848,
     "wof:name":"Friendship",
     "wof:parent_id":1091712333,
     "wof:placetype":"locality",

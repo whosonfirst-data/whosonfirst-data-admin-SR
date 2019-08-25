@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.827554,
     "lbl:longitude":-55.18654,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Paramaribo",
     "meso:gadm_adm2":"Centrum",
     "meso:gadm_hasc2":"SR.PM.CP",
@@ -30,6 +32,7 @@
     "mps:longitude":-55.18654,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ces_x_preferred":[
         "Centrum"
     ],
@@ -70,9 +73,9 @@
         "Centrum"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-08-02",
+    "src:population_date":"2004-08-02",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-08-02",
     "statoids:capital":"",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1091713263,
-    "wof:lastmodified":1564145114,
+    "wof:lastmodified":1566649878,
     "wof:name":"Centrum",
     "wof:parent_id":85677337,
     "wof:placetype":"county",

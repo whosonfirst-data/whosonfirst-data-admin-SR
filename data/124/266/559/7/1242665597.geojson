@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Paramaribo",
     "iso:country":"SR",
+    "lbl:bbox":"-54.80333,5.84667,-54.76333,5.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0631\u0644\u0648\u062a\u0646\u0628\u0631\u063a"
     ],
@@ -111,8 +115,7 @@
         "\u0428\u0430\u0440\u043b\u043e\u0442\u0442\u0435\u043d\u0431\u0443\u0440\u0433"
     ],
     "name:und_x_variant":[
-        "Charlotteburg",
-        "Charlottenburg"
+        "Charlotteburg"
     ],
     "name:urd_x_preferred":[
         "\u0634\u0627\u0631\u0644\u0648\u062a\u0646\u0628\u0648\u0631\u06af"
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":1242665597,
-    "wof:lastmodified":1564145120,
+    "wof:lastmodified":1566649886,
     "wof:name":"Charlottenburg",
     "wof:parent_id":1091711409,
     "wof:placetype":"locality",

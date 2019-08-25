@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":5.647271,
     "lbl:longitude":-56.269499,
+    "lbl:min_zoom":8.0,
     "mps:latitude":5.637134,
     "mps:longitude":-56.277307,
     "mz:hierarchy_label":1,
@@ -144,7 +145,7 @@
         "Coronie"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bcb\u0bb0\u0bcb\u0ba9\u0bbf\u0baf\u0bc7  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0b95\u0bcb\u0bb0\u0bcb\u0ba9\u0bbf\u0baf\u0bc7 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4a\u0c30\u0c4b\u0c28\u0c40 \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -158,7 +159,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u043e\u043d\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "District Coronie"
     ],
     "name:urd_x_preferred":[
@@ -242,9 +243,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-13",
+    "src:population_date":"2012-08-13",
     "statoids:area_km":"3,902",
     "statoids:area_mi":"1,507",
     "statoids:as_of_date":"2012-08-13",
@@ -270,7 +271,7 @@
         "gp:id":2346408,
         "hasc:id":"SR.CR",
         "iso:id":"SR-CR",
-        "qs:id":583028,
+        "qs_pg:id":583028,
         "unlc:id":"SR-CR",
         "wd:id":"Q1130141",
         "wk:page":"Coronie District"
@@ -291,11 +292,10 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1565736713,
+    "wof:lastmodified":1566649835,
     "wof:name":"Coronie",
     "wof:parent_id":85632443,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":3391,
     "wof:population_rank":4,

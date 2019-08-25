@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Paramaribo",
     "iso:country":"SR",
+    "lbl:bbox":"-54.80333,4.06333,-54.76333,4.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Miranda",
         "Pikinkondre",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209682029,
-    "wof:lastmodified":1537701366,
+    "wof:lastmodified":1566649855,
     "wof:name":"Pikienkondre",
     "wof:parent_id":85632443,
     "wof:placetype":"locality",

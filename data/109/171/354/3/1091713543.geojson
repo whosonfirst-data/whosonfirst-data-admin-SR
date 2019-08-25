@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.957946,
     "lbl:longitude":-55.061173,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Commewijne",
     "meso:gadm_adm2":"Margaretha",
     "meso:gadm_hasc2":"SR.CM.MG",
@@ -30,6 +32,7 @@
     "mps:longitude":-55.061173,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Margaretha"
     ],
@@ -55,9 +58,9 @@
         "Margaretha"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-08-02",
+    "src:population_date":"2004-08-02",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-08-02",
     "statoids:capital":"",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1091713543,
-    "wof:lastmodified":1561844169,
+    "wof:lastmodified":1566649868,
     "wof:name":"Margaretha",
     "wof:parent_id":85677329,
     "wof:placetype":"county",

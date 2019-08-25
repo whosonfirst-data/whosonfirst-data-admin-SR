@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Paramaribo",
     "iso:country":"SR",
+    "lbl:bbox":"-55.29812,5.2913,-55.25812,5.3313",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sectie O",
         "Sectie Oe\u00ebst",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226063179,
-    "wof:lastmodified":1537701363,
+    "wof:lastmodified":1566649899,
     "wof:name":"Sectie",
     "wof:parent_id":1091712207,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Paramaribo",
     "iso:country":"SR",
+    "lbl:bbox":"-55.40333,5.59667,-55.36333,5.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vier Hendrikken",
         "De Vier Hendrikken",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326603235,
-    "wof:lastmodified":1537701377,
+    "wof:lastmodified":1566649825,
     "wof:name":"Bloferie",
     "wof:parent_id":1091711621,
     "wof:placetype":"locality",

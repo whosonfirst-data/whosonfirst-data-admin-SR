@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Paramaribo",
     "iso:country":"SR",
+    "lbl:bbox":"-55.06014,5.51899,-55.02014,5.55899",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Bergen op Zoom"
     ],
@@ -198,7 +202,7 @@
         }
     ],
     "wof:id":1209803529,
-    "wof:lastmodified":1564145096,
+    "wof:lastmodified":1566649857,
     "wof:name":"Bergen op Zoom",
     "wof:parent_id":1091711959,
     "wof:placetype":"locality",

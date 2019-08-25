@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.633132,
     "lbl:longitude":-55.055844,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Brokopondo",
     "meso:gadm_adm2":"Sarakreek",
     "meso:gadm_hasc2":"SR.BR.SK",
@@ -30,6 +32,7 @@
     "mps:longitude":-55.055844,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Sarakreek"
     ],
@@ -55,9 +58,9 @@
         "Sarakreek"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-08-02",
+    "src:population_date":"2004-08-02",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-08-02",
     "statoids:capital":"",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1091711271,
-    "wof:lastmodified":1563281003,
+    "wof:lastmodified":1566649871,
     "wof:name":"Sarakreek",
     "wof:parent_id":85677313,
     "wof:placetype":"county",

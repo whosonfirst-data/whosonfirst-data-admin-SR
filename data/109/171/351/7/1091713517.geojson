@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":2.820847,
     "lbl:longitude":-56.612876,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Sipaliwini",
     "meso:gadm_adm2":"Coeroeni",
     "meso:gadm_hasc2":"SR.SI.CO",
@@ -30,6 +32,7 @@
     "mps:longitude":-56.612876,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Coeroeni"
     ],
@@ -49,9 +52,9 @@
         "Coeroeni"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-08-02",
+    "src:population_date":"2004-08-02",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-08-02",
     "statoids:capital":"",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1091713517,
-    "wof:lastmodified":1561844171,
+    "wof:lastmodified":1566649874,
     "wof:name":"Coeroeni",
     "wof:parent_id":85677323,
     "wof:placetype":"county",

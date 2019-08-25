@@ -10,8 +10,12 @@
     "geom:latitude":5.61667,
     "geom:longitude":-55.1,
     "iso:country":"SR",
+    "lbl:bbox":"-55.12,5.59667,-55.08,5.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Paranam"
@@ -43,7 +47,7 @@
     "name:srn_x_preferred":[
         "Paranam"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pananam"
     ],
     "qs:gn_country":"SR",
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3383327,
         "gp:id":377233,
-        "qs:id":1165370,
+        "qs_pg:id":1165370,
         "wd:id":"Q953057",
         "wk:page":"Paranam"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421196105,
-    "wof:lastmodified":1563281024,
+    "wof:lastmodified":1566649881,
     "wof:name":"Paranam",
     "wof:parent_id":1091712133,
     "wof:placetype":"locality",

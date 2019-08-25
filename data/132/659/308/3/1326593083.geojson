@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Paramaribo",
     "iso:country":"SR",
+    "lbl:bbox":"-55.90333,2.79667,-55.86333,2.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Aloepi 1",
         "Aloepi",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326593083,
-    "wof:lastmodified":1537701379,
+    "wof:lastmodified":1566649825,
     "wof:name":"Aloepi Een",
     "wof:parent_id":1091713471,
     "wof:placetype":"locality",

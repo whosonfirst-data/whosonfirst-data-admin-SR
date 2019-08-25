@@ -10,8 +10,12 @@
     "geom:latitude":5.85,
     "geom:longitude":-55.08333,
     "iso:country":"SR",
+    "lbl:bbox":"-55.10333,5.83,-55.06333,5.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:nld_x_preferred":[
         "Belwarde"
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3384615,
         "gp:id":376891,
-        "qs:id":1103271
+        "qs_pg:id":1103271
     },
     "wof:country":"SR",
     "wof:created":1459009569,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421188577,
-    "wof:lastmodified":1501266271,
+    "wof:lastmodified":1566649881,
     "wof:name":"Belwaarde",
     "wof:parent_id":1091712091,
     "wof:placetype":"locality",

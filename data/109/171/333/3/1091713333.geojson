@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.761578,
     "lbl:longitude":-55.222409,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Wanica",
     "meso:gadm_adm2":"De Nieuwe Grond",
     "meso:gadm_hasc2":"SR.WA.NG",
@@ -30,6 +32,7 @@
     "mps:longitude":-55.222409,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "De Nieuwe Grond"
     ],
@@ -52,9 +55,9 @@
         "De Nieuwe Grond"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-08-02",
+    "src:population_date":"2004-08-02",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-08-02",
     "statoids:capital":"",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1091713333,
-    "wof:lastmodified":1561844171,
+    "wof:lastmodified":1566649874,
     "wof:name":"De Nieuwe Grond",
     "wof:parent_id":85677347,
     "wof:placetype":"county",

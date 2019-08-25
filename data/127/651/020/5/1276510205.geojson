@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"America/Paramaribo",
     "iso:country":"SR",
+    "lbl:bbox":"-55.58667,4.66333,-55.54667,4.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Warnakomoponafaja"
     ],
     "name:und_x_variant":[
-        "Warnakomopponafaja",
-        "Warnakomoponafaja"
+        "Warnakomopponafaja"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1276510205,
-    "wof:lastmodified":1564145077,
+    "wof:lastmodified":1566649847,
     "wof:name":"Warnakomoponafaja",
     "wof:parent_id":1091711303,
     "wof:placetype":"locality",
