@@ -11,8 +11,11 @@
     "geom:longitude":-55.18333,
     "gn:country":"SR",
     "gn:fcode":"PPL",
-    "gn:pop":2105,
+    "gn:population":2105,
     "iso:country":"SR",
+    "lbl:bbox":"-55.20333,5.56333,-55.16333,5.60333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -64,7 +67,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u043d\u0432\u0435\u0440\u0432\u0430\u0445\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Unverwacht"
     ],
     "name:urd_x_preferred":[
@@ -178,7 +181,7 @@
     "wof:concordances":{
         "gn:id":3383384,
         "gp:id":377232,
-        "qs:id":1044206,
+        "qs_pg:id":1044206,
         "wd:id":"Q1861566",
         "wk:page":"Onverwacht"
     },
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":890444599,
-    "wof:lastmodified":1563281026,
+    "wof:lastmodified":1566649882,
     "wof:name":"Onverwacht",
     "wof:parent_id":1091712577,
     "wof:placetype":"locality",

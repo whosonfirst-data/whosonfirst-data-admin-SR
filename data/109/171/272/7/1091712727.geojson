@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.620759,
     "lbl:longitude":-55.759274,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Saramacca",
     "meso:gadm_adm2":"Calcutta",
     "meso:gadm_hasc2":"SR.SA.CL",
@@ -30,6 +32,7 @@
     "mps:longitude":-55.759274,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Calcutta"
     ],
@@ -49,9 +52,9 @@
         "\u06a9\u0644\u06a9\u062a\u06c1"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-08-02",
+    "src:population_date":"2004-08-02",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-08-02",
     "statoids:capital":"",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1091712727,
-    "wof:lastmodified":1563280998,
+    "wof:lastmodified":1566649869,
     "wof:name":"Calcutta",
     "wof:parent_id":85677341,
     "wof:placetype":"county",

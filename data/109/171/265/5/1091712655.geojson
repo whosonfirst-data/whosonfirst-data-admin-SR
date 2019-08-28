@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.625333,
     "lbl:longitude":-55.291278,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Para",
     "meso:gadm_adm2":"Noord",
     "meso:gadm_hasc2":"SR.PR.ND",
@@ -30,6 +32,7 @@
     "mps:longitude":-55.291278,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Noord"
     ],
@@ -58,9 +61,9 @@
         "Noord"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-08-02",
+    "src:population_date":"2004-08-02",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-08-02",
     "statoids:capital":"",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1091712655,
-    "wof:lastmodified":1564145113,
+    "wof:lastmodified":1566649876,
     "wof:name":"Noord",
     "wof:parent_id":85677319,
     "wof:placetype":"county",

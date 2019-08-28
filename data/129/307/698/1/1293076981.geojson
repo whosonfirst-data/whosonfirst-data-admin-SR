@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Paramaribo",
     "iso:country":"SR",
+    "lbl:bbox":"-55.55333,3.23,-55.51333,3.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Trio",
         "Alopidorp",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293076981,
-    "wof:lastmodified":1537701379,
+    "wof:lastmodified":1566649838,
     "wof:name":"Alopi",
     "wof:parent_id":1091713471,
     "wof:placetype":"locality",

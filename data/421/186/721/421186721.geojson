@@ -10,8 +10,12 @@
     "geom:latitude":5.943814,
     "geom:longitude":-56.990203,
     "iso:country":"SR",
+    "lbl:bbox":"-57.010203,5.923814,-56.970203,5.963814",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Nieuw-Nickerie"
@@ -114,7 +118,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":377231,
-        "qs:id":1075753,
+        "qs_pg:id":1075753,
         "wd:id":"Q738313"
     },
     "wof:country":"SR",
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":421186721,
-    "wof:lastmodified":1563281024,
+    "wof:lastmodified":1566649881,
     "wof:name":"Nieuw Nickerie",
     "wof:parent_id":1091712507,
     "wof:placetype":"locality",

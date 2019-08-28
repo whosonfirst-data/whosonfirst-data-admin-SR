@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.612312,
     "lbl:longitude":-54.915542,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Commewijne",
     "meso:gadm_adm2":"Meerzorg",
     "meso:gadm_hasc2":"SR.CM.MZ",
@@ -30,6 +32,7 @@
     "mps:longitude":-54.915542,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041c\u0435\u0440\u0437\u043e\u0440\u0433"
     ],
@@ -73,9 +76,9 @@
         "\u6885\u723e\u4f50\u683c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-08-02",
+    "src:population_date":"2004-08-02",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-08-02",
     "statoids:capital":"",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1091711959,
-    "wof:lastmodified":1563280995,
+    "wof:lastmodified":1566649868,
     "wof:name":"Meerzorg",
     "wof:parent_id":85677329,
     "wof:placetype":"county",

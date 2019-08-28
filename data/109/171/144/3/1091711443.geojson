@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.696054,
     "lbl:longitude":-56.461492,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Coronie",
     "meso:gadm_adm2":"Johanna Maria",
     "meso:gadm_hasc2":"SR.CR.JM",
@@ -30,6 +32,7 @@
     "mps:longitude":-56.461492,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Johanna Maria"
     ],
@@ -46,9 +49,9 @@
         "Johanna Maria"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-08-02",
+    "src:population_date":"2004-08-02",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-08-02",
     "statoids:capital":"",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1091711443,
-    "wof:lastmodified":1561844170,
+    "wof:lastmodified":1566649872,
     "wof:name":"Johanna Maria",
     "wof:parent_id":85677333,
     "wof:placetype":"county",

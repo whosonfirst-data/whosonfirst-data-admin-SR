@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Paramaribo",
     "iso:country":"SR",
+    "lbl:bbox":"-55.04855,5.60043,-55.00855,5.64043",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nld_x_preferred":[
         "Rorac"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343368925,
-    "wof:lastmodified":1537701364,
+    "wof:lastmodified":1566649828,
     "wof:name":"Rorac",
     "wof:parent_id":1091711959,
     "wof:placetype":"locality",

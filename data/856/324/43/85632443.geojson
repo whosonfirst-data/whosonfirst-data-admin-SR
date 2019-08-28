@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":4.165951,
     "lbl:longitude":-55.945507,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":4.165951,
     "mps:longitude":-55.945507,
     "mz:hierarchy_label":1,
@@ -731,9 +733,7 @@
         "\u0421\u0443\u0440\u0456\u043d\u0430\u043c"
     ],
     "name:und_x_variant":[
-        "Republika Surinam"
-    ],
-    "name:unk_x_variant":[
+        "Republika Surinam",
         "Nederlandsch Guyana"
     ],
     "name:urd_x_preferred":[
@@ -895,7 +895,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"597",
     "statoids:ds":"SME",
@@ -940,7 +940,7 @@
         "mzb:id":"suriname",
         "ne:adm0_a3":"SUR",
         "nyt:id":"N9996101281380991951",
-        "qs:id":219368,
+        "qs_pg:id":219368,
         "uncrt:id":"SME",
         "wd:id":"Q730",
         "wk:page":"Suriname",
@@ -962,7 +962,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1565736713,
+    "wof:lastmodified":1566649834,
     "wof:name":"Suriname",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

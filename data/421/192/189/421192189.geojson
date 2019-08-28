@@ -10,8 +10,12 @@
     "geom:latitude":5.85,
     "geom:longitude":-55.01667,
     "iso:country":"SR",
+    "lbl:bbox":"-55.03667,5.83,-54.99667,5.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:nld_x_preferred":[
         "Now Tr\u00e9sor"
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":3383471,
         "gp:id":377084,
-        "qs:id":1165368
+        "qs_pg:id":1165368
     },
     "wof:country":"SR",
     "wof:created":1459009728,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421192189,
-    "wof:lastmodified":1527716111,
+    "wof:lastmodified":1566649880,
     "wof:name":"Mon Tr\u00e9sor",
     "wof:parent_id":1091711865,
     "wof:placetype":"locality",

@@ -11,15 +11,18 @@
     "geom:longitude":-55.08333,
     "gn:country":"SR",
     "gn:fcode":"PPL",
-    "gn:pop":4935,
+    "gn:population":4935,
     "iso:country":"SR",
+    "lbl:bbox":"-55.10333,5.86333,-55.06333,5.90333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
     "name:fra_x_preferred":[
         "Nieuw-Amsterdam"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fort Amsterdam"
     ],
     "ne:ADM0CAP":0.0,
@@ -129,7 +132,7 @@
     "wof:concordances":{
         "gn:id":3383434,
         "gp:id":377223,
-        "qs:id":1044208
+        "qs_pg:id":1044208
     },
     "wof:country":"SR",
     "wof:created":1469052089,
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":890435977,
-    "wof:lastmodified":1505343550,
+    "wof:lastmodified":1566649883,
     "wof:name":"Nieuw Amsterdam",
     "wof:parent_id":1091713543,
     "wof:placetype":"locality",

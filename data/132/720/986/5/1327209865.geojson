@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Paramaribo",
     "iso:country":"SR",
+    "lbl:bbox":"-56.10333,5.08,-56.06333,5.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kaaimanstone",
         "Kaaimanston"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327209865,
-    "wof:lastmodified":1537701371,
+    "wof:lastmodified":1566649828,
     "wof:name":"Kaaimanston",
     "wof:parent_id":1091712919,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":5.61667,
     "geom:longitude":-54.4,
     "iso:country":"SR",
+    "lbl:bbox":"-54.42,5.59667,-54.38,5.63667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
@@ -203,7 +206,7 @@
     "wof:concordances":{
         "gn:id":3383494,
         "gp:id":377241,
-        "qs:id":1044209,
+        "qs_pg:id":1044209,
         "wd:id":"Q24226",
         "wk:page":"Moengo"
     },
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":421176119,
-    "wof:lastmodified":1563281025,
+    "wof:lastmodified":1566649882,
     "wof:name":"Moengo",
     "wof:parent_id":1091712007,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Paramaribo",
     "iso:country":"SR",
+    "lbl:bbox":"-55.45272,4.12269,-55.41272,4.16269",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mar\u00e9chalkriki",
         "Mar\u00e9chalskriki"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260355499,
-    "wof:lastmodified":1537701368,
+    "wof:lastmodified":1566649861,
     "wof:name":"Marechalskriki",
     "wof:parent_id":1091712805,
     "wof:placetype":"locality",

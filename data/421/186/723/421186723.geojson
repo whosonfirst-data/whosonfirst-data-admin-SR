@@ -10,8 +10,12 @@
     "geom:latitude":3.345579,
     "geom:longitude":-55.446109,
     "iso:country":"SR",
+    "lbl:bbox":"-55.466109,3.325579,-55.426109,3.365579",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Paloemeu"
@@ -51,7 +55,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":377242,
-        "qs:id":1075754,
+        "qs_pg:id":1075754,
         "wd:id":"Q2221422"
     },
     "wof:country":"SR",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":421186723,
-    "wof:lastmodified":1563281023,
+    "wof:lastmodified":1566649881,
     "wof:name":"Palumeu",
     "wof:parent_id":1091713471,
     "wof:placetype":"locality",

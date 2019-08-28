@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.879889,
     "lbl:longitude":-55.201929,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Paramaribo",
     "meso:gadm_adm2":"Munder",
     "meso:gadm_hasc2":"SR.PM.MU",
@@ -30,6 +32,7 @@
     "mps:longitude":-55.201929,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Munder"
     ],
@@ -49,9 +52,9 @@
         "Munder"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-08-02",
+    "src:population_date":"2004-08-02",
     "statoids:area_km":"",
     "statoids:as_of_date":"2004-08-02",
     "statoids:capital":"",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1091713187,
-    "wof:lastmodified":1563281016,
+    "wof:lastmodified":1566649877,
     "wof:name":"Munder",
     "wof:parent_id":85677337,
     "wof:placetype":"county",
