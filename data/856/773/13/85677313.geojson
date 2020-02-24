@@ -275,6 +275,9 @@
         "wk:page":"Brokopondo District"
     },
     "wof:country":"SR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e5f69157de767b6125015f4c36e1f174",
     "wof:hierarchy":[
         {
@@ -290,7 +293,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1566649838,
+    "wof:lastmodified":1582326696,
     "wof:name":"Brokopondo",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

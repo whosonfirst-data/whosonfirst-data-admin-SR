@@ -266,6 +266,9 @@
         "wk:page":"Sipaliwini District"
     },
     "wof:country":"SR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4ce900088b3c3d7ab6d0ee7ac87f2aa4",
     "wof:hierarchy":[
         {
@@ -281,7 +284,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1566649837,
+    "wof:lastmodified":1582326695,
     "wof:name":"Sipaliwini",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

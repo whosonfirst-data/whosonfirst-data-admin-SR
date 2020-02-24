@@ -277,6 +277,9 @@
         "wk:page":"Coronie District"
     },
     "wof:country":"SR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6eb06d1e96c497495e4832dafbf164f5",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1566649835,
+    "wof:lastmodified":1582326694,
     "wof:name":"Coronie",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

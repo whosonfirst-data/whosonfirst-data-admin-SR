@@ -73,6 +73,9 @@
         "qs:id":1165369
     },
     "wof:country":"SR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"68dc7cfd3da8fc4087255924280745e4",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1534379462,
+    "wof:lastmodified":1582326693,
     "wof:name":"Zorg en Hoop",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
