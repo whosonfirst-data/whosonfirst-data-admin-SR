@@ -893,7 +893,6 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
-        "naturalearth",
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -968,7 +967,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1582326694,
+    "wof:lastmodified":1583210427,
     "wof:name":"Suriname",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
