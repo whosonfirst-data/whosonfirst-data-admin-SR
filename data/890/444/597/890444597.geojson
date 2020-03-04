@@ -525,6 +525,10 @@
     ],
     "wof:country":"SR",
     "wof:created":1469052475,
+    "wof:geom_alt":[
+        "unknown",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c842bcb7a9deddb50bf18e9d6ddc5c58",
     "wof:hierarchy":[
         {
@@ -536,7 +540,7 @@
         }
     ],
     "wof:id":890444597,
-    "wof:lastmodified":1566649882,
+    "wof:lastmodified":1582326697,
     "wof:name":"Paramaribo",
     "wof:parent_id":1091712961,
     "wof:placetype":"locality",

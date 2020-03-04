@@ -269,6 +269,9 @@
         "wk:page":"Para District"
     },
     "wof:country":"SR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5477edac9098207067b9fa0a5dc65be1",
     "wof:hierarchy":[
         {
@@ -284,7 +287,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1566649836,
+    "wof:lastmodified":1582326695,
     "wof:name":"Para",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

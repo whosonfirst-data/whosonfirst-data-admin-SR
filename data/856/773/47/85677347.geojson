@@ -278,6 +278,9 @@
         "wk:page":"Wanica District"
     },
     "wof:country":"SR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"51b21c097b1ce397fc68105e6ea2efe9",
     "wof:hierarchy":[
         {
@@ -293,7 +296,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1566649838,
+    "wof:lastmodified":1582326696,
     "wof:name":"Wanica",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

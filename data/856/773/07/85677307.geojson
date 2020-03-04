@@ -276,6 +276,9 @@
         "wk:page":"Nickerie District"
     },
     "wof:country":"SR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c0487cb8b7a7e78ddc8d9b20cc2eb038",
     "wof:hierarchy":[
         {
@@ -291,7 +294,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1566649836,
+    "wof:lastmodified":1582326695,
     "wof:name":"Nickerie",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

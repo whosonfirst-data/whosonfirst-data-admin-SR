@@ -278,6 +278,9 @@
         "wk:page":"Commewijne District"
     },
     "wof:country":"SR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5eafd1343ebcf6eb4585a19740cd3a22",
     "wof:hierarchy":[
         {
@@ -293,7 +296,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1566649836,
+    "wof:lastmodified":1582326694,
     "wof:name":"Commewijne",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

@@ -948,6 +948,11 @@
     },
     "wof:country":"SR",
     "wof:country_alpha3":"SUR",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth",
+        "meso"
+    ],
     "wof:geomhash":"6a150f273593d93dacc5fbbcd9cb63d8",
     "wof:hierarchy":[
         {
@@ -962,7 +967,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1566649834,
+    "wof:lastmodified":1583210427,
     "wof:name":"Suriname",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

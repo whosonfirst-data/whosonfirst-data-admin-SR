@@ -272,6 +272,9 @@
         "wk:page":"Marowijne District"
     },
     "wof:country":"SR",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b324044576f6527be52e68078cb96ecc",
     "wof:hierarchy":[
         {
@@ -287,7 +290,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1566649836,
+    "wof:lastmodified":1582326695,
     "wof:name":"Marowijne",
     "wof:parent_id":85632443,
     "wof:placetype":"region",
