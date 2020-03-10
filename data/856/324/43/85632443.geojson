@@ -924,9 +924,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Suriname",
-        "digitalenvoy:country_code":[
-            740
-        ],
+        "digitalenvoy:country_code":740,
         "fb:id":"en.suriname",
         "fifa:id":"SUR",
         "fips:code":"NS",
@@ -970,7 +968,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1583529225,
+    "wof:lastmodified":1583797434,
     "wof:name":"Suriname",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
