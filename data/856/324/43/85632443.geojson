@@ -1023,7 +1023,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
-        "meso"
+        "meso",
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1083,7 +1084,8 @@
     "wof:geom_alt":[
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth",
-        "meso"
+        "meso",
+        "whosonfirst-interior"
     ],
     "wof:geomhash":"9963982c052b6a71b608df0f4583fd50",
     "wof:hierarchy":[
@@ -1099,7 +1101,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1617827444,
+    "wof:lastmodified":1618362231,
     "wof:name":"Suriname",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
