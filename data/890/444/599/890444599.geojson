@@ -19,16 +19,40 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0646\u0641\u0631\u0641\u0627\u063a\u062a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0985\u09a8\u09ad\u09be\u09b0\u0993\u09df\u09be\u09b8\u09cd\u099f"
+    ],
     "name:ceb_x_preferred":[
         "Onverwacht"
     ],
     "name:deu_x_preferred":[
         "Onverwacht"
     ],
+    "name:ell_x_preferred":[
+        "\u038c\u03bd\u03b2\u03b5\u03c1\u03b2\u03b1\u03c7\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Onverwacht"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0646\u0648\u0631 \u0648\u0627\u0686"
+    ],
     "name:fra_x_preferred":[
+        "Onverwacht"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e0\u05d1\u05e8\u05d5\u05d5\u05d0\u05db\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0913\u0928\u0935\u0930\u094d\u0935\u093e\u091a"
+    ],
+    "name:hun_x_preferred":[
+        "Onverwacht"
+    ],
+    "name:ind_x_preferred":[
         "Onverwacht"
     ],
     "name:ita_x_preferred":[
@@ -36,6 +60,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30aa\u30f3\u30d5\u30a7\u30eb\u30ef\u30cf\u30c8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc628\ubc84\uc640\ud2b8"
     ],
     "name:lit_x_preferred":[
         "Onvervachtas"
@@ -64,6 +91,9 @@
     "name:swe_x_preferred":[
         "Onverwacht"
     ],
+    "name:tur_x_preferred":[
+        "Onverwacht"
+    ],
     "name:ukr_x_preferred":[
         "\u041e\u043d\u0432\u0435\u0440\u0432\u0430\u0445\u0442"
     ],
@@ -72,6 +102,15 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0646\u0648\u0631\u0648\u0627\u062e\u062a"
+    ],
+    "name:vie_x_preferred":[
+        "Onverwacht"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7fc1\u5f17\u74e6\u8d6b\u7279"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5b89\u4f5b\u74e6\u5951"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Suriname",
@@ -198,7 +237,7 @@
         }
     ],
     "wof:id":890444599,
-    "wof:lastmodified":1566649882,
+    "wof:lastmodified":1636496744,
     "wof:name":"Onverwacht",
     "wof:parent_id":1091712577,
     "wof:placetype":"locality",

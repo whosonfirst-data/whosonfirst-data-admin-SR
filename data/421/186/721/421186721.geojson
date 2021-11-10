@@ -17,8 +17,17 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0648 \u0646\u064a\u0643\u064a\u0631\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09bf\u0989\u0987 \u09a8\u09bf\u0995\u09c7\u09b0\u09bf"
+    ],
     "name:deu_x_preferred":[
         "Nieuw-Nickerie"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03af\u03bf\u03c5 \u039d\u03af\u03ba\u03b5\u03c1\u03b9"
     ],
     "name:eng_x_preferred":[
         "Nieuw Nickerie"
@@ -38,7 +47,16 @@
     "name:heb_x_preferred":[
         "\u05e0\u05d9\u05d0\u05d1 \u05e0\u05d9\u05e7\u05e8\u05d9"
     ],
+    "name:hin_x_preferred":[
+        "\u0928\u0940\u092f\u0942 \u0928\u093f\u0915\u0930\u0940"
+    ],
     "name:hrv_x_preferred":[
+        "Nieuw Nickerie"
+    ],
+    "name:hun_x_preferred":[
+        "Nieuw Nickerie"
+    ],
+    "name:ind_x_preferred":[
         "Nieuw Nickerie"
     ],
     "name:ita_x_preferred":[
@@ -77,6 +95,12 @@
     "name:srn_x_preferred":[
         "Nieuw Nickerie"
     ],
+    "name:swe_x_preferred":[
+        "Nieuw Nickerie"
+    ],
+    "name:tur_x_preferred":[
+        "Nieuw Nickerie"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u044c\u0457\u0432-\u041d\u0456\u043a\u043a\u0435\u0440\u0456"
     ],
@@ -85,6 +109,9 @@
     ],
     "name:vep_x_preferred":[
         "Uz' Nikkeri"
+    ],
+    "name:vie_x_preferred":[
+        "Nieuw Nickerie"
     ],
     "name:zho_x_preferred":[
         "\u65b0\u5c3c\u514b\u91cc"
@@ -134,7 +161,7 @@
         }
     ],
     "wof:id":421186721,
-    "wof:lastmodified":1566649881,
+    "wof:lastmodified":1636496743,
     "wof:name":"Nieuw Nickerie",
     "wof:parent_id":1091712507,
     "wof:placetype":"locality",

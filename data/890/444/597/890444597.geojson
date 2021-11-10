@@ -151,6 +151,9 @@
         "Paramaribo"
     ],
     "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05e8\u05d0\u05de\u05e8\u05d9\u05d1\u05d5"
+    ],
+    "name:heb_x_variant":[
         "\u05e4\u05e8\u05de\u05e8\u05d9\u05d1\u05d5"
     ],
     "name:hif_x_preferred":[
@@ -505,8 +508,8 @@
     "wof:belongsto":[
         102191577,
         85632443,
-        1091712961,
-        85677337
+        85677337,
+        1091712961
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -542,7 +545,7 @@
         }
     ],
     "wof:id":890444597,
-    "wof:lastmodified":1607390887,
+    "wof:lastmodified":1636496744,
     "wof:name":"Paramaribo",
     "wof:parent_id":1091712961,
     "wof:placetype":"locality",

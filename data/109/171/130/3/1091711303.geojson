@@ -39,6 +39,12 @@
     "name:fra_x_preferred":[
         "Saramacca"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05e8\u05d0\u05de\u05d0\u05e7\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Saramacca"
+    ],
     "name:ita_x_preferred":[
         "Boven Saramacca"
     ],
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1091711303,
-    "wof:lastmodified":1627522789,
+    "wof:lastmodified":1636496742,
     "wof:name":"Saramacca",
     "wof:parent_id":85677323,
     "wof:placetype":"county",

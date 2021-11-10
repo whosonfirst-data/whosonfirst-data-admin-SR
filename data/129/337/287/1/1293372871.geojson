@@ -165,6 +165,9 @@
         "Hannover"
     ],
     "name:hun_x_preferred":[
+        "Hanover"
+    ],
+    "name:hun_x_variant":[
         "Hannover"
     ],
     "name:hye_x_preferred":[
@@ -418,7 +421,7 @@
         }
     ],
     "wof:id":1293372871,
-    "wof:lastmodified":1566649839,
+    "wof:lastmodified":1636496741,
     "wof:name":"Hanover",
     "wof:parent_id":1091712577,
     "wof:placetype":"locality",

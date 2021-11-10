@@ -29,6 +29,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0985\u09b0\u09cb\u09b0\u09be"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e8\u05d5\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0911\u0930\u094b\u0930\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Aurora"
+    ],
     "name:kor_x_preferred":[
         "\uc544\uc6b0\ub85c\ub77c"
     ],
@@ -63,7 +75,7 @@
         "wk:page":"Aurora%2C_Suriname"
     },
     "wof:country":"SR",
-    "wof:geomhash":"0c677df31e36bb2966e29df835cc9403",
+    "wof:geomhash":"747109cc529645eec974152eede086c5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -74,7 +86,7 @@
         }
     ],
     "wof:id":1276510133,
-    "wof:lastmodified":1566649847,
+    "wof:lastmodified":1636496741,
     "wof:name":"Aurora",
     "wof:parent_id":1091712805,
     "wof:placetype":"locality",
@@ -84,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -55.40768000000001,
+    -55.40768,
     4.37594,
-    -55.40768000000001,
+    -55.40768,
     4.37594
 ],
-  "geometry": {"coordinates":[-55.40768000000001,4.37594],"type":"Point"}
+  "geometry": {"coordinates":[-55.40768,4.37594],"type":"Point"}
 }
