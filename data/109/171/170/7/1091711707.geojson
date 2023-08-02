@@ -42,6 +42,9 @@
     "name:ita_x_preferred":[
         "Carolina"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30ed\u30ea\u30fc\u30ca"
+    ],
     "name:nld_x_preferred":[
         "Carolina"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1091711707,
-    "wof:lastmodified":1627522788,
+    "wof:lastmodified":1690866704,
     "wof:name":"Carolina",
     "wof:parent_id":85677319,
     "wof:placetype":"county",

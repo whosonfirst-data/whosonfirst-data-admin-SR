@@ -66,6 +66,9 @@
     "name:nld_x_preferred":[
         "Cottica"
     ],
+    "name:pol_x_preferred":[
+        "Cottica"
+    ],
     "name:por_x_preferred":[
         "Cottica"
     ],
@@ -221,7 +224,7 @@
         }
     ],
     "wof:id":1141909175,
-    "wof:lastmodified":1636496745,
+    "wof:lastmodified":1690866709,
     "wof:name":"Cottica",
     "wof:parent_id":1091713471,
     "wof:placetype":"locality",

@@ -74,11 +74,17 @@
     "name:ron_x_preferred":[
         "Brownsweg"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0430\u0443\u043d\u0441\u0432\u0435\u0433"
+    ],
     "name:spa_x_preferred":[
         "Brownsweg"
     ],
     "name:srn_x_preferred":[
         "Brownsweg"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0430\u0443\u043d\u0441\u0432\u0435\u0433"
     ],
     "name:swe_x_preferred":[
         "Brownsweg"
@@ -147,7 +153,7 @@
         }
     ],
     "wof:id":421174659,
-    "wof:lastmodified":1636496743,
+    "wof:lastmodified":1690866705,
     "wof:name":"Brownsweg",
     "wof:parent_id":1091711271,
     "wof:placetype":"locality",

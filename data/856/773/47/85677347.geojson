@@ -35,6 +35,9 @@
     "name:ara_x_variant":[
         "\u0636\u0627\u062d\u064a\u0629 \u0648\u0627\u0646\u064a\u0643\u0627"
     ],
+    "name:bel_x_preferred":[
+        "\u0430\u043a\u0440\u0443\u0433\u0430 \u0412\u0430\u043d\u0456\u043a\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09be\u09a8\u09bf\u0995\u09be \u099c\u09c7\u09b2\u09be"
     ],
@@ -104,6 +107,9 @@
     "name:kor_x_preferred":[
         "\ubc14\ub2c8\uce74 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ubc14\ub2c8\uce74\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Vanikas distrikts"
     ],
@@ -143,6 +149,9 @@
     "name:sin_x_preferred":[
         "\u0dc0\u0db1\u0dd2\u0d9a\u0dcf \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
     ],
+    "name:smn_x_preferred":[
+        "Wanica pirr\u00e2d\u00e2h"
+    ],
     "name:spa_x_preferred":[
         "Wanica"
     ],
@@ -172,6 +181,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Wanica"
+    ],
+    "name:wuu_x_preferred":[
+        "\u74e6\u5c3c\u5361\u533a"
     ],
     "name:zho_x_preferred":[
         "\u74e6\u5c3c\u5361\u533a"
@@ -299,7 +311,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1636496741,
+    "wof:lastmodified":1690866692,
     "wof:name":"Wanica",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

@@ -42,7 +42,13 @@
     "name:ita_x_preferred":[
         "Wayamboweg"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ef\u30fc\u30a4\u30e4\u30f3\u30dc\u30a6\u30a7\u30d5"
+    ],
     "name:nld_x_preferred":[
+        "Wayamboweg"
+    ],
+    "name:pol_x_preferred":[
         "Wayamboweg"
     ],
     "name:spa_x_preferred":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1091711577,
-    "wof:lastmodified":1627522790,
+    "wof:lastmodified":1690866693,
     "wof:name":"Wayamboweg",
     "wof:parent_id":85677341,
     "wof:placetype":"county",

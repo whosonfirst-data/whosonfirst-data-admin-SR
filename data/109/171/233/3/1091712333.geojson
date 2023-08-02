@@ -42,6 +42,9 @@
     "name:ceb_x_preferred":[
         "Totness"
     ],
+    "name:ces_x_preferred":[
+        "Totness"
+    ],
     "name:deu_x_preferred":[
         "Totness"
     ],
@@ -84,6 +87,9 @@
     "name:nld_x_preferred":[
         "Totness"
     ],
+    "name:pol_x_preferred":[
+        "Totness"
+    ],
     "name:por_x_preferred":[
         "Totness"
     ],
@@ -93,6 +99,9 @@
     "name:rus_x_preferred":[
         "\u0422\u043e\u0442\u043d\u0435\u0441\u0441"
     ],
+    "name:slk_x_preferred":[
+        "Totness"
+    ],
     "name:spa_x_preferred":[
         "Totness"
     ],
@@ -100,6 +109,9 @@
         "Totness"
     ],
     "name:swe_x_preferred":[
+        "Totness"
+    ],
+    "name:szl_x_preferred":[
         "Totness"
     ],
     "name:tur_x_preferred":[
@@ -156,7 +168,7 @@
         }
     ],
     "wof:id":1091712333,
-    "wof:lastmodified":1636496742,
+    "wof:lastmodified":1690866697,
     "wof:name":"Totness",
     "wof:parent_id":85677333,
     "wof:placetype":"county",

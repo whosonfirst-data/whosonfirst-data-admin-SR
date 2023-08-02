@@ -36,17 +36,26 @@
     "name:eng_x_preferred":[
         "Oost"
     ],
+    "name:eng_x_variant":[
+        "Oost-Para"
+    ],
     "name:fra_x_preferred":[
         "Oost"
     ],
     "name:ita_x_preferred":[
         "Para-Oost"
     ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30fc\u30b9\u30c8"
+    ],
     "name:nld_x_preferred":[
         "Oost-Para"
     ],
     "name:nld_x_variant":[
         "Saramaccapolder"
+    ],
+    "name:pol_x_preferred":[
+        "Oost"
     ],
     "name:spa_x_preferred":[
         "Oost-Para"
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":1091712133,
-    "wof:lastmodified":1627522789,
+    "wof:lastmodified":1690866702,
     "wof:name":"Oost",
     "wof:parent_id":85677319,
     "wof:placetype":"county",

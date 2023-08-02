@@ -36,6 +36,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u062c\u0631\u0648\u0646\u064a\u0646\u062c\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0644\u062f\u064a\u0629 \u062c\u0631\u0648\u0646\u064a\u0646\u062c\u0646"
+    ],
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09b0\u09cb\u09a8\u09bf\u0982\u0997\u09c7\u09a8"
     ],
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":1091712379,
-    "wof:lastmodified":1636496743,
+    "wof:lastmodified":1690866703,
     "wof:name":"Groningen",
     "wof:parent_id":85677341,
     "wof:placetype":"county",

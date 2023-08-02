@@ -101,6 +101,9 @@
     "name:kor_x_preferred":[
         "\ub2c8\ucf00\ub9ac \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ub2c8\ucf00\ub9ac\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Nikerio re\u0123ions"
     ],
@@ -141,6 +144,9 @@
     "name:sin_x_preferred":[
         "\u0db1\u0dd2\u0d9a\u0dd9\u0dbb\u0dd2 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
+    "name:smn_x_preferred":[
+        "Nickerie pirr\u00e2d\u00e2h"
+    ],
     "name:spa_x_preferred":[
         "Nickerie"
     ],
@@ -173,6 +179,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Nickerie"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5c3c\u514b\u91cc\u533a"
     ],
     "name:zho_x_preferred":[
         "\u5c3c\u514b\u91cc\u533a"
@@ -300,7 +309,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1636496740,
+    "wof:lastmodified":1690866691,
     "wof:name":"Nickerie",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

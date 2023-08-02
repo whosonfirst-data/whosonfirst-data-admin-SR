@@ -25,10 +25,19 @@
     "name:ara_x_preferred":[
         "\u0623\u0644\u0628\u064a\u0646\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0628\u064a\u0646\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Albina"
+    ],
     "name:cat_x_preferred":[
         "Albina"
     ],
     "name:ceb_x_preferred":[
+        "Albina"
+    ],
+    "name:ces_x_preferred":[
         "Albina"
     ],
     "name:deu_x_preferred":[
@@ -55,7 +64,13 @@
     "name:hun_x_preferred":[
         "Albina"
     ],
+    "name:ind_x_preferred":[
+        "Albina"
+    ],
     "name:ita_x_preferred":[
+        "Albina"
+    ],
+    "name:jav_x_preferred":[
         "Albina"
     ],
     "name:jpn_x_preferred":[
@@ -136,7 +151,7 @@
         }
     ],
     "wof:id":1125868035,
-    "wof:lastmodified":1566649884,
+    "wof:lastmodified":1690866708,
     "wof:name":"Albina",
     "wof:parent_id":1091711353,
     "wof:placetype":"locality",
