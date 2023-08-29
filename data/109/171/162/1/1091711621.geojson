@@ -45,7 +45,13 @@
     "name:ita_x_preferred":[
         "Kampong Baroe"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30f3\u30dd\u30f3\u30b0\u30fb\u30d0\u30eb\u30fc"
+    ],
     "name:nld_x_preferred":[
+        "Kampong Baroe"
+    ],
+    "name:pol_x_preferred":[
         "Kampong Baroe"
     ],
     "name:spa_x_preferred":[
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1091711621,
-    "wof:lastmodified":1627522789,
+    "wof:lastmodified":1690866700,
     "wof:name":"Kampong Baroe",
     "wof:parent_id":85677341,
     "wof:placetype":"county",

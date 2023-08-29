@@ -36,6 +36,9 @@
     "name:eng_x_preferred":[
         "Weg naar See"
     ],
+    "name:eng_x_variant":[
+        "Weg naar Zee"
+    ],
     "name:fra_x_preferred":[
         "Weg Naar Zee"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:nld_x_preferred":[
         "Weg naar Zee"
+    ],
+    "name:pol_x_preferred":[
+        "Wegnaarzee"
     ],
     "name:spa_x_preferred":[
         "Weg naar Zee"
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1091713117,
-    "wof:lastmodified":1627522790,
+    "wof:lastmodified":1690866704,
     "wof:name":"Weg Naar Zee",
     "wof:parent_id":85677337,
     "wof:placetype":"county",

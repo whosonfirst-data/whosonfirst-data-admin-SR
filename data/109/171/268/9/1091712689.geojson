@@ -48,6 +48,9 @@
     "name:nld_x_preferred":[
         "Groot Henar"
     ],
+    "name:pol_x_preferred":[
+        "Groot Henar"
+    ],
     "name:spa_x_preferred":[
         "Groot Henar"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1091712689,
-    "wof:lastmodified":1627522789,
+    "wof:lastmodified":1690866696,
     "wof:name":"Groot Henar",
     "wof:parent_id":85677307,
     "wof:placetype":"county",

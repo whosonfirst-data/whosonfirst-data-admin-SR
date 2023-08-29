@@ -48,6 +48,9 @@
     "name:nld_x_preferred":[
         "Boven-Coppename"
     ],
+    "name:pol_x_preferred":[
+        "Boven Coppename"
+    ],
     "name:por_x_preferred":[
         "Boven Coppename"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1091712919,
-    "wof:lastmodified":1627522789,
+    "wof:lastmodified":1690866703,
     "wof:name":"Coppename",
     "wof:parent_id":85677323,
     "wof:placetype":"county",

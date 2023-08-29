@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0636\u0627\u062d\u064a\u0629 \u0628\u0627\u0631\u0627\u0645\u0627\u0631\u064a\u0628\u0648"
     ],
+    "name:bar_x_preferred":[
+        "Paramaribo"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09b0\u09be\u09ae\u09be\u09b0\u09bf\u09ac\u09cb"
     ],
@@ -89,17 +92,26 @@
     "name:ita_x_preferred":[
         "distretto di Paramaribo"
     ],
+    "name:jav_x_preferred":[
+        "Dhistrik Paramaribo"
+    ],
     "name:jpn_x_preferred":[
         "\u30d1\u30e9\u30de\u30ea\u30dc\u5730\u65b9"
     ],
     "name:kor_x_preferred":[
         "\ud30c\ub77c\ub9c8\ub9ac\ubcf4 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ud30c\ub77c\ub9c8\ub9ac\ubcf4\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Paramaribo apgabals"
     ],
     "name:lit_x_preferred":[
         "Paramaribo apygarda"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u043c\u0430\u0440\u0438\u0431\u043e"
     ],
     "name:nan_x_preferred":[
         "Paramaribo Ko\u0101n"
@@ -122,6 +134,12 @@
     "name:rus_x_preferred":[
         "\u041f\u0430\u0440\u0430\u043c\u0430\u0440\u0438\u0431\u043e"
     ],
+    "name:sat_x_preferred":[
+        "\u1c6f\u1c5f\u1c68\u1c5f\u1c62\u1c5a\u1c68\u1c64\u1c75\u1c73 \u1c66\u1c5a\u1c71\u1c5a\u1c5b"
+    ],
+    "name:smn_x_preferred":[
+        "Paramaribo pirr\u00e2d\u00e2h"
+    ],
     "name:spa_x_preferred":[
         "Paramaribo"
     ],
@@ -130,6 +148,9 @@
     ],
     "name:swe_x_preferred":[
         "Paramaribo"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u043c\u0430\u0440\u0438\u0431\u043e \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
     "name:tur_x_preferred":[
         "Paramaribo"
@@ -145,6 +166,9 @@
     ],
     "name:vie_x_preferred":[
         "Paramaribo"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5e15\u62c9\u9a6c\u91cc\u535a\u533a"
     ],
     "name:zho_x_preferred":[
         "\u5e15\u62c9\u9a6c\u91cc\u535a\u533a"
@@ -275,7 +299,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1636496740,
+    "wof:lastmodified":1690866691,
     "wof:name":"Paramaribo",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

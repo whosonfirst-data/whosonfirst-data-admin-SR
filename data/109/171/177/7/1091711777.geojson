@@ -48,6 +48,9 @@
     "name:nld_x_preferred":[
         "Jarikaba"
     ],
+    "name:pol_x_preferred":[
+        "Jarikaba"
+    ],
     "name:spa_x_preferred":[
         "Jarikaba"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1091711777,
-    "wof:lastmodified":1627522789,
+    "wof:lastmodified":1690866705,
     "wof:name":"Jarikaba",
     "wof:parent_id":85677341,
     "wof:placetype":"county",

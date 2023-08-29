@@ -39,6 +39,9 @@
     "name:fra_x_preferred":[
         "Kwatta"
     ],
+    "name:fur_x_preferred":[
+        "Kwatta"
+    ],
     "name:ita_x_preferred":[
         "Kwatta"
     ],
@@ -46,6 +49,9 @@
         "\u30af\u30ef\u30c3\u30bf"
     ],
     "name:nld_x_preferred":[
+        "Kwatta"
+    ],
+    "name:pol_x_preferred":[
         "Kwatta"
     ],
     "name:spa_x_preferred":[
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1091711911,
-    "wof:lastmodified":1627522789,
+    "wof:lastmodified":1690866700,
     "wof:name":"Kwatta",
     "wof:parent_id":85677347,
     "wof:placetype":"county",

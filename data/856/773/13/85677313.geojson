@@ -35,6 +35,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09b0\u09c1\u0995\u09cb\u09aa\u09a8\u09cd\u09a1\u09c1 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:cat_x_preferred":[
+        "Brokopondo"
+    ],
     "name:ceb_x_preferred":[
         "Distrikt Brokopondo"
     ],
@@ -86,6 +89,9 @@
     "name:ita_x_preferred":[
         "distretto di Brokopondo"
     ],
+    "name:jav_x_preferred":[
+        "Dhistrik Brokopondo"
+    ],
     "name:jpn_x_preferred":[
         "\u30d6\u30ed\u30b3\u30dd\u30f3\u30c9"
     ],
@@ -94,6 +100,9 @@
     ],
     "name:kor_x_preferred":[
         "\ube0c\ub85c\ucf54\ud3f0\ub3c4 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ube0c\ub85c\ucf54\ud3f0\ub3c4\uad6c"
     ],
     "name:lav_x_preferred":[
         "Brokopondo distrikts"
@@ -106,6 +115,9 @@
     ],
     "name:mar_x_preferred":[
         "\u092c\u094d\u0930\u094b\u0915\u094b\u092a\u094b\u0928\u094d\u0921\u094b \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0440\u043e\u043a\u043e\u043f\u043e\u043d\u0434\u043e"
     ],
     "name:msa_x_preferred":[
         "Daerah Brokopondo"
@@ -133,6 +145,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0db6\u0dca\u0dbb\u0ddd\u0d9a\u0ddc\u0db4\u0ddc\u0db1\u0dca\u0da9\u0ddd \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:smn_x_preferred":[
+        "Brokopondo pirr\u00e2d\u00e2h"
     ],
     "name:spa_x_preferred":[
         "Brokopondo"
@@ -169,6 +184,9 @@
     ],
     "name:vie_x_variant":[
         "Qu\u1eadn Brokopondo"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5e03\u7f57\u79d1\u84ec\u591a\u533a"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u7f57\u79d1\u84ec\u591a\u533a"
@@ -296,7 +314,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1636496741,
+    "wof:lastmodified":1690866692,
     "wof:name":"Brokopondo",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

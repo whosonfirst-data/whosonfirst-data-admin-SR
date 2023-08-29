@@ -48,6 +48,9 @@
     "name:nld_x_preferred":[
         "Tapanahoni"
     ],
+    "name:pol_x_preferred":[
+        "Tapanahony"
+    ],
     "name:por_x_preferred":[
         "Tapanahony"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1091713471,
-    "wof:lastmodified":1627522790,
+    "wof:lastmodified":1690866699,
     "wof:name":"Tapanahony",
     "wof:parent_id":85677323,
     "wof:placetype":"county",

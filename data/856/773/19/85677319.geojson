@@ -35,6 +35,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09b0\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:cat_x_preferred":[
+        "Para"
+    ],
     "name:ceb_x_preferred":[
         "Distrikt Para"
     ],
@@ -89,6 +92,9 @@
     "name:ita_x_preferred":[
         "distretto del Para"
     ],
+    "name:jav_x_preferred":[
+        "Dhistrik Para"
+    ],
     "name:jpn_x_preferred":[
         "\u30d1\u30e9"
     ],
@@ -98,6 +104,9 @@
     "name:kor_x_preferred":[
         "\ud30c\ub77c \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ud30c\ub77c\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Paras distrikts"
     ],
@@ -106,6 +115,9 @@
     ],
     "name:mar_x_preferred":[
         "\u092a\u0947\u0930\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0430\u0440\u0430"
     ],
     "name:msa_x_preferred":[
         "Para District"
@@ -133,6 +145,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0db4\u0dbb\u0dcf \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:smn_x_preferred":[
+        "Para pirr\u00e2d\u00e2h"
     ],
     "name:spa_x_preferred":[
         "Para"
@@ -166,6 +181,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Para"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5e15\u62c9\u533a"
     ],
     "name:zho_x_preferred":[
         "\u5e15\u62c9\u533a"
@@ -293,7 +311,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1636496739,
+    "wof:lastmodified":1690866691,
     "wof:name":"Para",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

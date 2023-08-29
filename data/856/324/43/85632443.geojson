@@ -43,8 +43,14 @@
     "name:amh_x_preferred":[
         "\u1231\u122a\u1293\u121d"
     ],
+    "name:ami_x_preferred":[
+        "Suriname"
+    ],
     "name:ang_x_preferred":[
         "Suriname"
+    ],
+    "name:anp_x_preferred":[
+        "\u0938\u0942\u0930\u0940\u0928\u093e\u092e"
     ],
     "name:ara_x_preferred":[
         "\u0633\u0648\u0631\u064a\u0646\u0627\u0645"
@@ -60,6 +66,9 @@
     ],
     "name:ast_x_preferred":[
         "Surinam"
+    ],
+    "name:awa_x_preferred":[
+        "\u0938\u0942\u0930\u093f\u0928\u093e\u092e"
     ],
     "name:aym_x_preferred":[
         "Suriname"
@@ -100,6 +109,9 @@
     "name:bis_x_preferred":[
         "Suriname"
     ],
+    "name:bis_x_variant":[
+        "Surinam"
+    ],
     "name:bod_x_preferred":[
         "\u0f66\u0f74\u0f0b\u0f62\u0f72\u0f0b\u0f53\u0f7a\u0f58\u0f0d"
     ],
@@ -139,11 +151,17 @@
     "name:chv_x_preferred":[
         "\u0421\u0443\u0440\u0438\u043d\u0430\u043c"
     ],
+    "name:chy_x_preferred":[
+        "Suriname"
+    ],
     "name:ckb_x_preferred":[
         "\u0633\u0648\u0631\u06cc\u0646\u0627\u0645"
     ],
     "name:cor_x_preferred":[
         "Surinam"
+    ],
+    "name:cos_x_preferred":[
+        "Suriname"
     ],
     "name:crh_x_preferred":[
         "Surinam"
@@ -152,6 +170,9 @@
         "Swrinam"
     ],
     "name:cym_x_variant":[
+        "Suriname"
+    ],
+    "name:dag_x_preferred":[
         "Suriname"
     ],
     "name:dan_x_preferred":[
@@ -281,6 +302,9 @@
     "name:got_x_preferred":[
         "\ud800\udf43\ud800\udf3f\ud800\udf42\ud800\udf39\ud800\udf3d\ud800\udf30\ud800\udf3c\ud800\udf30"
     ],
+    "name:gpe_x_preferred":[
+        "Suriname"
+    ],
     "name:grn_x_preferred":[
         "Surin\u00e3"
     ],
@@ -374,6 +398,9 @@
     "name:kaa_x_preferred":[
         "Surinam"
     ],
+    "name:kab_x_preferred":[
+        "Surinam"
+    ],
     "name:kal_x_preferred":[
         "Suriname"
     ],
@@ -443,6 +470,9 @@
     "name:lit_x_preferred":[
         "Surinamas"
     ],
+    "name:lld_x_preferred":[
+        "Suriname"
+    ],
     "name:lmo_x_preferred":[
         "Suriname"
     ],
@@ -464,6 +494,9 @@
     "name:lzh_x_preferred":[
         "\u8607\u5229\u5357"
     ],
+    "name:mad_x_preferred":[
+        "Suriname"
+    ],
     "name:mai_x_preferred":[
         "\u0938\u0942\u0930\u0940\u0928\u093e\u092e"
     ],
@@ -482,6 +515,9 @@
     "name:mhr_x_preferred":[
         "\u0421\u0443\u0440\u0438\u043d\u0430\u043c"
     ],
+    "name:min_x_preferred":[
+        "Suriname"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u0443\u0440\u0438\u043d\u0430\u043c"
     ],
@@ -494,8 +530,17 @@
     "name:mlt_x_preferred":[
         "Surinam"
     ],
+    "name:mlt_x_variant":[
+        "Suriname"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc1\uabe8\uabd4\uabe4\uabc5\uabe5\uabc3\uabe6"
+    ],
     "name:mon_x_preferred":[
         "\u0421\u0443\u0440\u0438\u043d\u0430\u043c"
+    ],
+    "name:mri_x_preferred":[
+        "Hurin\u0101me"
     ],
     "name:mrj_x_preferred":[
         "\u0421\u0443\u0440\u0438\u043d\u0430\u043c"
@@ -650,6 +695,9 @@
     "name:sgs_x_preferred":[
         "Sor\u0117nams"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u101e\u103b\u1030\u1038\u101b\u102e\u1038\u107c\u1083\u1087\u1019\u1084\u1087"
+    ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dd4\u0dbb\u0dd2\u0db1\u0dcf\u0db8\u0dca"
     ],
@@ -665,8 +713,14 @@
     "name:sme_x_variant":[
         "Surinam"
     ],
+    "name:smn_x_preferred":[
+        "Suriname"
+    ],
     "name:smo_x_preferred":[
         "Suriname"
+    ],
+    "name:sms_x_preferred":[
+        "Surinaam"
     ],
     "name:sna_x_preferred":[
         "Suriname"
@@ -756,14 +810,23 @@
     "name:tir_x_preferred":[
         "\u1231\u122a\u1293\u121d"
     ],
+    "name:tok_x_preferred":[
+        "ma Suliname"
+    ],
     "name:ton_x_preferred":[
         "Sulinami"
     ],
     "name:tpi_x_preferred":[
         "Surinam"
     ],
+    "name:trv_x_preferred":[
+        "Suriname"
+    ],
     "name:tuk_x_preferred":[
         "Surinam"
+    ],
+    "name:tum_x_preferred":[
+        "Suriname"
     ],
     "name:tur_x_preferred":[
         "Surinam"
@@ -806,6 +869,9 @@
     "name:vie_x_variant":[
         "Xu-ri-nam",
         "Xu-ri-nam (Suriname)",
+        "Suriname"
+    ],
+    "name:vls_x_preferred":[
         "Suriname"
     ],
     "name:vol_x_preferred":[
@@ -1103,7 +1169,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1636496738,
+    "wof:lastmodified":1690866689,
     "wof:name":"Suriname",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

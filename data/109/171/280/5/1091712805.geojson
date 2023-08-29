@@ -48,6 +48,9 @@
     "name:nld_x_preferred":[
         "Boven-Suriname"
     ],
+    "name:pol_x_preferred":[
+        "Boven Suriname"
+    ],
     "name:por_x_preferred":[
         "Boven Suriname"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1091712805,
-    "wof:lastmodified":1627522788,
+    "wof:lastmodified":1690866695,
     "wof:name":"Boven Suriname",
     "wof:parent_id":85677323,
     "wof:placetype":"county",

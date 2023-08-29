@@ -42,7 +42,13 @@
     "name:ita_x_preferred":[
         "Oostelijke Polders"
     ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30fc\u30b9\u30c6\u30e9\u30a4\u30b1\u30fb\u30dd\u30eb\u30c7\u30eb\u30b9"
+    ],
     "name:nld_x_preferred":[
+        "Oostelijke Polders"
+    ],
+    "name:pol_x_preferred":[
         "Oostelijke Polders"
     ],
     "name:spa_x_preferred":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1091711485,
-    "wof:lastmodified":1627522789,
+    "wof:lastmodified":1690866705,
     "wof:name":"Oostelijke Polders",
     "wof:parent_id":85677307,
     "wof:placetype":"county",

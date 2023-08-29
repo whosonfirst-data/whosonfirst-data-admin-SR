@@ -36,11 +36,20 @@
     "name:arg_x_preferred":[
         "Paramaribo"
     ],
+    "name:ary_x_preferred":[
+        "\u067e\u0627\u0631\u0627\u0645\u0627\u0631\u064a\u0628\u0648"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0631\u0627\u0645\u0627\u0631\u064a\u0628\u0648"
+    ],
     "name:ast_x_preferred":[
         "Paramaribo"
     ],
     "name:ast_x_variant":[
         "Paramaribu"
+    ],
+    "name:avk_x_preferred":[
+        "Paramaribo"
     ],
     "name:aym_x_preferred":[
         "Paramaribo"
@@ -51,8 +60,14 @@
     "name:aze_x_preferred":[
         "Paramaribo"
     ],
+    "name:ban_x_preferred":[
+        "Paramaribo"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0430\u0440\u0430\u043c\u0430\u0440\u044b\u0431\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u0430\u0440\u0430\u043c\u0430\u0440\u044b\u0431\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09b0\u09be\u09ae\u09be\u09b0\u09bf\u09ac\u09cb"
@@ -97,6 +112,9 @@
         "Paramaribo"
     ],
     "name:deu_x_preferred":[
+        "Paramaribo"
+    ],
+    "name:diq_x_preferred":[
         "Paramaribo"
     ],
     "name:ell_x_preferred":[
@@ -150,6 +168,9 @@
     "name:hat_x_preferred":[
         "Paramaribo"
     ],
+    "name:hau_x_preferred":[
+        "Paramaribo"
+    ],
     "name:heb_x_preferred":[
         "\u05e4\u05d0\u05e8\u05d0\u05de\u05e8\u05d9\u05d1\u05d5"
     ],
@@ -175,6 +196,9 @@
         "Paramaribo"
     ],
     "name:ile_x_preferred":[
+        "Paramaribo"
+    ],
+    "name:ina_x_preferred":[
         "Paramaribo"
     ],
     "name:ind_x_preferred":[
@@ -237,6 +261,9 @@
     "name:mar_x_preferred":[
         "\u092a\u093e\u0930\u093e\u092e\u093e\u0930\u093f\u092c\u094b"
     ],
+    "name:mdf_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u043c\u0430\u0440\u0438\u0431\u043e"
+    ],
     "name:mkd_x_preferred":[
         "\u041f\u0430\u0440\u0430\u043c\u0430\u0440\u0438\u0431\u043e"
     ],
@@ -248,6 +275,9 @@
     ],
     "name:msa_x_preferred":[
         "Paramaribo"
+    ],
+    "name:mzn_x_preferred":[
+        "\u067e\u0627\u0631\u0627\u0645\u0627\u0631\u06cc\u0628\u0648"
     ],
     "name:nah_x_preferred":[
         "Paramaribo"
@@ -303,6 +333,9 @@
     "name:rus_x_preferred":[
         "\u041f\u0430\u0440\u0430\u043c\u0430\u0440\u0438\u0431\u043e"
     ],
+    "name:sat_x_preferred":[
+        "\u1c6f\u1c5f\u1c68\u1c5f\u1c62\u1c5a\u1c68\u1c64\u1c75\u1c73"
+    ],
     "name:sco_x_preferred":[
         "Paramaribo"
     ],
@@ -313,6 +346,15 @@
         "Paramaribo"
     ],
     "name:slv_x_preferred":[
+        "Paramaribo"
+    ],
+    "name:sme_x_preferred":[
+        "Paramaribo"
+    ],
+    "name:smn_x_preferred":[
+        "Paramaribo"
+    ],
+    "name:sms_x_preferred":[
         "Paramaribo"
     ],
     "name:sna_x_preferred":[
@@ -348,14 +390,23 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bb0\u0bae\u0bbe\u0bb0\u0bbf\u0baa\u0bcb"
     ],
+    "name:tat_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u043c\u0430\u0440\u0438\u0431\u043e"
+    ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c3e\u0c30\u0c3e\u0c2e\u0c3e\u0c30\u0c3f\u0c2c\u0c4b"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u043c\u0430\u0440\u0438\u0431\u043e"
     ],
     "name:tgl_x_preferred":[
         "Paramaribo"
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e32\u0e23\u0e32\u0e21\u0e32\u0e23\u0e35\u0e42\u0e1a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e32\u0e23\u0e32\u0e21\u0e32\u0e23\u0e34\u0e42\u0e1a"
     ],
     "name:tuk_x_preferred":[
         "Paramaribo"
@@ -376,6 +427,9 @@
         "\u067e\u0627\u0631\u0627\u0645\u0627\u0631\u06cc\u0628\u0648"
     ],
     "name:uzb_x_preferred":[
+        "Paramaribo"
+    ],
+    "name:vec_x_preferred":[
         "Paramaribo"
     ],
     "name:vep_x_preferred":[
@@ -545,7 +599,7 @@
         }
     ],
     "wof:id":890444597,
-    "wof:lastmodified":1636496744,
+    "wof:lastmodified":1690866707,
     "wof:name":"Paramaribo",
     "wof:parent_id":1091712961,
     "wof:placetype":"locality",

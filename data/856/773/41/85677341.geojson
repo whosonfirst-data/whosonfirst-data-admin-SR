@@ -38,6 +38,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09b0\u09be\u09ae\u09be\u0995\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:cat_x_preferred":[
+        "Saramacca"
+    ],
     "name:ceb_x_preferred":[
         "Distrikt Saramacca"
     ],
@@ -92,14 +95,23 @@
     "name:ita_x_preferred":[
         "distretto del Saramacca"
     ],
+    "name:jav_x_preferred":[
+        "Dhistrik Saramacca"
+    ],
     "name:jpn_x_preferred":[
         "\u30b5\u30e9\u30de\u30c3\u30ab"
+    ],
+    "name:jpn_x_variant":[
+        "\u30b5\u30e9\u30de\u30c3\u30ab\u5730\u65b9"
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cb0\u0cae\u0cbe\u0c95\u0ccd\u0c95\u0cbe \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
     "name:kor_x_preferred":[
         "\uc0ac\ub77c\ub9c8\uce74 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uc0ac\ub77c\ub9c8\uce74\uad6c"
     ],
     "name:lav_x_preferred":[
         "Saramakas distrikts"
@@ -137,6 +149,9 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dbb\u0db8\u0d9a\u0dca\u0d9a\u0dcf \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
+    "name:smn_x_preferred":[
+        "Saramacca pirr\u00e2d\u00e2h"
+    ],
     "name:spa_x_preferred":[
         "Saramacca"
     ],
@@ -148,6 +163,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bb0\u0bae\u0b95\u0bcd\u0b95\u0bbe  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0bb0\u0bae\u0b95\u0bcd\u0b95\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c30\u0c3e\u0c2e\u0c15\u0c4d\u0c15\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -169,6 +187,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Saramacca"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8428\u62c9\u9a6c\u5361\u533a"
     ],
     "name:zho_x_preferred":[
         "\u8428\u62c9\u9a6c\u5361\u533a"
@@ -296,7 +317,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1636496740,
+    "wof:lastmodified":1690866691,
     "wof:name":"Saramacca",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

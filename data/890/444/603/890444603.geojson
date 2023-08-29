@@ -25,6 +25,9 @@
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u0989\u0987 \u09a8\u09bf\u0995\u09c7\u09b0\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Nieuw Nickerie"
+    ],
     "name:deu_x_preferred":[
         "Nieuw-Nickerie"
     ],
@@ -241,7 +244,7 @@
         }
     ],
     "wof:id":890444603,
-    "wof:lastmodified":1636496744,
+    "wof:lastmodified":1690866707,
     "wof:name":"Nieuw Nickerie",
     "wof:parent_id":85677307,
     "wof:placetype":"locality",

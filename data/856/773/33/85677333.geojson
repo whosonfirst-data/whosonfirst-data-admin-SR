@@ -36,8 +36,14 @@
     "name:ben_x_preferred":[
         "\u0995\u09b0\u09cb\u09a8\u09c7 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:cat_x_preferred":[
+        "Coronie"
+    ],
     "name:ceb_x_preferred":[
         "Distrikt Coronie"
+    ],
+    "name:ces_x_preferred":[
+        "Coronie"
     ],
     "name:dan_x_preferred":[
         "Coronie"
@@ -99,6 +105,9 @@
     "name:kor_x_preferred":[
         "\ucf54\ub85c\ub2c8 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ucf54\ub85c\ub2c8\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Koroni distrikts"
     ],
@@ -141,6 +150,9 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0ddc\u0dbb\u0ddc\u0db1\u0dd2 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
+    "name:smn_x_preferred":[
+        "Coronie pirr\u00e2d\u00e2h"
+    ],
     "name:spa_x_preferred":[
         "Coronie"
     ],
@@ -173,6 +185,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Coronie"
+    ],
+    "name:wuu_x_preferred":[
+        "\u79d1\u7f57\u5c3c\u533a"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u7f57\u5c3c\u533a"
@@ -301,7 +316,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1636496739,
+    "wof:lastmodified":1690866690,
     "wof:name":"Coronie",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

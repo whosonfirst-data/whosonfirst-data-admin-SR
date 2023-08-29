@@ -104,6 +104,9 @@
     "name:kor_x_preferred":[
         "\ucf54\uba54\ubca0\uc774\ub108 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ucf54\uba54\ubca0\uc774\ub108\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Kommeveines distrikts"
     ],
@@ -143,6 +146,9 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0ddc\u0db8\u0dd9\u0dc0\u0dd2\u0da2\u0dca\u0db1\u0dda \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
+    "name:smn_x_preferred":[
+        "Commewijne pirr\u00e2d\u00e2h"
+    ],
     "name:spa_x_preferred":[
         "Commewijne"
     ],
@@ -175,6 +181,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Commewijne"
+    ],
+    "name:wuu_x_preferred":[
+        "\u79d1\u9ed8\u97e6\u8bb7\u533a"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u9ed8\u97e6\u8bb7\u533a"
@@ -302,7 +311,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1636496739,
+    "wof:lastmodified":1690866690,
     "wof:name":"Commewijne",
     "wof:parent_id":85632443,
     "wof:placetype":"region",
