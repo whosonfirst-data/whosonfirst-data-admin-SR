@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":11.879502,
-    "geom:area_square_m":146485775254.710205,
+    "geom:area_square_m":146485775254.705536,
     "geom:bbox":"-58.070506,1.837306,-53.978763,6.016639",
     "geom:latitude":4.139468,
     "geom:longitude":-55.906476,
@@ -14,6 +14,9 @@
     "iso:country":"SR",
     "itu:country_code":[
         "597"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "SR"
@@ -1095,7 +1098,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"597",
     "statoids:ds":"SME",
     "statoids:fifa":"SUR",
@@ -1155,7 +1159,7 @@
         "meso",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"9963982c052b6a71b608df0f4583fd50",
+    "wof:geomhash":"d5ea764fbee4be4250b0b64f939ceb46",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -1169,12 +1173,12 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1690866689,
+    "wof:lastmodified":1694639667,
     "wof:name":"Suriname",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
-    "wof:population":539276,
-    "wof:population_rank":11,
+    "wof:population":581363,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-sr",
     "wof:shortcode":"SR",
     "wof:superseded_by":[],
