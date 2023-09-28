@@ -1137,6 +1137,7 @@
         "hasc:id":"SR",
         "icao:code":"PZ",
         "ioc:id":"SUR",
+        "iso:code":"SR",
         "itu:id":"SUR",
         "loc:id":"n79022986",
         "m49:code":"740",
@@ -1151,6 +1152,7 @@
         "wk:page":"Suriname",
         "wmo:id":"SM"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SR",
     "wof:country_alpha3":"SUR",
     "wof:geom_alt":[
@@ -1173,7 +1175,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1694639667,
+    "wof:lastmodified":1695881327,
     "wof:name":"Suriname",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
