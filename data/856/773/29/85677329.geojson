@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.198207,
-    "geom:area_square_m":2438500989.141311,
+    "geom:area_square_m":2438500789.604254,
     "geom:bbox":"-55.158779,5.485897,-54.621101,6.016639",
     "geom:latitude":5.755301,
     "geom:longitude":-54.894898,
@@ -286,17 +286,19 @@
         "gn:id":3384418,
         "gp:id":2346407,
         "hasc:id":"SR.CM",
+        "iso:code":"SR-CM",
         "iso:id":"SR-CM",
         "qs_pg:id":219582,
         "unlc:id":"SR-CM",
         "wd:id":"Q952510",
         "wk:page":"Commewijne District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dfecf1bb43a4bb24a3ccc0c23d2b0cd5",
+    "wof:geomhash":"fe8c2d84b111b8629f3d0f848cbb040d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -311,7 +313,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1690866690,
+    "wof:lastmodified":1695884850,
     "wof:name":"Commewijne",
     "wof:parent_id":85632443,
     "wof:placetype":"region",
