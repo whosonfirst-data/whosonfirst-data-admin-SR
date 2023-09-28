@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082485,
-    "geom:area_square_m":1014691663.067204,
+    "geom:area_square_m":1014691812.373075,
     "geom:bbox":"-54.711453,5.623873,-53.982887,5.979249",
     "geom:latitude":5.813622,
     "geom:longitude":-54.26203,
@@ -87,9 +87,10 @@
         "hasc:id":"SR.MA.GB",
         "wd:id":"Q2554506"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880246,
-    "wof:geomhash":"0cb407482a66fe6f1e966fef0461bd94",
+    "wof:geomhash":"2f616e969d52a7a6907d3fc8eb0340a1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1091712053,
-    "wof:lastmodified":1690866697,
+    "wof:lastmodified":1695886426,
     "wof:name":"Galibi",
     "wof:parent_id":85677317,
     "wof:placetype":"county",

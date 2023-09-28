@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00047,
-    "geom:area_square_m":5776070.504631,
+    "geom:area_square_m":5776142.531384,
     "geom:bbox":"-55.23012,5.794,-55.194423,5.813576",
     "geom:latitude":5.805145,
     "geom:longitude":-55.212177,
@@ -87,9 +87,10 @@
         "hasc:id":"SR.PM.LT",
         "wd:id":"Q2352515"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880300,
-    "wof:geomhash":"37b851c6eb900f74b81a80adb57fc7bd",
+    "wof:geomhash":"37a626758c0c05151ad7ec87f8d5d30e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1091713417,
-    "wof:lastmodified":1690866698,
+    "wof:lastmodified":1695886485,
     "wof:name":"Latour",
     "wof:parent_id":85677337,
     "wof:placetype":"county",

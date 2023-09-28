@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07362,
-    "geom:area_square_m":905476035.38178,
+    "geom:area_square_m":905475907.824829,
     "geom:bbox":"-55.962944,5.826603,-55.298017,5.999306",
     "geom:latitude":5.918922,
     "geom:longitude":-55.601685,
@@ -78,9 +78,10 @@
         "hasc:id":"SR.SA.WY",
         "wd:id":"Q1757266"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880224,
-    "wof:geomhash":"94440efa17d5d421533320d665ad3a40",
+    "wof:geomhash":"8c7d671adc7edc53f23e61620fcb9c82",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1091711577,
-    "wof:lastmodified":1690866693,
+    "wof:lastmodified":1695886485,
     "wof:name":"Wayamboweg",
     "wof:parent_id":85677341,
     "wof:placetype":"county",

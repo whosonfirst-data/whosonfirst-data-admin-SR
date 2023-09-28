@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00016,
-    "geom:area_square_m":1972555.627991,
+    "geom:area_square_m":1972539.678626,
     "geom:bbox":"-55.215811,5.813507,-55.202449,5.831341",
     "geom:latitude":5.822924,
     "geom:longitude":-55.210462,
@@ -78,9 +78,10 @@
         "hasc:id":"SR.PM.FL",
         "wd:id":"Q1757272"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880283,
-    "wof:geomhash":"0b0c6be6a25d1761c62ef661851d0f71",
+    "wof:geomhash":"488a3987ac5a5dec9ed8cfe89857ce57",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1091712999,
-    "wof:lastmodified":1690866704,
+    "wof:lastmodified":1695886485,
     "wof:name":"Flora",
     "wof:parent_id":85677337,
     "wof:placetype":"county",

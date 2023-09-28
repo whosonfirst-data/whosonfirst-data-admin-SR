@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000436,
-    "geom:area_square_m":5368290.766742,
+    "geom:area_square_m":5368412.218793,
     "geom:bbox":"-55.208916,5.803639,-55.165125,5.822194",
     "geom:latitude":5.811062,
     "geom:longitude":-55.187504,
@@ -84,9 +84,10 @@
         "hasc:id":"SR.PM.BH",
         "wd:id":"Q1757528"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880295,
-    "wof:geomhash":"2dd25d69d486c4b45aa527698c3536f5",
+    "wof:geomhash":"df136fd12ff4d6fa50151690e7a94045",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1091713295,
-    "wof:lastmodified":1690866704,
+    "wof:lastmodified":1695886483,
     "wof:name":"Beekhuizen",
     "wof:parent_id":85677337,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003144,
-    "geom:area_square_m":38667038.13797,
+    "geom:area_square_m":38667173.22012,
     "geom:bbox":"-55.258546,5.84808,-55.201586,5.925109",
     "geom:latitude":5.884823,
     "geom:longitude":-55.231956,
@@ -81,9 +81,10 @@
         "hasc:id":"SR.PM.WS",
         "wd:id":"Q587993"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880288,
-    "wof:geomhash":"9a0f6abfa3f6ddaf0aa6c3cf33c273db",
+    "wof:geomhash":"6ad5039d0e21601716e589f82a1e2434",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1091713117,
-    "wof:lastmodified":1690866704,
+    "wof:lastmodified":1695886486,
     "wof:name":"Weg Naar Zee",
     "wof:parent_id":85677337,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002523,
-    "geom:area_square_m":31030804.310521,
+    "geom:area_square_m":31030798.358546,
     "geom:bbox":"-55.121103,5.798686,-55.06074,5.876846",
     "geom:latitude":5.835275,
     "geom:longitude":-55.086445,
@@ -153,9 +153,10 @@
         "hasc:id":"SR.CM.NA",
         "wd:id":"Q762619"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880248,
-    "wof:geomhash":"70ac0ea05d02f2baf600568ee4703a21",
+    "wof:geomhash":"3e66c0543e715a6f9729127b58a6116c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -165,7 +166,7 @@
         }
     ],
     "wof:id":1091712091,
-    "wof:lastmodified":1690866702,
+    "wof:lastmodified":1695886730,
     "wof:name":"Nieuw Amsterdam",
     "wof:parent_id":85677329,
     "wof:placetype":"county",

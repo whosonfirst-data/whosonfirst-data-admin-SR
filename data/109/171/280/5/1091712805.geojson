@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.621925,
-    "geom:area_square_m":7673002374.715588,
+    "geom:area_square_m":7673002434.724432,
     "geom:bbox":"-56.358689,3.256361,-55.24702,4.572774",
     "geom:latitude":3.820888,
     "geom:longitude":-55.689269,
@@ -81,9 +81,10 @@
         "hasc:id":"SR.SI.BS",
         "wd:id":"Q2582096"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880275,
-    "wof:geomhash":"9c83485576a374ec9aeb12099f520f6f",
+    "wof:geomhash":"55d96a93c3eda6b093d5cf31453f73bc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1091712805,
-    "wof:lastmodified":1690866695,
+    "wof:lastmodified":1695886483,
     "wof:name":"Boven Suriname",
     "wof:parent_id":85677323,
     "wof:placetype":"county",

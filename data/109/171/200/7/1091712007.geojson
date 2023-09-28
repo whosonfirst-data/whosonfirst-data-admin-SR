@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089712,
-    "geom:area_square_m":1103823737.248838,
+    "geom:area_square_m":1103823585.533752,
     "geom:bbox":"-54.734963,5.491355,-54.315938,5.902647",
     "geom:latitude":5.697075,
     "geom:longitude":-54.533749,
@@ -165,9 +165,10 @@
         "hasc:id":"SR.MA.MO",
         "wd:id":"Q24226"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880244,
-    "wof:geomhash":"0920479d062f6b506cb4f4ebc8c7babf",
+    "wof:geomhash":"3c83c0285396df5782d2c4ef6e4baebe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -177,7 +178,7 @@
         }
     ],
     "wof:id":1091712007,
-    "wof:lastmodified":1690866702,
+    "wof:lastmodified":1695886730,
     "wof:name":"Moengo",
     "wof:parent_id":85677317,
     "wof:placetype":"county",

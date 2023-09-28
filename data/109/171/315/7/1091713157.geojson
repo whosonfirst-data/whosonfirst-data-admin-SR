@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001774,
-    "geom:area_square_m":21817682.695422,
+    "geom:area_square_m":21818070.247276,
     "geom:bbox":"-55.198435,5.829692,-55.150808,5.912981",
     "geom:latitude":5.870967,
     "geom:longitude":-55.181083,
@@ -75,9 +75,10 @@
         "hasc:id":"SR.PM.RA",
         "wd:id":"Q691495"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880290,
-    "wof:geomhash":"577da9e148228babe723c721367bbafd",
+    "wof:geomhash":"1cee5fba28ed24bb9754148004b5e060",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1091713157,
-    "wof:lastmodified":1627522789,
+    "wof:lastmodified":1695886485,
     "wof:name":"Rainville",
     "wof:parent_id":85677337,
     "wof:placetype":"county",

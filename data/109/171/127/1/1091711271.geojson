@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.371215,
-    "geom:area_square_m":4575533558.681491,
+    "geom:area_square_m":4575533391.214795,
     "geom:bbox":"-55.37804,4.014834,-54.728048,5.005289",
     "geom:latitude":4.567195,
     "geom:longitude":-55.060725,
@@ -87,9 +87,10 @@
         "hasc:id":"SR.BR.SK",
         "wd:id":"Q2398165"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880214,
-    "wof:geomhash":"14d541c2eb183080a7bbb31a6f2fbdae",
+    "wof:geomhash":"d7675f501989a5c11c61c9e1875248e9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1091711271,
-    "wof:lastmodified":1690866699,
+    "wof:lastmodified":1695886426,
     "wof:name":"Sarakreek",
     "wof:parent_id":85677313,
     "wof:placetype":"county",

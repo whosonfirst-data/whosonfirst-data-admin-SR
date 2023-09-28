@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012194,
-    "geom:area_square_m":150038956.157219,
+    "geom:area_square_m":150039263.73554,
     "geom:bbox":"-55.357816,5.659633,-55.180334,5.755289",
     "geom:latitude":5.705392,
     "geom:longitude":-55.274272,
@@ -147,9 +147,10 @@
         "hasc:id":"SR.WA.LD",
         "wd:id":"Q935545"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880233,
-    "wof:geomhash":"8b8fd984eb0a377195d92e5163a4f4c1",
+    "wof:geomhash":"445959cae2818e065e8c14473c4948d0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":1091711803,
-    "wof:lastmodified":1690866698,
+    "wof:lastmodified":1695886427,
     "wof:name":"Lelydorp",
     "wof:parent_id":85677347,
     "wof:placetype":"county",

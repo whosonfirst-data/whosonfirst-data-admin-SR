@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000529,
-    "geom:area_square_m":6506866.859992,
+    "geom:area_square_m":6507040.025879,
     "geom:bbox":"-55.239932,5.779772,-55.191131,5.799239",
     "geom:latitude":5.791382,
     "geom:longitude":-55.213232,
@@ -81,9 +81,10 @@
         "hasc:id":"SR.PM.PB",
         "wd:id":"Q2280468"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880298,
-    "wof:geomhash":"a01a3982d6acce75d48dcd0a42e3f90b",
+    "wof:geomhash":"b13f21aa89ae5202c957840559f73ef5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1091713375,
-    "wof:lastmodified":1690866694,
+    "wof:lastmodified":1695886426,
     "wof:name":"Pontbuiten",
     "wof:parent_id":85677337,
     "wof:placetype":"county",

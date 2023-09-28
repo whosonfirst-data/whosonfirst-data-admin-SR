@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00077,
-    "geom:area_square_m":9476889.120359,
+    "geom:area_square_m":9476826.024095,
     "geom:bbox":"-55.196936,5.776715,-55.159156,5.804026",
     "geom:latitude":5.791917,
     "geom:longitude":-55.178305,
@@ -90,9 +90,10 @@
         "hasc:id":"SR.PM.LV",
         "wd:id":"Q2549349"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880285,
-    "wof:geomhash":"7515e874dbea86743b73ce3c43e6d32c",
+    "wof:geomhash":"45ce821e49a1ed62a3ecd424b6b7f31e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1091713037,
-    "wof:lastmodified":1690866700,
+    "wof:lastmodified":1695886427,
     "wof:name":"Livorno",
     "wof:parent_id":85677337,
     "wof:placetype":"county",

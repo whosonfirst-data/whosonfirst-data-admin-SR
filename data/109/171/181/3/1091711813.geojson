@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031141,
-    "geom:area_square_m":383429037.223864,
+    "geom:area_square_m":383429166.248934,
     "geom:bbox":"-55.248388,5.229413,-54.946805,5.367643",
     "geom:latitude":5.288887,
     "geom:longitude":-55.100778,
@@ -102,9 +102,10 @@
         "hasc:id":"SR.BR.MK",
         "wd:id":"Q2108036"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880238,
-    "wof:geomhash":"6760754bfb9e635d316c0551348ea753",
+    "wof:geomhash":"408dab26fed9d34f823e88c2321c6752",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1091711813,
-    "wof:lastmodified":1690866699,
+    "wof:lastmodified":1695886427,
     "wof:name":"Marchalkreek",
     "wof:parent_id":85677313,
     "wof:placetype":"county",

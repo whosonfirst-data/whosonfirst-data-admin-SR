@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038808,
-    "geom:area_square_m":477628498.146905,
+    "geom:area_square_m":477628674.569601,
     "geom:bbox":"-54.227662,5.346913,-53.997085,5.656377",
     "geom:latitude":5.53173,
     "geom:longitude":-54.104593,
@@ -147,9 +147,10 @@
         "hasc:id":"SR.MA.AB",
         "wd:id":"Q580016"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880217,
-    "wof:geomhash":"e4d18619dd802f6692d90640c90b8f54",
+    "wof:geomhash":"c637a4a2018fe05bff9129378b4a25bf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":1091711353,
-    "wof:lastmodified":1690866693,
+    "wof:lastmodified":1695886425,
     "wof:name":"Albina",
     "wof:parent_id":85677317,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00053,
-    "geom:area_square_m":6525701.930637,
+    "geom:area_square_m":6525601.159903,
     "geom:bbox":"-55.243245,5.809686,-55.214717,5.838137",
     "geom:latitude":5.824394,
     "geom:longitude":-55.227634,
@@ -81,9 +81,10 @@
         "hasc:id":"SR.PM.TG",
         "wd:id":"Q956753"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880287,
-    "wof:geomhash":"b989f708df8369f3573ec13bbf2f972f",
+    "wof:geomhash":"703d04894aabfc59f71e9bfc44591883",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1091713075,
-    "wof:lastmodified":1690866693,
+    "wof:lastmodified":1695886486,
     "wof:name":"Tammenga",
     "wof:parent_id":85677337,
     "wof:placetype":"county",

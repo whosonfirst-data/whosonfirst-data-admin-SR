@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06004,
-    "geom:area_square_m":738848464.423962,
+    "geom:area_square_m":738848191.155024,
     "geom:bbox":"-55.608842,5.440005,-55.325898,5.795171",
     "geom:latitude":5.612441,
     "geom:longitude":-55.467506,
@@ -81,9 +81,10 @@
         "hasc:id":"SR.SA.KB",
         "wd:id":"Q1757510"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880226,
-    "wof:geomhash":"11403da01a12684355fc82703476d726",
+    "wof:geomhash":"953295aa9cab949bfeca80b6ac93c3a2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1091711621,
-    "wof:lastmodified":1690866700,
+    "wof:lastmodified":1695886485,
     "wof:name":"Kampong Baroe",
     "wof:parent_id":85677341,
     "wof:placetype":"county",

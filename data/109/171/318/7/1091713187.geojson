@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000793,
-    "geom:area_square_m":9755070.161723,
+    "geom:area_square_m":9754859.08631,
     "geom:bbox":"-55.211363,5.848474,-55.193556,5.911524",
     "geom:latitude":5.880636,
     "geom:longitude":-55.202098,
@@ -78,9 +78,10 @@
         "hasc:id":"SR.PM.MU",
         "wd:id":"Q2577730"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880291,
-    "wof:geomhash":"489551401dad9e1468f016a5909d1139",
+    "wof:geomhash":"28bb4f413c29dbe0481f7ed498d32c18",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1091713187,
-    "wof:lastmodified":1690866704,
+    "wof:lastmodified":1695886428,
     "wof:name":"Munder",
     "wof:parent_id":85677337,
     "wof:placetype":"county",

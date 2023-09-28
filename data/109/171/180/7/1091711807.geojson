@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028123,
-    "geom:area_square_m":346318969.109495,
+    "geom:area_square_m":346319021.897079,
     "geom:bbox":"-55.276941,5.128008,-54.898892,5.232673",
     "geom:latitude":5.182366,
     "geom:longitude":-55.111754,
@@ -78,9 +78,10 @@
         "hasc:id":"SR.BR.KK",
         "wd:id":"Q2743532"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880236,
-    "wof:geomhash":"ea8a45f95d829272c49889eab44b2d91",
+    "wof:geomhash":"71cb86f3d76f94af60eefb10c8894db7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1091711807,
-    "wof:lastmodified":1690866698,
+    "wof:lastmodified":1695886427,
     "wof:name":"Klaaskreek",
     "wof:parent_id":85677313,
     "wof:placetype":"county",

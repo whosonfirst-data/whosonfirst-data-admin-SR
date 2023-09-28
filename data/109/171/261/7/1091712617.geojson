@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100586,
-    "geom:area_square_m":1238233714.225516,
+    "geom:area_square_m":1238233515.570233,
     "geom:bbox":"-54.641695,5.227997,-54.152818,5.598821",
     "geom:latitude":5.404323,
     "geom:longitude":-54.422439,
@@ -78,9 +78,10 @@
         "hasc:id":"SR.MA.PM",
         "wd:id":"Q1757294"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880267,
-    "wof:geomhash":"7d3aad9f83c9e46841b62efc7354041a",
+    "wof:geomhash":"501605f1ba4b4941a32c23097364d881",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1091712617,
-    "wof:lastmodified":1690866697,
+    "wof:lastmodified":1695886426,
     "wof:name":"Patamacca",
     "wof:parent_id":85677317,
     "wof:placetype":"county",

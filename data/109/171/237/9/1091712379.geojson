@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004802,
-    "geom:area_square_m":59074747.204331,
+    "geom:area_square_m":59074594.052326,
     "geom:bbox":"-55.545916,5.738661,-55.458165,5.868648",
     "geom:latitude":5.807908,
     "geom:longitude":-55.496817,
@@ -150,9 +150,10 @@
         "hasc:id":"SR.SA.GG",
         "wd:id":"Q508935"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880258,
-    "wof:geomhash":"0cb10c5d936be665996b03c9e045fe5c",
+    "wof:geomhash":"b62727a272e72833b9103b9408d61f28",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -162,7 +163,7 @@
         }
     ],
     "wof:id":1091712379,
-    "wof:lastmodified":1690866703,
+    "wof:lastmodified":1695886730,
     "wof:name":"Groningen",
     "wof:parent_id":85677341,
     "wof:placetype":"county",

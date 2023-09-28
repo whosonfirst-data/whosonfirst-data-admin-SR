@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.17442,
-    "geom:area_square_m":2146276012.388186,
+    "geom:area_square_m":2146276140.116798,
     "geom:bbox":"-56.33345,5.387026,-55.887085,5.908518",
     "geom:latitude":5.643757,
     "geom:longitude":-56.14473,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"SR.CR.WL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880261,
-    "wof:geomhash":"a95b86b9c926ee6a5ea57fbe5923b420",
+    "wof:geomhash":"ad76d03654ff67a370bfb63372ec0226",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1091712467,
-    "wof:lastmodified":1627522790,
+    "wof:lastmodified":1695886486,
     "wof:name":"Welgelegen",
     "wof:parent_id":85677333,
     "wof:placetype":"county",

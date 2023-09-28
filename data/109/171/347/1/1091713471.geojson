@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.174135,
-    "geom:area_square_m":39175312361.490662,
+    "geom:area_square_m":39175312804.251495,
     "geom:bbox":"-56.181121,2.316707,-53.978763,5.382943",
     "geom:latitude":3.437542,
     "geom:longitude":-54.950817,
@@ -81,9 +81,10 @@
         "hasc:id":"SR.SI.TP",
         "wd:id":"Q2981014"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880302,
-    "wof:geomhash":"6907626c06914356b28f3a5d395f7cf5",
+    "wof:geomhash":"56f9bb62f093a9756daff4e8f269c51a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1091713471,
-    "wof:lastmodified":1690866699,
+    "wof:lastmodified":1695886486,
     "wof:name":"Tapanahony",
     "wof:parent_id":85677323,
     "wof:placetype":"county",

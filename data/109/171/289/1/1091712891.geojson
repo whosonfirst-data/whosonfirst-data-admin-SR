@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040418,
-    "geom:area_square_m":497424289.844971,
+    "geom:area_square_m":497424080.494308,
     "geom:bbox":"-54.350946,5.355047,-54.156244,5.737009",
     "geom:latitude":5.565891,
     "geom:longitude":-54.253999,
@@ -81,9 +81,10 @@
         "hasc:id":"SR.MA.MT",
         "wd:id":"Q1757572"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880279,
-    "wof:geomhash":"e988f99cbf1925f316eae4d202efb83c",
+    "wof:geomhash":"46f20d45beea6663c8090b3e6c72fe0d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1091712891,
-    "wof:lastmodified":1690866695,
+    "wof:lastmodified":1695886426,
     "wof:name":"Moengotapoe",
     "wof:parent_id":85677317,
     "wof:placetype":"county",
