@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.304442,
-    "geom:area_square_m":3745745604.715799,
+    "geom:area_square_m":3745745168.430577,
     "geom:bbox":"-55.97905,5.409757,-55.298017,5.999306",
     "geom:latitude":5.717797,
     "geom:longitude":-55.632588,
@@ -292,17 +292,19 @@
         "gn:id":3383110,
         "gp:id":2346413,
         "hasc:id":"SR.SA",
+        "iso:code":"SR-SA",
         "iso:id":"SR-SA",
         "qs_pg:id":423850,
         "unlc:id":"SR-SA",
         "wd:id":"Q1351157",
         "wk:page":"Saramacca District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d9c03c22d364e7fca03d73d0d8d55054",
+    "wof:geomhash":"951494105f8e7b7be1575db2ee4a11b1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -317,7 +319,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1690866691,
+    "wof:lastmodified":1695884851,
     "wof:name":"Saramacca",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

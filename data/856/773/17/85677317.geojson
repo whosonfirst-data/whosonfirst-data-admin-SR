@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.389005,
-    "geom:area_square_m":4786936772.769646,
+    "geom:area_square_m":4786936550.314844,
     "geom:bbox":"-54.734963,5.227997,-53.982887,5.979249",
     "geom:latitude":5.625227,
     "geom:longitude":-54.362971,
@@ -283,17 +283,19 @@
         "gn:id":3383560,
         "gp:id":2346409,
         "hasc:id":"SR.MA",
+        "iso:code":"SR-MA",
         "iso:id":"SR-MA",
         "qs_pg:id":984093,
         "unlc:id":"SR-MA",
         "wd:id":"Q1140897",
         "wk:page":"Marowijne District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"462603641d5d0246220bbaf5d6babeee",
+    "wof:geomhash":"d04c22f20e794708af22dc548f93dcb2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -308,7 +310,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1690866690,
+    "wof:lastmodified":1695884850,
     "wof:name":"Marowijne",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

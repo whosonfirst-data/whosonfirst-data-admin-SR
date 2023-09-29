@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.461879,
-    "geom:area_square_m":5694746120.676147,
+    "geom:area_square_m":5694745878.20467,
     "geom:bbox":"-56.212972,3.518305,-55.296082,5.105809",
     "geom:latitude":4.335289,
     "geom:longitude":-55.782168,
@@ -87,9 +87,10 @@
         "hasc:id":"SR.SI.BV",
         "wd:id":"Q1983065"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880215,
-    "wof:geomhash":"08c787c684ae8b695e079425da4f5b08",
+    "wof:geomhash":"b1712568fd0c26791f31ce93f6e6a031",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1091711303,
-    "wof:lastmodified":1690866701,
+    "wof:lastmodified":1695886729,
     "wof:name":"Saramacca",
     "wof:parent_id":85677323,
     "wof:placetype":"county",

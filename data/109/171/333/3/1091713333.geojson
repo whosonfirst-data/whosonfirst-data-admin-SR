@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002891,
-    "geom:area_square_m":35568119.96085,
+    "geom:area_square_m":35568031.109813,
     "geom:bbox":"-55.253287,5.72569,-55.191981,5.789158",
     "geom:latitude":5.760028,
     "geom:longitude":-55.222992,
@@ -81,9 +81,10 @@
         "hasc:id":"SR.WA.NG",
         "wd:id":"Q1978021"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880297,
-    "wof:geomhash":"24fd20d38ea27b7f3941c18bed973ae5",
+    "wof:geomhash":"fb5eae81b650c9d6cb1d15602252f069",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1091713333,
-    "wof:lastmodified":1627522789,
+    "wof:lastmodified":1695886485,
     "wof:name":"De Nieuwe Grond",
     "wof:parent_id":85677347,
     "wof:placetype":"county",

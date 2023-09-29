@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070785,
-    "geom:area_square_m":871294778.087541,
+    "geom:area_square_m":871294950.738245,
     "geom:bbox":"-55.471774,5.325283,-55.100537,5.611438",
     "geom:latitude":5.461617,
     "geom:longitude":-55.253924,
@@ -84,9 +84,10 @@
         "hasc:id":"SR.PR.ZD",
         "wd:id":"Q3147913"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880265,
-    "wof:geomhash":"0235749ee1a23e6f9174d4d80e760451",
+    "wof:geomhash":"9a45e7f651d97c238f503b0b936c8782",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1091712577,
-    "wof:lastmodified":1690866696,
+    "wof:lastmodified":1695886486,
     "wof:name":"Zuid",
     "wof:parent_id":85677319,
     "wof:placetype":"county",

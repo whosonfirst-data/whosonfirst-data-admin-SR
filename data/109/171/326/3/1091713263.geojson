@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00094,
-    "geom:area_square_m":11566397.983644,
+    "geom:area_square_m":11566370.253604,
     "geom:bbox":"-55.205732,5.812667,-55.163498,5.84936",
     "geom:latitude":5.828976,
     "geom:longitude":-55.186545,
@@ -98,9 +98,10 @@
     "wof:concordances":{
         "hasc:id":"SR.PM.CP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880294,
-    "wof:geomhash":"84081069a090afa76709a4285fa041ac",
+    "wof:geomhash":"7e61a2e4562b6a3b2d96478e475fe099",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1091713263,
-    "wof:lastmodified":1627522788,
+    "wof:lastmodified":1695886483,
     "wof:name":"Centrum",
     "wof:parent_id":85677337,
     "wof:placetype":"county",

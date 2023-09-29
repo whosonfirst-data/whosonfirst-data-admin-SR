@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.067115,
-    "geom:area_square_m":25483996450.725571,
+    "geom:area_square_m":25483996493.475163,
     "geom:bbox":"-58.070506,3.26213,-56.238165,5.351273",
     "geom:latitude":4.395304,
     "geom:longitude":-57.224883,
@@ -105,9 +105,10 @@
         "hasc:id":"SR.SI.KA",
         "wd:id":"Q2359770"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880212,
-    "wof:geomhash":"2f35aac3a3026f69ea7b00fe4c3b9fe6",
+    "wof:geomhash":"00dd49ed6d474c4813fe7e8569c0667a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1091711225,
-    "wof:lastmodified":1636496743,
+    "wof:lastmodified":1695886730,
     "wof:name":"Kabalebo",
     "wof:parent_id":85677323,
     "wof:placetype":"county",

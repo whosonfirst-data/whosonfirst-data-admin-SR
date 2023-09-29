@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086708,
-    "geom:area_square_m":1067031867.419747,
+    "geom:area_square_m":1067031871.868547,
     "geom:bbox":"-57.339381,5.220251,-56.982402,5.973778",
     "geom:latitude":5.603682,
     "geom:longitude":-57.142087,
@@ -78,9 +78,10 @@
         "hasc:id":"SR.NI.WP",
         "wd:id":"Q512231"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880264,
-    "wof:geomhash":"dbe76fc4ed4a120bddc3965c1ee5a5b7",
+    "wof:geomhash":"0accf7af41aa682b34b6600f5b74ac50",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1091712551,
-    "wof:lastmodified":1690866703,
+    "wof:lastmodified":1695886486,
     "wof:name":"Westelijke Polders",
     "wof:parent_id":85677307,
     "wof:placetype":"county",

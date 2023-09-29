@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034918,
-    "geom:area_square_m":429584767.933605,
+    "geom:area_square_m":429584898.877622,
     "geom:bbox":"-55.357816,5.659633,-55.077664,5.945942",
     "geom:latitude":5.759303,
     "geom:longitude":-55.243799,
@@ -286,17 +286,19 @@
         "gn:id":3382761,
         "gp:id":2346415,
         "hasc:id":"SR.WA",
+        "iso:code":"SR-WA",
         "iso:id":"SR-WA",
         "qs_pg:id":479618,
         "unlc:id":"SR-WA",
         "wd:id":"Q1147524",
         "wk:page":"Wanica District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b512c0110105a0a81f64126c209dd03f",
+    "wof:geomhash":"bf4e0f149be0613917d47d85af9b8b75",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -311,7 +313,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1690866692,
+    "wof:lastmodified":1695884851,
     "wof:name":"Wanica",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

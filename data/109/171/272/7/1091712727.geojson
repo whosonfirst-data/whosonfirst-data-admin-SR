@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.134728,
-    "geom:area_square_m":1657886780.68839,
+    "geom:area_square_m":1657886433.162738,
     "geom:bbox":"-55.97905,5.409757,-55.542251,5.88093",
     "geom:latitude":5.634795,
     "geom:longitude":-55.755125,
@@ -87,9 +87,10 @@
         "hasc:id":"SR.SA.CL",
         "wd:id":"Q1120959"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880272,
-    "wof:geomhash":"b88be6f4acdc175d34e4281af4aeabd4",
+    "wof:geomhash":"ff466cc0dc7ac0b48fd06bf41ee582d9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1091712727,
-    "wof:lastmodified":1690866696,
+    "wof:lastmodified":1695886483,
     "wof:name":"Calcutta",
     "wof:parent_id":85677341,
     "wof:placetype":"county",

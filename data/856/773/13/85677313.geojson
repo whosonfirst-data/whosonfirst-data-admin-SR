@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.597748,
-    "geom:area_square_m":7365596828.795917,
+    "geom:area_square_m":7365596974.93603,
     "geom:bbox":"-55.518358,4.014834,-54.728048,5.367643",
     "geom:latitude":4.76598,
     "geom:longitude":-55.114305,
@@ -289,17 +289,19 @@
         "gn:id":3384481,
         "gp:id":2346406,
         "hasc:id":"SR.BR",
+        "iso:code":"SR-BR",
         "iso:id":"SR-BR",
         "qs_pg:id":423844,
         "unlc:id":"SR-BR",
         "wd:id":"Q847680",
         "wk:page":"Brokopondo District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d7af0815d8858d20dec9b6f1e7a4571f",
+    "wof:geomhash":"3314bdbc453f2a920709122bd39c55e5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -314,7 +316,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1690866692,
+    "wof:lastmodified":1695884851,
     "wof:name":"Brokopondo",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

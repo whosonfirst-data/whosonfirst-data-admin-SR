@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.295063,
-    "geom:area_square_m":15964682665.802471,
+    "geom:area_square_m":15964682430.683323,
     "geom:bbox":"-57.079071,3.631244,-55.661573,5.539855",
     "geom:latitude":4.461384,
     "geom:longitude":-56.327073,
@@ -81,9 +81,10 @@
         "hasc:id":"SR.SI.BC",
         "wd:id":"Q953434"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880280,
-    "wof:geomhash":"7eef02e440c97cdc2a96de032e5cf59d",
+    "wof:geomhash":"c4ff829fd2076a0eac06b3f142193eba",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1091712919,
-    "wof:lastmodified":1690866703,
+    "wof:lastmodified":1695886485,
     "wof:name":"Coppename",
     "wof:parent_id":85677323,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014554,
-    "geom:area_square_m":179021229.733011,
+    "geom:area_square_m":179021345.025791,
     "geom:bbox":"-55.258546,5.776715,-55.100418,5.925109",
     "geom:latitude":5.859887,
     "geom:longitude":-55.186963,
@@ -271,12 +271,14 @@
         "gn:id":3383329,
         "gp:id":2346412,
         "hasc:id":"SR.PM",
+        "iso:code":"SR-PM",
         "iso:id":"SR-PM",
         "qs_pg:id":890088,
         "unlc:id":"SR-PM",
         "wd:id":"Q1130134",
         "wk:page":"Paramaribo District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         890444597
     ],
@@ -284,7 +286,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"71edf5355bb850a5b1ae3c99c6e659a5",
+    "wof:geomhash":"24850e335250fb3ffaceca372957256c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -299,7 +301,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1690866691,
+    "wof:lastmodified":1695884851,
     "wof:name":"Paramaribo",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

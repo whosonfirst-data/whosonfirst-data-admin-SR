@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036997,
-    "geom:area_square_m":455134870.236227,
+    "geom:area_square_m":455134881.773684,
     "geom:bbox":"-54.531157,5.714627,-54.257116,5.881264",
     "geom:latitude":5.794458,
     "geom:longitude":-54.402302,
@@ -90,9 +90,10 @@
         "hasc:id":"SR.MA.WH",
         "wd:id":"Q1318702"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880277,
-    "wof:geomhash":"27ceae310001b07532b98b1b8b0eee38",
+    "wof:geomhash":"dd33f553835e878a6eb03ce0d1ea4958",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1091712845,
-    "wof:lastmodified":1690866701,
+    "wof:lastmodified":1695886427,
     "wof:name":"Wanhatti",
     "wof:parent_id":85677317,
     "wof:placetype":"county",

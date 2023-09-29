@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083372,
-    "geom:area_square_m":1026879426.8084,
+    "geom:area_square_m":1026879522.761302,
     "geom:bbox":"-55.518358,4.768365,-55.218899,5.339348",
     "geom:latitude":5.063555,
     "geom:longitude":-55.355633,
@@ -90,9 +90,10 @@
         "hasc:id":"SR.BR.KW",
         "wd:id":"Q2564453"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880252,
-    "wof:geomhash":"6212e0d195227e7a19fd16b95aeac8f1",
+    "wof:geomhash":"246cc4216e5646737c1afb843de07a2c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1091712207,
-    "wof:lastmodified":1690866695,
+    "wof:lastmodified":1695886426,
     "wof:name":"Kwakoegron",
     "wof:parent_id":85677313,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025445,
-    "geom:area_square_m":312948945.16443,
+    "geom:area_square_m":312948618.565809,
     "geom:bbox":"-57.011391,5.826096,-56.763941,6.006778",
     "geom:latitude":5.932842,
     "geom:longitude":-56.899024,
@@ -78,9 +78,10 @@
         "hasc:id":"SR.NI.OP",
         "wd:id":"Q1757504"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880221,
-    "wof:geomhash":"69a06e13775d0757849ee13a1c0d9a74",
+    "wof:geomhash":"2bf5ef86f6fd63052cfbb9cbf595ec2a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1091711485,
-    "wof:lastmodified":1690866705,
+    "wof:lastmodified":1695886485,
     "wof:name":"Oostelijke Polders",
     "wof:parent_id":85677307,
     "wof:placetype":"county",

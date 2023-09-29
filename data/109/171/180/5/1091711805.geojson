@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004545,
-    "geom:area_square_m":55913206.953967,
+    "geom:area_square_m":55913020.725587,
     "geom:bbox":"-55.197606,5.687883,-55.129801,5.788215",
     "geom:latitude":5.737408,
     "geom:longitude":-55.164795,
@@ -78,9 +78,10 @@
         "hasc:id":"SR.WA.HO",
         "wd:id":"Q5648548"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880235,
-    "wof:geomhash":"e7571d8aa7cabf99705b3ac6d87c9974",
+    "wof:geomhash":"2534838e161bbc32e729f38dbaf7b2ff",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1091711805,
-    "wof:lastmodified":1690866698,
+    "wof:lastmodified":1695886427,
     "wof:name":"Houttuin",
     "wof:parent_id":85677347,
     "wof:placetype":"county",

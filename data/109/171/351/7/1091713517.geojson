@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.548723,
-    "geom:area_square_m":19126686349.448544,
+    "geom:area_square_m":19126686679.93396,
     "geom:bbox":"-57.701542,1.837306,-55.900986,3.778172",
     "geom:latitude":2.803318,
     "geom:longitude":-56.599077,
@@ -81,9 +81,10 @@
         "hasc:id":"SR.SI.CO",
         "wd:id":"Q2785517"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880304,
-    "wof:geomhash":"6fd561af2e09fd4ea13156b09158f0c7",
+    "wof:geomhash":"fc12b15ce490c935b05fb86e200c833a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1091713517,
-    "wof:lastmodified":1690866701,
+    "wof:lastmodified":1695886483,
     "wof:name":"Coeroeni",
     "wof:parent_id":85677323,
     "wof:placetype":"county",

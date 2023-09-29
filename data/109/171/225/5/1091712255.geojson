@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001786,
-    "geom:area_square_m":21968544.019083,
+    "geom:area_square_m":21968542.618544,
     "geom:bbox":"-55.307223,5.810994,-55.231714,5.850213",
     "geom:latitude":5.830093,
     "geom:longitude":-55.275294,
@@ -78,9 +78,10 @@
         "hasc:id":"SR.WA.SP",
         "wd:id":"Q1934017"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880254,
-    "wof:geomhash":"fbe9780583922edb4cd846ce59d6f637",
+    "wof:geomhash":"9f8c6e2d3f44853937d1275641a9c038",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1091712255,
-    "wof:lastmodified":1690866702,
+    "wof:lastmodified":1695886486,
     "wof:name":"Saramacca Polder",
     "wof:parent_id":85677347,
     "wof:placetype":"county",

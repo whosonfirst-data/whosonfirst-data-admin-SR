@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020832,
-    "geom:area_square_m":256286633.151128,
+    "geom:area_square_m":256286812.327074,
     "geom:bbox":"-55.641488,5.677775,-55.502077,5.872454",
     "geom:latitude":5.780528,
     "geom:longitude":-55.581272,
@@ -78,9 +78,10 @@
         "hasc:id":"SR.SA.TK",
         "wd:id":"Q1757260"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880259,
-    "wof:geomhash":"23cde9d6a5c9b75940c54da30e6ee132",
+    "wof:geomhash":"37eb24f6c6801fb4dfe83315ddfd0291",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1091712423,
-    "wof:lastmodified":1690866695,
+    "wof:lastmodified":1695886486,
     "wof:name":"Tijgerkreek",
     "wof:parent_id":85677341,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037225,
-    "geom:area_square_m":457829457.228237,
+    "geom:area_square_m":457829022.242742,
     "geom:bbox":"-55.020912,5.840547,-54.698842,6.00751",
     "geom:latitude":5.928537,
     "geom:longitude":-54.848371,
@@ -84,9 +84,10 @@
         "hasc:id":"SR.CM.BK",
         "wd:id":"Q1757308"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880219,
-    "wof:geomhash":"c6fb9681ac774177c9392e60fd77e4de",
+    "wof:geomhash":"e4bc40a89afa09d783c6f43b28ae68e4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1091711409,
-    "wof:lastmodified":1690866705,
+    "wof:lastmodified":1695886428,
     "wof:name":"Bakki",
     "wof:parent_id":85677329,
     "wof:placetype":"county",

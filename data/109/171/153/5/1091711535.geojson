@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.133582,
-    "geom:area_square_m":1643835688.052603,
+    "geom:area_square_m":1643835614.170151,
     "geom:bbox":"-56.810848,5.325056,-56.453003,5.974583",
     "geom:latitude":5.616366,
     "geom:longitude":-56.657465,
@@ -120,9 +120,10 @@
         "hasc:id":"SR.NI.WN",
         "wd:id":"Q24224"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880223,
-    "wof:geomhash":"894910540b14d7dcc87402b07d9f99e1",
+    "wof:geomhash":"7be94493d1d4bd853b2fab57734c0c8f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1091711535,
-    "wof:lastmodified":1690866700,
+    "wof:lastmodified":1695886427,
     "wof:name":"Wageningen",
     "wof:parent_id":85677307,
     "wof:placetype":"county",

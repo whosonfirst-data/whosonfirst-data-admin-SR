@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.111395,
-    "geom:area_square_m":1371456844.18487,
+    "geom:area_square_m":1371456596.952896,
     "geom:bbox":"-55.016912,4.99462,-54.623314,5.549248",
     "geom:latitude":5.333241,
     "geom:longitude":-54.825854,
@@ -78,9 +78,10 @@
         "hasc:id":"SR.PR.CR",
         "wd:id":"Q1757542"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880229,
-    "wof:geomhash":"73a9f2dd0e0e05463c2521c4e8ec6711",
+    "wof:geomhash":"194431d6bd836ec06e9bad805e7f6a14",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1091711707,
-    "wof:lastmodified":1690866704,
+    "wof:lastmodified":1695886483,
     "wof:name":"Carolina",
     "wof:parent_id":85677319,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04123,
-    "geom:area_square_m":507223594.341629,
+    "geom:area_square_m":507223722.872759,
     "geom:bbox":"-55.034145,5.688189,-54.693247,5.891435",
     "geom:latitude":5.787802,
     "geom:longitude":-54.853111,
@@ -93,9 +93,10 @@
         "hasc:id":"SR.CM.TR",
         "wd:id":"Q2613286"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880255,
-    "wof:geomhash":"4878984578c6b4e27b462edca9a0d0cd",
+    "wof:geomhash":"3b6a140650a2c57d1c43df74a4e9c7b0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1091712287,
-    "wof:lastmodified":1690866696,
+    "wof:lastmodified":1695886426,
     "wof:name":"Tamanredjo",
     "wof:parent_id":85677329,
     "wof:placetype":"county",

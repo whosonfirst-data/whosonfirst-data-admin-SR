@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016702,
-    "geom:area_square_m":205412873.738962,
+    "geom:area_square_m":205413138.680795,
     "geom:bbox":"-55.158779,5.871119,-54.960087,6.016639",
     "geom:latitude":5.957184,
     "geom:longitude":-55.055622,
@@ -84,9 +84,10 @@
         "hasc:id":"SR.CM.MG",
         "wd:id":"Q1757284"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880306,
-    "wof:geomhash":"b0ecd19359c7cff5794f6becaf5c99fa",
+    "wof:geomhash":"874792bbefcf946aab7add09a509aa87",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1091713543,
-    "wof:lastmodified":1690866694,
+    "wof:lastmodified":1695886426,
     "wof:name":"Margaretha",
     "wof:parent_id":85677329,
     "wof:placetype":"county",

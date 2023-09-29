@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002025,
-    "geom:area_square_m":24908658.020302,
+    "geom:area_square_m":24908615.33472,
     "geom:bbox":"-57.00899,5.899051,-56.968653,5.967511",
     "geom:latitude":5.930508,
     "geom:longitude":-56.988027,
@@ -156,9 +156,10 @@
         "hasc:id":"SR.NI.NN",
         "wd:id":"Q738313"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880263,
-    "wof:geomhash":"02962718f667800fd8083f4ae844e242",
+    "wof:geomhash":"9ec7844f908ea3cc650b8391e1b41bf4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -168,7 +169,7 @@
         }
     ],
     "wof:id":1091712507,
-    "wof:lastmodified":1690866697,
+    "wof:lastmodified":1695886730,
     "wof:name":"Nieuw Nickerie",
     "wof:parent_id":85677307,
     "wof:placetype":"county",

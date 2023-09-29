@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03622,
-    "geom:area_square_m":445779312.909812,
+    "geom:area_square_m":445779447.837206,
     "geom:bbox":"-55.193997,5.344274,-54.98168,5.703869",
     "geom:latitude":5.529701,
     "geom:longitude":-55.079605,
@@ -84,9 +84,10 @@
         "hasc:id":"SR.PR.OS",
         "wd:id":"Q599769"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880249,
-    "wof:geomhash":"bd6805273a2213b3edc9c6785bfded38",
+    "wof:geomhash":"e118af461360cf3256ff83042fa24741",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1091712133,
-    "wof:lastmodified":1690866702,
+    "wof:lastmodified":1695886485,
     "wof:name":"Oost",
     "wof:parent_id":85677319,
     "wof:placetype":"county",

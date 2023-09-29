@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058943,
-    "geom:area_square_m":726073295.179355,
+    "geom:area_square_m":726073378.710858,
     "geom:bbox":"-55.299945,4.760518,-55.00099,5.141048",
     "geom:latitude":4.991031,
     "geom:longitude":-55.185062,
@@ -147,9 +147,10 @@
         "hasc:id":"SR.BR.BW",
         "wd:id":"Q927447"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880273,
-    "wof:geomhash":"0fd0eabf037776dcc0071a9d4bfa52c7",
+    "wof:geomhash":"01c54707f523bbd0fbee2bbf0414cf84",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":1091712765,
-    "wof:lastmodified":1690866702,
+    "wof:lastmodified":1695886730,
     "wof:name":"Brownsweg",
     "wof:parent_id":85677313,
     "wof:placetype":"county",

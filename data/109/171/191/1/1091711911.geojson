@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005198,
-    "geom:area_square_m":63939619.282755,
+    "geom:area_square_m":63939629.595195,
     "geom:bbox":"-55.309867,5.831112,-55.233503,5.945942",
     "geom:latitude":5.887118,
     "geom:longitude":-55.278192,
@@ -81,9 +81,10 @@
         "hasc:id":"SR.WA.KT",
         "wd:id":"Q1757289"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880241,
-    "wof:geomhash":"ca45013c6fce09392a79c37d5af1bb3a",
+    "wof:geomhash":"588453091082cbb11bf9021027a30ddc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1091711911,
-    "wof:lastmodified":1690866700,
+    "wof:lastmodified":1695886485,
     "wof:name":"Kwatta",
     "wof:parent_id":85677347,
     "wof:placetype":"county",

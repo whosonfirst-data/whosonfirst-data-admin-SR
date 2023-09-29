@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.442575,
-    "geom:area_square_m":5448676221.772029,
+    "geom:area_square_m":5448676080.488637,
     "geom:bbox":"-56.045398,4.99462,-54.623314,5.703869",
     "geom:latitude":5.349837,
     "geom:longitude":-55.334897,
@@ -286,17 +286,19 @@
         "gn:id":3383337,
         "gp:id":2346411,
         "hasc:id":"SR.PR",
+        "iso:code":"SR-PR",
         "iso:id":"SR-PR",
         "qs_pg:id":1135203,
         "unlc:id":"SR-PR",
         "wd:id":"Q1140891",
         "wk:page":"Para District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c6a79e8273a085da75f9720b2bf12a49",
+    "wof:geomhash":"b877db18e21a0638fa40bfdeb6358c9f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -311,7 +313,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1690866691,
+    "wof:lastmodified":1695884850,
     "wof:name":"Para",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

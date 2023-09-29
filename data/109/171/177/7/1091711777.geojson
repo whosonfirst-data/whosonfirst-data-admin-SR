@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010419,
-    "geom:area_square_m":128172943.866251,
+    "geom:area_square_m":128173229.908442,
     "geom:bbox":"-55.478272,5.767657,-55.302749,5.849852",
     "geom:latitude":5.810109,
     "geom:longitude":-55.382895,
@@ -81,9 +81,10 @@
         "hasc:id":"SR.SA.JK",
         "wd:id":"Q1757522"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880232,
-    "wof:geomhash":"6183f3a398f983418374c005ee98caaa",
+    "wof:geomhash":"ee0f98a65717f7b47ea170a5e560320d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1091711777,
-    "wof:lastmodified":1690866705,
+    "wof:lastmodified":1695886485,
     "wof:name":"Jarikaba",
     "wof:parent_id":85677341,
     "wof:placetype":"county",

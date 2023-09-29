@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.305878,
-    "geom:area_square_m":3763805655.130548,
+    "geom:area_square_m":3763805639.314981,
     "geom:bbox":"-56.603132,5.337658,-55.887085,5.955738",
     "geom:latitude":5.658289,
     "geom:longitude":-56.276327,
@@ -291,17 +291,19 @@
         "gn:id":3384397,
         "gp:id":2346408,
         "hasc:id":"SR.CR",
+        "iso:code":"SR-CR",
         "iso:id":"SR-CR",
         "qs_pg:id":583028,
         "unlc:id":"SR-CR",
         "wd:id":"Q1130141",
         "wk:page":"Coronie District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f2f5991401d552fa5ca1e155f8189137",
+    "wof:geomhash":"deb96095fbb5fc885ecf983b9fb668f6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -316,7 +318,7 @@
     "wof:lang_x_spoken":[
         "nld"
     ],
-    "wof:lastmodified":1690866690,
+    "wof:lastmodified":1695884850,
     "wof:name":"Coronie",
     "wof:parent_id":85632443,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.207707,
-    "geom:area_square_m":2557484451.252079,
+    "geom:area_square_m":2557484383.463986,
     "geom:bbox":"-56.045398,5.008983,-55.341336,5.544976",
     "geom:latitude":5.267691,
     "geom:longitude":-55.68331,
@@ -93,9 +93,10 @@
         "hasc:id":"SR.PR.BP",
         "wd:id":"Q859684"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880228,
-    "wof:geomhash":"033dfdfb178158f4f6d9d9fb21ec770f",
+    "wof:geomhash":"59d07d879a09ebcfd0b0a5fad550a192",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1091711663,
-    "wof:lastmodified":1690866694,
+    "wof:lastmodified":1695886425,
     "wof:name":"Bigi Poika",
     "wof:parent_id":85677319,
     "wof:placetype":"county",

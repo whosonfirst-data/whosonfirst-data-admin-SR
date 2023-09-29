@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006814,
-    "geom:area_square_m":83820149.57283,
+    "geom:area_square_m":83820087.114295,
     "geom:bbox":"-55.069717,5.799768,-54.941455,5.886713",
     "geom:latitude":5.845872,
     "geom:longitude":-55.016592,
@@ -93,9 +93,10 @@
         "hasc:id":"SR.CM.AM",
         "wd:id":"Q1757278"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880239,
-    "wof:geomhash":"6e90d2d820ff73c76542bce29e028792",
+    "wof:geomhash":"d3ae1336e14dd067e03dfc796693a2f1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1091711865,
-    "wof:lastmodified":1690866699,
+    "wof:lastmodified":1695886427,
     "wof:name":"Alkmaar",
     "wof:parent_id":85677329,
     "wof:placetype":"county",

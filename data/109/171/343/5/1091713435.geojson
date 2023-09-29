@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005378,
-    "geom:area_square_m":66162218.168629,
+    "geom:area_square_m":66162218.168633,
     "geom:bbox":"-55.3351535348,5.73914096963,-55.2284337253,5.82147072778",
     "geom:latitude":5.779633,
     "geom:longitude":-55.280562,
@@ -78,9 +78,10 @@
         "hasc:id":"SR.WA.KO",
         "wd:id":"Q1757514"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880301,
-    "wof:geomhash":"f25709caf1ee3bf4e93b16ce02ece560",
+    "wof:geomhash":"228e1a93e8a28444990997a7f5a2831c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1091713435,
-    "wof:lastmodified":1566649879,
+    "wof:lastmodified":1695886428,
     "wof:name":"Koewarasan",
     "wof:parent_id":85677347,
     "wof:placetype":"county",

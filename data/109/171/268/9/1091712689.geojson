@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175572,
-    "geom:area_square_m":2160734279.836148,
+    "geom:area_square_m":2160734157.127412,
     "geom:bbox":"-57.200093,5.275071,-56.700042,5.980417",
     "geom:latitude":5.567218,
     "geom:longitude":-56.929581,
@@ -78,9 +78,10 @@
         "hasc:id":"SR.NI.GH",
         "wd:id":"Q1757533"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880270,
-    "wof:geomhash":"8dea1f5bb75b99646816f106238501eb",
+    "wof:geomhash":"a23e5a0707d6dc93e3f7e9ea5fe6906a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1091712689,
-    "wof:lastmodified":1690866696,
+    "wof:lastmodified":1695886485,
     "wof:name":"Groot Henar",
     "wof:parent_id":85677307,
     "wof:placetype":"county",

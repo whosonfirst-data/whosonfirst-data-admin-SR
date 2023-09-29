@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002925,
-    "geom:area_square_m":35994103.402337,
+    "geom:area_square_m":35994097.360948,
     "geom:bbox":"-55.143102,5.676351,-55.077664,5.755541",
     "geom:latitude":5.70961,
     "geom:longitude":-55.112147,
@@ -126,9 +126,10 @@
         "hasc:id":"SR.WA.DO",
         "wd:id":"Q650018"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880251,
-    "wof:geomhash":"a73b42769ec589f5d5ddd8500cb3c599",
+    "wof:geomhash":"84b39193dbc039ecbee4d2b1aaa0f5de",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1091712161,
-    "wof:lastmodified":1690866694,
+    "wof:lastmodified":1695886426,
     "wof:name":"Domburg",
     "wof:parent_id":85677347,
     "wof:placetype":"county",

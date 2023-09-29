@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117154,
-    "geom:area_square_m":1441513723.915643,
+    "geom:area_square_m":1441513575.122354,
     "geom:bbox":"-56.603132,5.337658,-56.34722,5.955738",
     "geom:latitude":5.681224,
     "geom:longitude":-56.463945,
@@ -78,9 +78,10 @@
         "hasc:id":"SR.CR.JM",
         "wd:id":"Q1757548"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880220,
-    "wof:geomhash":"caef9f13f8d529e524ab7281bbc711f0",
+    "wof:geomhash":"442ed506af3cac62bf8271222033a00d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1091711443,
-    "wof:lastmodified":1690866699,
+    "wof:lastmodified":1695886427,
     "wof:name":"Johanna Maria",
     "wof:parent_id":85677333,
     "wof:placetype":"county",

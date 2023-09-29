@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.093712,
-    "geom:area_square_m":1153184109.949494,
+    "geom:area_square_m":1153184020.335029,
     "geom:bbox":"-55.157112,5.485897,-54.621101,5.828722",
     "geom:latitude":5.627469,
     "geom:longitude":-54.889113,
@@ -111,9 +111,10 @@
         "hasc:id":"SR.CM.MZ",
         "wd:id":"Q1018882"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880243,
-    "wof:geomhash":"84878c53b1c669466fc8947ec85cc625",
+    "wof:geomhash":"d977ec4555bf802a9d00c9204112b42b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1091711959,
-    "wof:lastmodified":1690866694,
+    "wof:lastmodified":1695886426,
     "wof:name":"Meerzorg",
     "wof:parent_id":85677329,
     "wof:placetype":"county",

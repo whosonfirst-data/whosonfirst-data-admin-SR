@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016469,
-    "geom:area_square_m":202660835.337735,
+    "geom:area_square_m":202660835.337743,
     "geom:bbox":"-55.3995723387,5.5604259345,-55.1833116649,5.67288933126",
     "geom:latitude":5.622101,
     "geom:longitude":-55.29334,
@@ -83,9 +83,10 @@
     "wof:concordances":{
         "hasc:id":"SR.PR.ND"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SR",
     "wof:created":1473880268,
-    "wof:geomhash":"585ccb672617a10c43803863ebfe4a18",
+    "wof:geomhash":"1cce5c9a45de378c46a1d085ef53b393",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1091712655,
-    "wof:lastmodified":1566649876,
+    "wof:lastmodified":1695886427,
     "wof:name":"Noord",
     "wof:parent_id":85677319,
     "wof:placetype":"county",
